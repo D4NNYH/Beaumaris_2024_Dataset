@@ -1,0 +1,8093 @@
+-= EXPERIMENT 1 DIRECTORY TREE SUCCESSFULLY CREATED =-
+Nulling Started!
+Peak-to-Peak Optimal Found! Disabling Nulling!
+Minimum Peak-to-Peak: 1272.875000
+Starting Measurements!
+MEASUREMENT STORED!
+ Total Measurements: 0
+MEASUREMENT STORED!
+ Total Measurements: 1
+MEASUREMENT STORED!
+ Total Measurements: 2
+MEASUREMENT STORED!
+ Total Measurements: 3
+MEASUREMENT STORED!
+ Total Measurements: 4
+MEASUREMENT STORED!
+ Total Measurements: 5
+MEASUREMENT STORED!
+ Total Measurements: 6
+MEASUREMENT STORED!
+ Total Measurements: 7
+MEASUREMENT STORED!
+ Total Measurements: 8
+MEASUREMENT STORED!
+ Total Measurements: 9
+MEASUREMENT STORED!
+ Total Measurements: 10
+MEASUREMENT STORED!
+ Total Measurements: 11
+MEASUREMENT STORED!
+ Total Measurements: 12
+MEASUREMENT STORED!
+ Total Measurements: 13
+MEASUREMENT STORED!
+ Total Measurements: 14
+MEASUREMENT STORED!
+ Total Measurements: 15
+MEASUREMENT STORED!
+ Total Measurements: 16
+MEASUREMENT STORED!
+ Total Measurements: 17
+MEASUREMENT STORED!
+ Total Measurements: 18
+MEASUREMENT STORED!
+ Total Measurements: 19
+MEASUREMENT STORED!
+ Total Measurements: 20
+MEASUREMENT STORED!
+ Total Measurements: 21
+MEASUREMENT STORED!
+ Total Measurements: 22
+MEASUREMENT STORED!
+ Total Measurements: 23
+MEASUREMENT STORED!
+ Total Measurements: 24
+MEASUREMENT STORED!
+ Total Measurements: 25
+MEASUREMENT STORED!
+ Total Measurements: 26
+MEASUREMENT STORED!
+ Total Measurements: 27
+MEASUREMENT STORED!
+ Total Measurements: 28
+MEASUREMENT STORED!
+ Total Measurements: 29
+MEASUREMENT STORED!
+ Total Measurements: 30
+MEASUREMENT STORED!
+ Total Measurements: 31
+MEASUREMENT STORED!
+ Total Measurements: 32
+MEASUREMENT STORED!
+ Total Measurements: 33
+MEASUREMENT STORED!
+ Total Measurements: 34
+MEASUREMENT STORED!
+ Total Measurements: 35
+MEASUREMENT STORED!
+ Total Measurements: 36
+MEASUREMENT STORED!
+ Total Measurements: 37
+MEASUREMENT STORED!
+ Total Measurements: 38
+MEASUREMENT STORED!
+ Total Measurements: 39
+MEASUREMENT STORED!
+ Total Measurements: 40
+MEASUREMENT STORED!
+ Total Measurements: 41
+MEASUREMENT STORED!
+ Total Measurements: 42
+MEASUREMENT STORED!
+ Total Measurements: 43
+MEASUREMENT STORED!
+ Total Measurements: 44
+MEASUREMENT STORED!
+ Total Measurements: 45
+MEASUREMENT STORED!
+ Total Measurements: 46
+MEASUREMENT STORED!
+ Total Measurements: 47
+MEASUREMENT STORED!
+ Total Measurements: 48
+MEASUREMENT STORED!
+ Total Measurements: 49
+MEASUREMENT STORED!
+ Total Measurements: 50
+MEASUREMENT STORED!
+ Total Measurements: 51
+MEASUREMENT STORED!
+ Total Measurements: 52
+MEASUREMENT STORED!
+ Total Measurements: 53
+MEASUREMENT STORED!
+ Total Measurements: 54
+MEASUREMENT STORED!
+ Total Measurements: 55
+MEASUREMENT STORED!
+ Total Measurements: 56
+MEASUREMENT STORED!
+ Total Measurements: 57
+MEASUREMENT STORED!
+ Total Measurements: 58
+MEASUREMENT STORED!
+ Total Measurements: 59
+MEASUREMENT STORED!
+ Total Measurements: 60
+MEASUREMENT STORED!
+ Total Measurements: 61
+MEASUREMENT STORED!
+ Total Measurements: 62
+MEASUREMENT STORED!
+ Total Measurements: 63
+MEASUREMENT STORED!
+ Total Measurements: 64
+MEASUREMENT STORED!
+ Total Measurements: 65
+MEASUREMENT STORED!
+ Total Measurements: 66
+MEASUREMENT STORED!
+ Total Measurements: 67
+MEASUREMENT STORED!
+ Total Measurements: 68
+MEASUREMENT STORED!
+ Total Measurements: 69
+MEASUREMENT STORED!
+ Total Measurements: 70
+MEASUREMENT STORED!
+ Total Measurements: 71
+MEASUREMENT STORED!
+ Total Measurements: 72
+MEASUREMENT STORED!
+ Total Measurements: 73
+MEASUREMENT STORED!
+ Total Measurements: 74
+MEASUREMENT STORED!
+ Total Measurements: 75
+MEASUREMENT STORED!
+ Total Measurements: 76
+MEASUREMENT STORED!
+ Total Measurements: 77
+MEASUREMENT STORED!
+ Total Measurements: 78
+MEASUREMENT STORED!
+ Total Measurements: 79
+MEASUREMENT STORED!
+ Total Measurements: 80
+MEASUREMENT STORED!
+ Total Measurements: 81
+MEASUREMENT STORED!
+ Total Measurements: 82
+MEASUREMENT STORED!
+ Total Measurements: 83
+MEASUREMENT STORED!
+ Total Measurements: 84
+MEASUREMENT STORED!
+ Total Measurements: 85
+MEASUREMENT STORED!
+ Total Measurements: 86
+MEASUREMENT STORED!
+ Total Measurements: 87
+MEASUREMENT STORED!
+ Total Measurements: 88
+MEASUREMENT STORED!
+ Total Measurements: 89
+MEASUREMENT STORED!
+ Total Measurements: 90
+MEASUREMENT STORED!
+ Total Measurements: 91
+MEASUREMENT STORED!
+ Total Measurements: 92
+MEASUREMENT STORED!
+ Total Measurements: 93
+MEASUREMENT STORED!
+ Total Measurements: 94
+MEASUREMENT STORED!
+ Total Measurements: 95
+MEASUREMENT STORED!
+ Total Measurements: 96
+MEASUREMENT STORED!
+ Total Measurements: 97
+MEASUREMENT STORED!
+ Total Measurements: 98
+MEASUREMENT STORED!
+ Total Measurements: 99
+MEASUREMENT STORED!
+ Total Measurements: 100
+MEASUREMENT STORED!
+ Total Measurements: 101
+MEASUREMENT STORED!
+ Total Measurements: 102
+MEASUREMENT STORED!
+ Total Measurements: 103
+MEASUREMENT STORED!
+ Total Measurements: 104
+MEASUREMENT STORED!
+ Total Measurements: 105
+MEASUREMENT STORED!
+ Total Measurements: 106
+MEASUREMENT STORED!
+ Total Measurements: 107
+MEASUREMENT STORED!
+ Total Measurements: 108
+MEASUREMENT STORED!
+ Total Measurements: 109
+MEASUREMENT STORED!
+ Total Measurements: 110
+MEASUREMENT STORED!
+ Total Measurements: 111
+MEASUREMENT STORED!
+ Total Measurements: 112
+MEASUREMENT STORED!
+ Total Measurements: 113
+MEASUREMENT STORED!
+ Total Measurements: 114
+MEASUREMENT STORED!
+ Total Measurements: 115
+MEASUREMENT STORED!
+ Total Measurements: 116
+MEASUREMENT STORED!
+ Total Measurements: 117
+MEASUREMENT STORED!
+ Total Measurements: 118
+MEASUREMENT STORED!
+ Total Measurements: 119
+MEASUREMENT STORED!
+ Total Measurements: 120
+MEASUREMENT STORED!
+ Total Measurements: 121
+MEASUREMENT STORED!
+ Total Measurements: 122
+MEASUREMENT STORED!
+ Total Measurements: 123
+MEASUREMENT STORED!
+ Total Measurements: 124
+MEASUREMENT STORED!
+ Total Measurements: 125
+MEASUREMENT STORED!
+ Total Measurements: 126
+MEASUREMENT STORED!
+ Total Measurements: 127
+MEASUREMENT STORED!
+ Total Measurements: 128
+MEASUREMENT STORED!
+ Total Measurements: 129
+MEASUREMENT STORED!
+ Total Measurements: 130
+MEASUREMENT STORED!
+ Total Measurements: 131
+MEASUREMENT STORED!
+ Total Measurements: 132
+MEASUREMENT STORED!
+ Total Measurements: 133
+MEASUREMENT STORED!
+ Total Measurements: 134
+MEASUREMENT STORED!
+ Total Measurements: 135
+MEASUREMENT STORED!
+ Total Measurements: 136
+MEASUREMENT STORED!
+ Total Measurements: 137
+MEASUREMENT STORED!
+ Total Measurements: 138
+MEASUREMENT STORED!
+ Total Measurements: 139
+MEASUREMENT STORED!
+ Total Measurements: 140
+MEASUREMENT STORED!
+ Total Measurements: 141
+MEASUREMENT STORED!
+ Total Measurements: 142
+MEASUREMENT STORED!
+ Total Measurements: 143
+MEASUREMENT STORED!
+ Total Measurements: 144
+MEASUREMENT STORED!
+ Total Measurements: 145
+MEASUREMENT STORED!
+ Total Measurements: 146
+MEASUREMENT STORED!
+ Total Measurements: 147
+MEASUREMENT STORED!
+ Total Measurements: 148
+MEASUREMENT STORED!
+ Total Measurements: 149
+MEASUREMENT STORED!
+ Total Measurements: 150
+MEASUREMENT STORED!
+ Total Measurements: 151
+MEASUREMENT STORED!
+ Total Measurements: 152
+MEASUREMENT STORED!
+ Total Measurements: 153
+MEASUREMENT STORED!
+ Total Measurements: 154
+MEASUREMENT STORED!
+ Total Measurements: 155
+MEASUREMENT STORED!
+ Total Measurements: 156
+MEASUREMENT STORED!
+ Total Measurements: 157
+MEASUREMENT STORED!
+ Total Measurements: 158
+MEASUREMENT STORED!
+ Total Measurements: 159
+MEASUREMENT STORED!
+ Total Measurements: 160
+MEASUREMENT STORED!
+ Total Measurements: 161
+MEASUREMENT STORED!
+ Total Measurements: 162
+MEASUREMENT STORED!
+ Total Measurements: 163
+MEASUREMENT STORED!
+ Total Measurements: 164
+MEASUREMENT STORED!
+ Total Measurements: 165
+MEASUREMENT STORED!
+ Total Measurements: 166
+MEASUREMENT STORED!
+ Total Measurements: 167
+MEASUREMENT STORED!
+ Total Measurements: 168
+MEASUREMENT STORED!
+ Total Measurements: 169
+MEASUREMENT STORED!
+ Total Measurements: 170
+MEASUREMENT STORED!
+ Total Measurements: 171
+MEASUREMENT STORED!
+ Total Measurements: 172
+MEASUREMENT STORED!
+ Total Measurements: 173
+MEASUREMENT STORED!
+ Total Measurements: 174
+MEASUREMENT STORED!
+ Total Measurements: 175
+MEASUREMENT STORED!
+ Total Measurements: 176
+MEASUREMENT STORED!
+ Total Measurements: 177
+MEASUREMENT STORED!
+ Total Measurements: 178
+MEASUREMENT STORED!
+ Total Measurements: 179
+MEASUREMENT STORED!
+ Total Measurements: 180
+MEASUREMENT STORED!
+ Total Measurements: 181
+MEASUREMENT STORED!
+ Total Measurements: 182
+MEASUREMENT STORED!
+ Total Measurements: 183
+MEASUREMENT STORED!
+ Total Measurements: 184
+MEASUREMENT STORED!
+ Total Measurements: 185
+MEASUREMENT STORED!
+ Total Measurements: 186
+MEASUREMENT STORED!
+ Total Measurements: 187
+MEASUREMENT STORED!
+ Total Measurements: 188
+MEASUREMENT STORED!
+ Total Measurements: 189
+MEASUREMENT STORED!
+ Total Measurements: 190
+MEASUREMENT STORED!
+ Total Measurements: 191
+MEASUREMENT STORED!
+ Total Measurements: 192
+MEASUREMENT STORED!
+ Total Measurements: 193
+MEASUREMENT STORED!
+ Total Measurements: 194
+MEASUREMENT STORED!
+ Total Measurements: 195
+MEASUREMENT STORED!
+ Total Measurements: 196
+MEASUREMENT STORED!
+ Total Measurements: 197
+MEASUREMENT STORED!
+ Total Measurements: 198
+MEASUREMENT STORED!
+ Total Measurements: 199
+MEASUREMENT STORED!
+ Total Measurements: 200
+MEASUREMENT STORED!
+ Total Measurements: 201
+MEASUREMENT STORED!
+ Total Measurements: 202
+MEASUREMENT STORED!
+ Total Measurements: 203
+MEASUREMENT STORED!
+ Total Measurements: 204
+MEASUREMENT STORED!
+ Total Measurements: 205
+MEASUREMENT STORED!
+ Total Measurements: 206
+MEASUREMENT STORED!
+ Total Measurements: 207
+MEASUREMENT STORED!
+ Total Measurements: 208
+MEASUREMENT STORED!
+ Total Measurements: 209
+MEASUREMENT STORED!
+ Total Measurements: 210
+MEASUREMENT STORED!
+ Total Measurements: 211
+MEASUREMENT STORED!
+ Total Measurements: 212
+MEASUREMENT STORED!
+ Total Measurements: 213
+MEASUREMENT STORED!
+ Total Measurements: 214
+MEASUREMENT STORED!
+ Total Measurements: 215
+MEASUREMENT STORED!
+ Total Measurements: 216
+MEASUREMENT STORED!
+ Total Measurements: 217
+MEASUREMENT STORED!
+ Total Measurements: 218
+MEASUREMENT STORED!
+ Total Measurements: 219
+MEASUREMENT STORED!
+ Total Measurements: 220
+MEASUREMENT STORED!
+ Total Measurements: 221
+MEASUREMENT STORED!
+ Total Measurements: 222
+MEASUREMENT STORED!
+ Total Measurements: 223
+MEASUREMENT STORED!
+ Total Measurements: 224
+MEASUREMENT STORED!
+ Total Measurements: 225
+MEASUREMENT STORED!
+ Total Measurements: 226
+MEASUREMENT STORED!
+ Total Measurements: 227
+MEASUREMENT STORED!
+ Total Measurements: 228
+MEASUREMENT STORED!
+ Total Measurements: 229
+MEASUREMENT STORED!
+ Total Measurements: 230
+MEASUREMENT STORED!
+ Total Measurements: 231
+MEASUREMENT STORED!
+ Total Measurements: 232
+MEASUREMENT STORED!
+ Total Measurements: 233
+MEASUREMENT STORED!
+ Total Measurements: 234
+MEASUREMENT STORED!
+ Total Measurements: 235
+MEASUREMENT STORED!
+ Total Measurements: 236
+MEASUREMENT STORED!
+ Total Measurements: 237
+MEASUREMENT STORED!
+ Total Measurements: 238
+MEASUREMENT STORED!
+ Total Measurements: 239
+MEASUREMENT STORED!
+ Total Measurements: 240
+MEASUREMENT STORED!
+ Total Measurements: 241
+MEASUREMENT STORED!
+ Total Measurements: 242
+MEASUREMENT STORED!
+ Total Measurements: 243
+MEASUREMENT STORED!
+ Total Measurements: 244
+MEASUREMENT STORED!
+ Total Measurements: 245
+MEASUREMENT STORED!
+ Total Measurements: 246
+MEASUREMENT STORED!
+ Total Measurements: 247
+MEASUREMENT STORED!
+ Total Measurements: 248
+MEASUREMENT STORED!
+ Total Measurements: 249
+MEASUREMENT STORED!
+ Total Measurements: 250
+MEASUREMENT STORED!
+ Total Measurements: 251
+MEASUREMENT STORED!
+ Total Measurements: 252
+MEASUREMENT STORED!
+ Total Measurements: 253
+MEASUREMENT STORED!
+ Total Measurements: 254
+MEASUREMENT STORED!
+ Total Measurements: 255
+MEASUREMENT STORED!
+ Total Measurements: 256
+MEASUREMENT STORED!
+ Total Measurements: 257
+MEASUREMENT STORED!
+ Total Measurements: 258
+MEASUREMENT STORED!
+ Total Measurements: 259
+MEASUREMENT STORED!
+ Total Measurements: 260
+MEASUREMENT STORED!
+ Total Measurements: 261
+MEASUREMENT STORED!
+ Total Measurements: 262
+MEASUREMENT STORED!
+ Total Measurements: 263
+MEASUREMENT STORED!
+ Total Measurements: 264
+MEASUREMENT STORED!
+ Total Measurements: 265
+MEASUREMENT STORED!
+ Total Measurements: 266
+MEASUREMENT STORED!
+ Total Measurements: 267
+MEASUREMENT STORED!
+ Total Measurements: 268
+MEASUREMENT STORED!
+ Total Measurements: 269
+MEASUREMENT STORED!
+ Total Measurements: 270
+MEASUREMENT STORED!
+ Total Measurements: 271
+MEASUREMENT STORED!
+ Total Measurements: 272
+MEASUREMENT STORED!
+ Total Measurements: 273
+MEASUREMENT STORED!
+ Total Measurements: 274
+MEASUREMENT STORED!
+ Total Measurements: 275
+MEASUREMENT STORED!
+ Total Measurements: 276
+MEASUREMENT STORED!
+ Total Measurements: 277
+MEASUREMENT STORED!
+ Total Measurements: 278
+MEASUREMENT STORED!
+ Total Measurements: 279
+MEASUREMENT STORED!
+ Total Measurements: 280
+MEASUREMENT STORED!
+ Total Measurements: 281
+MEASUREMENT STORED!
+ Total Measurements: 282
+MEASUREMENT STORED!
+ Total Measurements: 283
+MEASUREMENT STORED!
+ Total Measurements: 284
+MEASUREMENT STORED!
+ Total Measurements: 285
+MEASUREMENT STORED!
+ Total Measurements: 286
+MEASUREMENT STORED!
+ Total Measurements: 287
+MEASUREMENT STORED!
+ Total Measurements: 288
+MEASUREMENT STORED!
+ Total Measurements: 289
+MEASUREMENT STORED!
+ Total Measurements: 290
+MEASUREMENT STORED!
+ Total Measurements: 291
+MEASUREMENT STORED!
+ Total Measurements: 292
+MEASUREMENT STORED!
+ Total Measurements: 293
+MEASUREMENT STORED!
+ Total Measurements: 294
+MEASUREMENT STORED!
+ Total Measurements: 295
+MEASUREMENT STORED!
+ Total Measurements: 296
+MEASUREMENT STORED!
+ Total Measurements: 297
+MEASUREMENT STORED!
+ Total Measurements: 298
+MEASUREMENT STORED!
+ Total Measurements: 299
+MEASUREMENT STORED!
+ Total Measurements: 300
+MEASUREMENT STORED!
+ Total Measurements: 301
+MEASUREMENT STORED!
+ Total Measurements: 302
+MEASUREMENT STORED!
+ Total Measurements: 303
+MEASUREMENT STORED!
+ Total Measurements: 304
+MEASUREMENT STORED!
+ Total Measurements: 305
+MEASUREMENT STORED!
+ Total Measurements: 306
+MEASUREMENT STORED!
+ Total Measurements: 307
+MEASUREMENT STORED!
+ Total Measurements: 308
+MEASUREMENT STORED!
+ Total Measurements: 309
+MEASUREMENT STORED!
+ Total Measurements: 310
+MEASUREMENT STORED!
+ Total Measurements: 311
+MEASUREMENT STORED!
+ Total Measurements: 312
+MEASUREMENT STORED!
+ Total Measurements: 313
+MEASUREMENT STORED!
+ Total Measurements: 314
+MEASUREMENT STORED!
+ Total Measurements: 315
+MEASUREMENT STORED!
+ Total Measurements: 316
+MEASUREMENT STORED!
+ Total Measurements: 317
+MEASUREMENT STORED!
+ Total Measurements: 318
+MEASUREMENT STORED!
+ Total Measurements: 319
+MEASUREMENT STORED!
+ Total Measurements: 320
+MEASUREMENT STORED!
+ Total Measurements: 321
+MEASUREMENT STORED!
+ Total Measurements: 322
+MEASUREMENT STORED!
+ Total Measurements: 323
+MEASUREMENT STORED!
+ Total Measurements: 324
+MEASUREMENT STORED!
+ Total Measurements: 325
+MEASUREMENT STORED!
+ Total Measurements: 326
+MEASUREMENT STORED!
+ Total Measurements: 327
+MEASUREMENT STORED!
+ Total Measurements: 328
+MEASUREMENT STORED!
+ Total Measurements: 329
+MEASUREMENT STORED!
+ Total Measurements: 330
+MEASUREMENT STORED!
+ Total Measurements: 331
+MEASUREMENT STORED!
+ Total Measurements: 332
+MEASUREMENT STORED!
+ Total Measurements: 333
+MEASUREMENT STORED!
+ Total Measurements: 334
+MEASUREMENT STORED!
+ Total Measurements: 335
+MEASUREMENT STORED!
+ Total Measurements: 336
+MEASUREMENT STORED!
+ Total Measurements: 337
+MEASUREMENT STORED!
+ Total Measurements: 338
+MEASUREMENT STORED!
+ Total Measurements: 339
+MEASUREMENT STORED!
+ Total Measurements: 340
+MEASUREMENT STORED!
+ Total Measurements: 341
+MEASUREMENT STORED!
+ Total Measurements: 342
+MEASUREMENT STORED!
+ Total Measurements: 343
+MEASUREMENT STORED!
+ Total Measurements: 344
+MEASUREMENT STORED!
+ Total Measurements: 345
+MEASUREMENT STORED!
+ Total Measurements: 346
+MEASUREMENT STORED!
+ Total Measurements: 347
+MEASUREMENT STORED!
+ Total Measurements: 348
+MEASUREMENT STORED!
+ Total Measurements: 349
+MEASUREMENT STORED!
+ Total Measurements: 350
+MEASUREMENT STORED!
+ Total Measurements: 351
+MEASUREMENT STORED!
+ Total Measurements: 352
+MEASUREMENT STORED!
+ Total Measurements: 353
+MEASUREMENT STORED!
+ Total Measurements: 354
+MEASUREMENT STORED!
+ Total Measurements: 355
+MEASUREMENT STORED!
+ Total Measurements: 356
+MEASUREMENT STORED!
+ Total Measurements: 357
+MEASUREMENT STORED!
+ Total Measurements: 358
+MEASUREMENT STORED!
+ Total Measurements: 359
+MEASUREMENT STORED!
+ Total Measurements: 360
+MEASUREMENT STORED!
+ Total Measurements: 361
+MEASUREMENT STORED!
+ Total Measurements: 362
+MEASUREMENT STORED!
+ Total Measurements: 363
+MEASUREMENT STORED!
+ Total Measurements: 364
+MEASUREMENT STORED!
+ Total Measurements: 365
+MEASUREMENT STORED!
+ Total Measurements: 366
+MEASUREMENT STORED!
+ Total Measurements: 367
+MEASUREMENT STORED!
+ Total Measurements: 368
+MEASUREMENT STORED!
+ Total Measurements: 369
+MEASUREMENT STORED!
+ Total Measurements: 370
+MEASUREMENT STORED!
+ Total Measurements: 371
+MEASUREMENT STORED!
+ Total Measurements: 372
+MEASUREMENT STORED!
+ Total Measurements: 373
+MEASUREMENT STORED!
+ Total Measurements: 374
+MEASUREMENT STORED!
+ Total Measurements: 375
+MEASUREMENT STORED!
+ Total Measurements: 376
+MEASUREMENT STORED!
+ Total Measurements: 377
+MEASUREMENT STORED!
+ Total Measurements: 378
+MEASUREMENT STORED!
+ Total Measurements: 379
+MEASUREMENT STORED!
+ Total Measurements: 380
+MEASUREMENT STORED!
+ Total Measurements: 381
+MEASUREMENT STORED!
+ Total Measurements: 382
+MEASUREMENT STORED!
+ Total Measurements: 383
+MEASUREMENT STORED!
+ Total Measurements: 384
+MEASUREMENT STORED!
+ Total Measurements: 385
+MEASUREMENT STORED!
+ Total Measurements: 386
+MEASUREMENT STORED!
+ Total Measurements: 387
+MEASUREMENT STORED!
+ Total Measurements: 388
+MEASUREMENT STORED!
+ Total Measurements: 389
+MEASUREMENT STORED!
+ Total Measurements: 390
+MEASUREMENT STORED!
+ Total Measurements: 391
+MEASUREMENT STORED!
+ Total Measurements: 392
+MEASUREMENT STORED!
+ Total Measurements: 393
+MEASUREMENT STORED!
+ Total Measurements: 394
+MEASUREMENT STORED!
+ Total Measurements: 395
+MEASUREMENT STORED!
+ Total Measurements: 396
+MEASUREMENT STORED!
+ Total Measurements: 397
+MEASUREMENT STORED!
+ Total Measurements: 398
+MEASUREMENT STORED!
+ Total Measurements: 399
+MEASUREMENT STORED!
+ Total Measurements: 400
+MEASUREMENT STORED!
+ Total Measurements: 401
+MEASUREMENT STORED!
+ Total Measurements: 402
+MEASUREMENT STORED!
+ Total Measurements: 403
+MEASUREMENT STORED!
+ Total Measurements: 404
+MEASUREMENT STORED!
+ Total Measurements: 405
+MEASUREMENT STORED!
+ Total Measurements: 406
+MEASUREMENT STORED!
+ Total Measurements: 407
+MEASUREMENT STORED!
+ Total Measurements: 408
+MEASUREMENT STORED!
+ Total Measurements: 409
+MEASUREMENT STORED!
+ Total Measurements: 410
+MEASUREMENT STORED!
+ Total Measurements: 411
+MEASUREMENT STORED!
+ Total Measurements: 412
+MEASUREMENT STORED!
+ Total Measurements: 413
+MEASUREMENT STORED!
+ Total Measurements: 414
+MEASUREMENT STORED!
+ Total Measurements: 415
+MEASUREMENT STORED!
+ Total Measurements: 416
+MEASUREMENT STORED!
+ Total Measurements: 417
+MEASUREMENT STORED!
+ Total Measurements: 418
+MEASUREMENT STORED!
+ Total Measurements: 419
+MEASUREMENT STORED!
+ Total Measurements: 420
+MEASUREMENT STORED!
+ Total Measurements: 421
+MEASUREMENT STORED!
+ Total Measurements: 422
+MEASUREMENT STORED!
+ Total Measurements: 423
+MEASUREMENT STORED!
+ Total Measurements: 424
+MEASUREMENT STORED!
+ Total Measurements: 425
+MEASUREMENT STORED!
+ Total Measurements: 426
+MEASUREMENT STORED!
+ Total Measurements: 427
+MEASUREMENT STORED!
+ Total Measurements: 428
+MEASUREMENT STORED!
+ Total Measurements: 429
+MEASUREMENT STORED!
+ Total Measurements: 430
+MEASUREMENT STORED!
+ Total Measurements: 431
+MEASUREMENT STORED!
+ Total Measurements: 432
+MEASUREMENT STORED!
+ Total Measurements: 433
+MEASUREMENT STORED!
+ Total Measurements: 434
+MEASUREMENT STORED!
+ Total Measurements: 435
+MEASUREMENT STORED!
+ Total Measurements: 436
+MEASUREMENT STORED!
+ Total Measurements: 437
+MEASUREMENT STORED!
+ Total Measurements: 438
+MEASUREMENT STORED!
+ Total Measurements: 439
+MEASUREMENT STORED!
+ Total Measurements: 440
+MEASUREMENT STORED!
+ Total Measurements: 441
+MEASUREMENT STORED!
+ Total Measurements: 442
+MEASUREMENT STORED!
+ Total Measurements: 443
+MEASUREMENT STORED!
+ Total Measurements: 444
+MEASUREMENT STORED!
+ Total Measurements: 445
+MEASUREMENT STORED!
+ Total Measurements: 446
+MEASUREMENT STORED!
+ Total Measurements: 447
+MEASUREMENT STORED!
+ Total Measurements: 448
+MEASUREMENT STORED!
+ Total Measurements: 449
+MEASUREMENT STORED!
+ Total Measurements: 450
+MEASUREMENT STORED!
+ Total Measurements: 451
+MEASUREMENT STORED!
+ Total Measurements: 452
+MEASUREMENT STORED!
+ Total Measurements: 453
+MEASUREMENT STORED!
+ Total Measurements: 454
+MEASUREMENT STORED!
+ Total Measurements: 455
+MEASUREMENT STORED!
+ Total Measurements: 456
+MEASUREMENT STORED!
+ Total Measurements: 457
+MEASUREMENT STORED!
+ Total Measurements: 458
+MEASUREMENT STORED!
+ Total Measurements: 459
+MEASUREMENT STORED!
+ Total Measurements: 460
+MEASUREMENT STORED!
+ Total Measurements: 461
+MEASUREMENT STORED!
+ Total Measurements: 462
+MEASUREMENT STORED!
+ Total Measurements: 463
+MEASUREMENT STORED!
+ Total Measurements: 464
+MEASUREMENT STORED!
+ Total Measurements: 465
+MEASUREMENT STORED!
+ Total Measurements: 466
+MEASUREMENT STORED!
+ Total Measurements: 467
+MEASUREMENT STORED!
+ Total Measurements: 468
+MEASUREMENT STORED!
+ Total Measurements: 469
+MEASUREMENT STORED!
+ Total Measurements: 470
+MEASUREMENT STORED!
+ Total Measurements: 471
+MEASUREMENT STORED!
+ Total Measurements: 472
+MEASUREMENT STORED!
+ Total Measurements: 473
+MEASUREMENT STORED!
+ Total Measurements: 474
+MEASUREMENT STORED!
+ Total Measurements: 475
+MEASUREMENT STORED!
+ Total Measurements: 476
+MEASUREMENT STORED!
+ Total Measurements: 477
+MEASUREMENT STORED!
+ Total Measurements: 478
+MEASUREMENT STORED!
+ Total Measurements: 479
+MEASUREMENT STORED!
+ Total Measurements: 480
+MEASUREMENT STORED!
+ Total Measurements: 481
+MEASUREMENT STORED!
+ Total Measurements: 482
+MEASUREMENT STORED!
+ Total Measurements: 483
+MEASUREMENT STORED!
+ Total Measurements: 484
+MEASUREMENT STORED!
+ Total Measurements: 485
+MEASUREMENT STORED!
+ Total Measurements: 486
+MEASUREMENT STORED!
+ Total Measurements: 487
+MEASUREMENT STORED!
+ Total Measurements: 488
+MEASUREMENT STORED!
+ Total Measurements: 489
+MEASUREMENT STORED!
+ Total Measurements: 490
+MEASUREMENT STORED!
+ Total Measurements: 491
+MEASUREMENT STORED!
+ Total Measurements: 492
+MEASUREMENT STORED!
+ Total Measurements: 493
+MEASUREMENT STORED!
+ Total Measurements: 494
+MEASUREMENT STORED!
+ Total Measurements: 495
+MEASUREMENT STORED!
+ Total Measurements: 496
+MEASUREMENT STORED!
+ Total Measurements: 497
+MEASUREMENT STORED!
+ Total Measurements: 498
+MEASUREMENT STORED!
+ Total Measurements: 499
+MEASUREMENT STORED!
+ Total Measurements: 500
+MEASUREMENT STORED!
+ Total Measurements: 501
+MEASUREMENT STORED!
+ Total Measurements: 502
+MEASUREMENT STORED!
+ Total Measurements: 503
+MEASUREMENT STORED!
+ Total Measurements: 504
+MEASUREMENT STORED!
+ Total Measurements: 505
+MEASUREMENT STORED!
+ Total Measurements: 506
+MEASUREMENT STORED!
+ Total Measurements: 507
+MEASUREMENT STORED!
+ Total Measurements: 508
+MEASUREMENT STORED!
+ Total Measurements: 509
+MEASUREMENT STORED!
+ Total Measurements: 510
+MEASUREMENT STORED!
+ Total Measurements: 511
+MEASUREMENT STORED!
+ Total Measurements: 512
+MEASUREMENT STORED!
+ Total Measurements: 513
+MEASUREMENT STORED!
+ Total Measurements: 514
+MEASUREMENT STORED!
+ Total Measurements: 515
+MEASUREMENT STORED!
+ Total Measurements: 516
+MEASUREMENT STORED!
+ Total Measurements: 517
+MEASUREMENT STORED!
+ Total Measurements: 518
+MEASUREMENT STORED!
+ Total Measurements: 519
+MEASUREMENT STORED!
+ Total Measurements: 520
+MEASUREMENT STORED!
+ Total Measurements: 521
+MEASUREMENT STORED!
+ Total Measurements: 522
+MEASUREMENT STORED!
+ Total Measurements: 523
+MEASUREMENT STORED!
+ Total Measurements: 524
+MEASUREMENT STORED!
+ Total Measurements: 525
+MEASUREMENT STORED!
+ Total Measurements: 526
+MEASUREMENT STORED!
+ Total Measurements: 527
+MEASUREMENT STORED!
+ Total Measurements: 528
+MEASUREMENT STORED!
+ Total Measurements: 529
+MEASUREMENT STORED!
+ Total Measurements: 530
+MEASUREMENT STORED!
+ Total Measurements: 531
+MEASUREMENT STORED!
+ Total Measurements: 532
+MEASUREMENT STORED!
+ Total Measurements: 533
+MEASUREMENT STORED!
+ Total Measurements: 534
+MEASUREMENT STORED!
+ Total Measurements: 535
+MEASUREMENT STORED!
+ Total Measurements: 536
+MEASUREMENT STORED!
+ Total Measurements: 537
+MEASUREMENT STORED!
+ Total Measurements: 538
+MEASUREMENT STORED!
+ Total Measurements: 539
+MEASUREMENT STORED!
+ Total Measurements: 540
+MEASUREMENT STORED!
+ Total Measurements: 541
+MEASUREMENT STORED!
+ Total Measurements: 542
+MEASUREMENT STORED!
+ Total Measurements: 543
+MEASUREMENT STORED!
+ Total Measurements: 544
+MEASUREMENT STORED!
+ Total Measurements: 545
+MEASUREMENT STORED!
+ Total Measurements: 546
+MEASUREMENT STORED!
+ Total Measurements: 547
+MEASUREMENT STORED!
+ Total Measurements: 548
+MEASUREMENT STORED!
+ Total Measurements: 549
+MEASUREMENT STORED!
+ Total Measurements: 550
+MEASUREMENT STORED!
+ Total Measurements: 551
+MEASUREMENT STORED!
+ Total Measurements: 552
+MEASUREMENT STORED!
+ Total Measurements: 553
+MEASUREMENT STORED!
+ Total Measurements: 554
+MEASUREMENT STORED!
+ Total Measurements: 555
+MEASUREMENT STORED!
+ Total Measurements: 556
+MEASUREMENT STORED!
+ Total Measurements: 557
+MEASUREMENT STORED!
+ Total Measurements: 558
+MEASUREMENT STORED!
+ Total Measurements: 559
+MEASUREMENT STORED!
+ Total Measurements: 560
+MEASUREMENT STORED!
+ Total Measurements: 561
+MEASUREMENT STORED!
+ Total Measurements: 562
+MEASUREMENT STORED!
+ Total Measurements: 563
+MEASUREMENT STORED!
+ Total Measurements: 564
+MEASUREMENT STORED!
+ Total Measurements: 565
+MEASUREMENT STORED!
+ Total Measurements: 566
+MEASUREMENT STORED!
+ Total Measurements: 567
+MEASUREMENT STORED!
+ Total Measurements: 568
+MEASUREMENT STORED!
+ Total Measurements: 569
+MEASUREMENT STORED!
+ Total Measurements: 570
+MEASUREMENT STORED!
+ Total Measurements: 571
+MEASUREMENT STORED!
+ Total Measurements: 572
+MEASUREMENT STORED!
+ Total Measurements: 573
+MEASUREMENT STORED!
+ Total Measurements: 574
+MEASUREMENT STORED!
+ Total Measurements: 575
+MEASUREMENT STORED!
+ Total Measurements: 576
+MEASUREMENT STORED!
+ Total Measurements: 577
+MEASUREMENT STORED!
+ Total Measurements: 578
+MEASUREMENT STORED!
+ Total Measurements: 579
+MEASUREMENT STORED!
+ Total Measurements: 580
+MEASUREMENT STORED!
+ Total Measurements: 581
+MEASUREMENT STORED!
+ Total Measurements: 582
+MEASUREMENT STORED!
+ Total Measurements: 583
+MEASUREMENT STORED!
+ Total Measurements: 584
+MEASUREMENT STORED!
+ Total Measurements: 585
+MEASUREMENT STORED!
+ Total Measurements: 586
+MEASUREMENT STORED!
+ Total Measurements: 587
+MEASUREMENT STORED!
+ Total Measurements: 588
+MEASUREMENT STORED!
+ Total Measurements: 589
+MEASUREMENT STORED!
+ Total Measurements: 590
+MEASUREMENT STORED!
+ Total Measurements: 591
+MEASUREMENT STORED!
+ Total Measurements: 592
+MEASUREMENT STORED!
+ Total Measurements: 593
+MEASUREMENT STORED!
+ Total Measurements: 594
+MEASUREMENT STORED!
+ Total Measurements: 595
+MEASUREMENT STORED!
+ Total Measurements: 596
+MEASUREMENT STORED!
+ Total Measurements: 597
+MEASUREMENT STORED!
+ Total Measurements: 598
+MEASUREMENT STORED!
+ Total Measurements: 599
+MEASUREMENT STORED!
+ Total Measurements: 600
+MEASUREMENT STORED!
+ Total Measurements: 601
+MEASUREMENT STORED!
+ Total Measurements: 602
+MEASUREMENT STORED!
+ Total Measurements: 603
+MEASUREMENT STORED!
+ Total Measurements: 604
+MEASUREMENT STORED!
+ Total Measurements: 605
+MEASUREMENT STORED!
+ Total Measurements: 606
+MEASUREMENT STORED!
+ Total Measurements: 607
+MEASUREMENT STORED!
+ Total Measurements: 608
+MEASUREMENT STORED!
+ Total Measurements: 609
+MEASUREMENT STORED!
+ Total Measurements: 610
+MEASUREMENT STORED!
+ Total Measurements: 611
+MEASUREMENT STORED!
+ Total Measurements: 612
+MEASUREMENT STORED!
+ Total Measurements: 613
+MEASUREMENT STORED!
+ Total Measurements: 614
+MEASUREMENT STORED!
+ Total Measurements: 615
+MEASUREMENT STORED!
+ Total Measurements: 616
+MEASUREMENT STORED!
+ Total Measurements: 617
+MEASUREMENT STORED!
+ Total Measurements: 618
+MEASUREMENT STORED!
+ Total Measurements: 619
+MEASUREMENT STORED!
+ Total Measurements: 620
+MEASUREMENT STORED!
+ Total Measurements: 621
+MEASUREMENT STORED!
+ Total Measurements: 622
+MEASUREMENT STORED!
+ Total Measurements: 623
+MEASUREMENT STORED!
+ Total Measurements: 624
+MEASUREMENT STORED!
+ Total Measurements: 625
+MEASUREMENT STORED!
+ Total Measurements: 626
+MEASUREMENT STORED!
+ Total Measurements: 627
+MEASUREMENT STORED!
+ Total Measurements: 628
+MEASUREMENT STORED!
+ Total Measurements: 629
+MEASUREMENT STORED!
+ Total Measurements: 630
+MEASUREMENT STORED!
+ Total Measurements: 631
+MEASUREMENT STORED!
+ Total Measurements: 632
+MEASUREMENT STORED!
+ Total Measurements: 633
+MEASUREMENT STORED!
+ Total Measurements: 634
+MEASUREMENT STORED!
+ Total Measurements: 635
+MEASUREMENT STORED!
+ Total Measurements: 636
+MEASUREMENT STORED!
+ Total Measurements: 637
+MEASUREMENT STORED!
+ Total Measurements: 638
+MEASUREMENT STORED!
+ Total Measurements: 639
+MEASUREMENT STORED!
+ Total Measurements: 640
+MEASUREMENT STORED!
+ Total Measurements: 641
+MEASUREMENT STORED!
+ Total Measurements: 642
+MEASUREMENT STORED!
+ Total Measurements: 643
+MEASUREMENT STORED!
+ Total Measurements: 644
+MEASUREMENT STORED!
+ Total Measurements: 645
+MEASUREMENT STORED!
+ Total Measurements: 646
+MEASUREMENT STORED!
+ Total Measurements: 647
+MEASUREMENT STORED!
+ Total Measurements: 648
+MEASUREMENT STORED!
+ Total Measurements: 649
+MEASUREMENT STORED!
+ Total Measurements: 650
+MEASUREMENT STORED!
+ Total Measurements: 651
+MEASUREMENT STORED!
+ Total Measurements: 652
+MEASUREMENT STORED!
+ Total Measurements: 653
+MEASUREMENT STORED!
+ Total Measurements: 654
+MEASUREMENT STORED!
+ Total Measurements: 655
+MEASUREMENT STORED!
+ Total Measurements: 656
+MEASUREMENT STORED!
+ Total Measurements: 657
+MEASUREMENT STORED!
+ Total Measurements: 658
+MEASUREMENT STORED!
+ Total Measurements: 659
+MEASUREMENT STORED!
+ Total Measurements: 660
+MEASUREMENT STORED!
+ Total Measurements: 661
+MEASUREMENT STORED!
+ Total Measurements: 662
+MEASUREMENT STORED!
+ Total Measurements: 663
+MEASUREMENT STORED!
+ Total Measurements: 664
+MEASUREMENT STORED!
+ Total Measurements: 665
+MEASUREMENT STORED!
+ Total Measurements: 666
+MEASUREMENT STORED!
+ Total Measurements: 667
+MEASUREMENT STORED!
+ Total Measurements: 668
+MEASUREMENT STORED!
+ Total Measurements: 669
+MEASUREMENT STORED!
+ Total Measurements: 670
+MEASUREMENT STORED!
+ Total Measurements: 671
+MEASUREMENT STORED!
+ Total Measurements: 672
+MEASUREMENT STORED!
+ Total Measurements: 673
+MEASUREMENT STORED!
+ Total Measurements: 674
+MEASUREMENT STORED!
+ Total Measurements: 675
+MEASUREMENT STORED!
+ Total Measurements: 676
+MEASUREMENT STORED!
+ Total Measurements: 677
+MEASUREMENT STORED!
+ Total Measurements: 678
+MEASUREMENT STORED!
+ Total Measurements: 679
+MEASUREMENT STORED!
+ Total Measurements: 680
+MEASUREMENT STORED!
+ Total Measurements: 681
+MEASUREMENT STORED!
+ Total Measurements: 682
+MEASUREMENT STORED!
+ Total Measurements: 683
+MEASUREMENT STORED!
+ Total Measurements: 684
+MEASUREMENT STORED!
+ Total Measurements: 685
+MEASUREMENT STORED!
+ Total Measurements: 686
+MEASUREMENT STORED!
+ Total Measurements: 687
+MEASUREMENT STORED!
+ Total Measurements: 688
+MEASUREMENT STORED!
+ Total Measurements: 689
+MEASUREMENT STORED!
+ Total Measurements: 690
+MEASUREMENT STORED!
+ Total Measurements: 691
+MEASUREMENT STORED!
+ Total Measurements: 692
+MEASUREMENT STORED!
+ Total Measurements: 693
+MEASUREMENT STORED!
+ Total Measurements: 694
+MEASUREMENT STORED!
+ Total Measurements: 695
+MEASUREMENT STORED!
+ Total Measurements: 696
+MEASUREMENT STORED!
+ Total Measurements: 697
+MEASUREMENT STORED!
+ Total Measurements: 698
+MEASUREMENT STORED!
+ Total Measurements: 699
+MEASUREMENT STORED!
+ Total Measurements: 700
+MEASUREMENT STORED!
+ Total Measurements: 701
+MEASUREMENT STORED!
+ Total Measurements: 702
+MEASUREMENT STORED!
+ Total Measurements: 703
+MEASUREMENT STORED!
+ Total Measurements: 704
+MEASUREMENT STORED!
+ Total Measurements: 705
+MEASUREMENT STORED!
+ Total Measurements: 706
+MEASUREMENT STORED!
+ Total Measurements: 707
+MEASUREMENT STORED!
+ Total Measurements: 708
+MEASUREMENT STORED!
+ Total Measurements: 709
+MEASUREMENT STORED!
+ Total Measurements: 710
+MEASUREMENT STORED!
+ Total Measurements: 711
+MEASUREMENT STORED!
+ Total Measurements: 712
+MEASUREMENT STORED!
+ Total Measurements: 713
+MEASUREMENT STORED!
+ Total Measurements: 714
+MEASUREMENT STORED!
+ Total Measurements: 715
+MEASUREMENT STORED!
+ Total Measurements: 716
+MEASUREMENT STORED!
+ Total Measurements: 717
+MEASUREMENT STORED!
+ Total Measurements: 718
+MEASUREMENT STORED!
+ Total Measurements: 719
+MEASUREMENT STORED!
+ Total Measurements: 720
+MEASUREMENT STORED!
+ Total Measurements: 721
+MEASUREMENT STORED!
+ Total Measurements: 722
+MEASUREMENT STORED!
+ Total Measurements: 723
+MEASUREMENT STORED!
+ Total Measurements: 724
+MEASUREMENT STORED!
+ Total Measurements: 725
+MEASUREMENT STORED!
+ Total Measurements: 726
+MEASUREMENT STORED!
+ Total Measurements: 727
+MEASUREMENT STORED!
+ Total Measurements: 728
+MEASUREMENT STORED!
+ Total Measurements: 729
+MEASUREMENT STORED!
+ Total Measurements: 730
+MEASUREMENT STORED!
+ Total Measurements: 731
+MEASUREMENT STORED!
+ Total Measurements: 732
+MEASUREMENT STORED!
+ Total Measurements: 733
+MEASUREMENT STORED!
+ Total Measurements: 734
+MEASUREMENT STORED!
+ Total Measurements: 735
+MEASUREMENT STORED!
+ Total Measurements: 736
+MEASUREMENT STORED!
+ Total Measurements: 737
+MEASUREMENT STORED!
+ Total Measurements: 738
+MEASUREMENT STORED!
+ Total Measurements: 739
+MEASUREMENT STORED!
+ Total Measurements: 740
+MEASUREMENT STORED!
+ Total Measurements: 741
+MEASUREMENT STORED!
+ Total Measurements: 742
+MEASUREMENT STORED!
+ Total Measurements: 743
+MEASUREMENT STORED!
+ Total Measurements: 744
+MEASUREMENT STORED!
+ Total Measurements: 745
+MEASUREMENT STORED!
+ Total Measurements: 746
+MEASUREMENT STORED!
+ Total Measurements: 747
+MEASUREMENT STORED!
+ Total Measurements: 748
+MEASUREMENT STORED!
+ Total Measurements: 749
+MEASUREMENT STORED!
+ Total Measurements: 750
+MEASUREMENT STORED!
+ Total Measurements: 751
+MEASUREMENT STORED!
+ Total Measurements: 752
+MEASUREMENT STORED!
+ Total Measurements: 753
+MEASUREMENT STORED!
+ Total Measurements: 754
+MEASUREMENT STORED!
+ Total Measurements: 755
+MEASUREMENT STORED!
+ Total Measurements: 756
+MEASUREMENT STORED!
+ Total Measurements: 757
+MEASUREMENT STORED!
+ Total Measurements: 758
+MEASUREMENT STORED!
+ Total Measurements: 759
+MEASUREMENT STORED!
+ Total Measurements: 760
+MEASUREMENT STORED!
+ Total Measurements: 761
+MEASUREMENT STORED!
+ Total Measurements: 762
+MEASUREMENT STORED!
+ Total Measurements: 763
+MEASUREMENT STORED!
+ Total Measurements: 764
+MEASUREMENT STORED!
+ Total Measurements: 765
+MEASUREMENT STORED!
+ Total Measurements: 766
+MEASUREMENT STORED!
+ Total Measurements: 767
+MEASUREMENT STORED!
+ Total Measurements: 768
+MEASUREMENT STORED!
+ Total Measurements: 769
+MEASUREMENT STORED!
+ Total Measurements: 770
+MEASUREMENT STORED!
+ Total Measurements: 771
+MEASUREMENT STORED!
+ Total Measurements: 772
+MEASUREMENT STORED!
+ Total Measurements: 773
+MEASUREMENT STORED!
+ Total Measurements: 774
+MEASUREMENT STORED!
+ Total Measurements: 775
+MEASUREMENT STORED!
+ Total Measurements: 776
+MEASUREMENT STORED!
+ Total Measurements: 777
+MEASUREMENT STORED!
+ Total Measurements: 778
+MEASUREMENT STORED!
+ Total Measurements: 779
+MEASUREMENT STORED!
+ Total Measurements: 780
+MEASUREMENT STORED!
+ Total Measurements: 781
+MEASUREMENT STORED!
+ Total Measurements: 782
+MEASUREMENT STORED!
+ Total Measurements: 783
+MEASUREMENT STORED!
+ Total Measurements: 784
+MEASUREMENT STORED!
+ Total Measurements: 785
+MEASUREMENT STORED!
+ Total Measurements: 786
+MEASUREMENT STORED!
+ Total Measurements: 787
+MEASUREMENT STORED!
+ Total Measurements: 788
+MEASUREMENT STORED!
+ Total Measurements: 789
+MEASUREMENT STORED!
+ Total Measurements: 790
+MEASUREMENT STORED!
+ Total Measurements: 791
+MEASUREMENT STORED!
+ Total Measurements: 792
+MEASUREMENT STORED!
+ Total Measurements: 793
+MEASUREMENT STORED!
+ Total Measurements: 794
+MEASUREMENT STORED!
+ Total Measurements: 795
+MEASUREMENT STORED!
+ Total Measurements: 796
+MEASUREMENT STORED!
+ Total Measurements: 797
+MEASUREMENT STORED!
+ Total Measurements: 798
+MEASUREMENT STORED!
+ Total Measurements: 799
+MEASUREMENT STORED!
+ Total Measurements: 800
+MEASUREMENT STORED!
+ Total Measurements: 801
+MEASUREMENT STORED!
+ Total Measurements: 802
+MEASUREMENT STORED!
+ Total Measurements: 803
+MEASUREMENT STORED!
+ Total Measurements: 804
+MEASUREMENT STORED!
+ Total Measurements: 805
+MEASUREMENT STORED!
+ Total Measurements: 806
+MEASUREMENT STORED!
+ Total Measurements: 807
+MEASUREMENT STORED!
+ Total Measurements: 808
+MEASUREMENT STORED!
+ Total Measurements: 809
+MEASUREMENT STORED!
+ Total Measurements: 810
+MEASUREMENT STORED!
+ Total Measurements: 811
+MEASUREMENT STORED!
+ Total Measurements: 812
+MEASUREMENT STORED!
+ Total Measurements: 813
+MEASUREMENT STORED!
+ Total Measurements: 814
+MEASUREMENT STORED!
+ Total Measurements: 815
+MEASUREMENT STORED!
+ Total Measurements: 816
+MEASUREMENT STORED!
+ Total Measurements: 817
+MEASUREMENT STORED!
+ Total Measurements: 818
+MEASUREMENT STORED!
+ Total Measurements: 819
+MEASUREMENT STORED!
+ Total Measurements: 820
+MEASUREMENT STORED!
+ Total Measurements: 821
+MEASUREMENT STORED!
+ Total Measurements: 822
+MEASUREMENT STORED!
+ Total Measurements: 823
+MEASUREMENT STORED!
+ Total Measurements: 824
+MEASUREMENT STORED!
+ Total Measurements: 825
+MEASUREMENT STORED!
+ Total Measurements: 826
+MEASUREMENT STORED!
+ Total Measurements: 827
+MEASUREMENT STORED!
+ Total Measurements: 828
+MEASUREMENT STORED!
+ Total Measurements: 829
+MEASUREMENT STORED!
+ Total Measurements: 830
+MEASUREMENT STORED!
+ Total Measurements: 831
+MEASUREMENT STORED!
+ Total Measurements: 832
+MEASUREMENT STORED!
+ Total Measurements: 833
+MEASUREMENT STORED!
+ Total Measurements: 834
+MEASUREMENT STORED!
+ Total Measurements: 835
+MEASUREMENT STORED!
+ Total Measurements: 836
+MEASUREMENT STORED!
+ Total Measurements: 837
+MEASUREMENT STORED!
+ Total Measurements: 838
+MEASUREMENT STORED!
+ Total Measurements: 839
+MEASUREMENT STORED!
+ Total Measurements: 840
+MEASUREMENT STORED!
+ Total Measurements: 841
+MEASUREMENT STORED!
+ Total Measurements: 842
+MEASUREMENT STORED!
+ Total Measurements: 843
+MEASUREMENT STORED!
+ Total Measurements: 844
+MEASUREMENT STORED!
+ Total Measurements: 845
+MEASUREMENT STORED!
+ Total Measurements: 846
+MEASUREMENT STORED!
+ Total Measurements: 847
+MEASUREMENT STORED!
+ Total Measurements: 848
+MEASUREMENT STORED!
+ Total Measurements: 849
+MEASUREMENT STORED!
+ Total Measurements: 850
+MEASUREMENT STORED!
+ Total Measurements: 851
+MEASUREMENT STORED!
+ Total Measurements: 852
+MEASUREMENT STORED!
+ Total Measurements: 853
+MEASUREMENT STORED!
+ Total Measurements: 854
+MEASUREMENT STORED!
+ Total Measurements: 855
+MEASUREMENT STORED!
+ Total Measurements: 856
+MEASUREMENT STORED!
+ Total Measurements: 857
+MEASUREMENT STORED!
+ Total Measurements: 858
+MEASUREMENT STORED!
+ Total Measurements: 859
+MEASUREMENT STORED!
+ Total Measurements: 860
+MEASUREMENT STORED!
+ Total Measurements: 861
+MEASUREMENT STORED!
+ Total Measurements: 862
+MEASUREMENT STORED!
+ Total Measurements: 863
+MEASUREMENT STORED!
+ Total Measurements: 864
+MEASUREMENT STORED!
+ Total Measurements: 865
+MEASUREMENT STORED!
+ Total Measurements: 866
+MEASUREMENT STORED!
+ Total Measurements: 867
+MEASUREMENT STORED!
+ Total Measurements: 868
+MEASUREMENT STORED!
+ Total Measurements: 869
+MEASUREMENT STORED!
+ Total Measurements: 870
+MEASUREMENT STORED!
+ Total Measurements: 871
+MEASUREMENT STORED!
+ Total Measurements: 872
+MEASUREMENT STORED!
+ Total Measurements: 873
+MEASUREMENT STORED!
+ Total Measurements: 874
+MEASUREMENT STORED!
+ Total Measurements: 875
+MEASUREMENT STORED!
+ Total Measurements: 876
+MEASUREMENT STORED!
+ Total Measurements: 877
+MEASUREMENT STORED!
+ Total Measurements: 878
+MEASUREMENT STORED!
+ Total Measurements: 879
+MEASUREMENT STORED!
+ Total Measurements: 880
+MEASUREMENT STORED!
+ Total Measurements: 881
+MEASUREMENT STORED!
+ Total Measurements: 882
+MEASUREMENT STORED!
+ Total Measurements: 883
+MEASUREMENT STORED!
+ Total Measurements: 884
+MEASUREMENT STORED!
+ Total Measurements: 885
+MEASUREMENT STORED!
+ Total Measurements: 886
+MEASUREMENT STORED!
+ Total Measurements: 887
+MEASUREMENT STORED!
+ Total Measurements: 888
+MEASUREMENT STORED!
+ Total Measurements: 889
+MEASUREMENT STORED!
+ Total Measurements: 890
+MEASUREMENT STORED!
+ Total Measurements: 891
+MEASUREMENT STORED!
+ Total Measurements: 892
+MEASUREMENT STORED!
+ Total Measurements: 893
+MEASUREMENT STORED!
+ Total Measurements: 894
+MEASUREMENT STORED!
+ Total Measurements: 895
+MEASUREMENT STORED!
+ Total Measurements: 896
+MEASUREMENT STORED!
+ Total Measurements: 897
+MEASUREMENT STORED!
+ Total Measurements: 898
+MEASUREMENT STORED!
+ Total Measurements: 899
+MEASUREMENT STORED!
+ Total Measurements: 900
+MEASUREMENT STORED!
+ Total Measurements: 901
+MEASUREMENT STORED!
+ Total Measurements: 902
+MEASUREMENT STORED!
+ Total Measurements: 903
+MEASUREMENT STORED!
+ Total Measurements: 904
+MEASUREMENT STORED!
+ Total Measurements: 905
+MEASUREMENT STORED!
+ Total Measurements: 906
+MEASUREMENT STORED!
+ Total Measurements: 907
+MEASUREMENT STORED!
+ Total Measurements: 908
+MEASUREMENT STORED!
+ Total Measurements: 909
+MEASUREMENT STORED!
+ Total Measurements: 910
+MEASUREMENT STORED!
+ Total Measurements: 911
+MEASUREMENT STORED!
+ Total Measurements: 912
+MEASUREMENT STORED!
+ Total Measurements: 913
+MEASUREMENT STORED!
+ Total Measurements: 914
+MEASUREMENT STORED!
+ Total Measurements: 915
+MEASUREMENT STORED!
+ Total Measurements: 916
+MEASUREMENT STORED!
+ Total Measurements: 917
+MEASUREMENT STORED!
+ Total Measurements: 918
+MEASUREMENT STORED!
+ Total Measurements: 919
+MEASUREMENT STORED!
+ Total Measurements: 920
+MEASUREMENT STORED!
+ Total Measurements: 921
+MEASUREMENT STORED!
+ Total Measurements: 922
+MEASUREMENT STORED!
+ Total Measurements: 923
+MEASUREMENT STORED!
+ Total Measurements: 924
+MEASUREMENT STORED!
+ Total Measurements: 925
+MEASUREMENT STORED!
+ Total Measurements: 926
+MEASUREMENT STORED!
+ Total Measurements: 927
+MEASUREMENT STORED!
+ Total Measurements: 928
+MEASUREMENT STORED!
+ Total Measurements: 929
+MEASUREMENT STORED!
+ Total Measurements: 930
+MEASUREMENT STORED!
+ Total Measurements: 931
+MEASUREMENT STORED!
+ Total Measurements: 932
+MEASUREMENT STORED!
+ Total Measurements: 933
+MEASUREMENT STORED!
+ Total Measurements: 934
+MEASUREMENT STORED!
+ Total Measurements: 935
+MEASUREMENT STORED!
+ Total Measurements: 936
+MEASUREMENT STORED!
+ Total Measurements: 937
+MEASUREMENT STORED!
+ Total Measurements: 938
+MEASUREMENT STORED!
+ Total Measurements: 939
+MEASUREMENT STORED!
+ Total Measurements: 940
+MEASUREMENT STORED!
+ Total Measurements: 941
+MEASUREMENT STORED!
+ Total Measurements: 942
+MEASUREMENT STORED!
+ Total Measurements: 943
+MEASUREMENT STORED!
+ Total Measurements: 944
+MEASUREMENT STORED!
+ Total Measurements: 945
+MEASUREMENT STORED!
+ Total Measurements: 946
+MEASUREMENT STORED!
+ Total Measurements: 947
+MEASUREMENT STORED!
+ Total Measurements: 948
+MEASUREMENT STORED!
+ Total Measurements: 949
+MEASUREMENT STORED!
+ Total Measurements: 950
+MEASUREMENT STORED!
+ Total Measurements: 951
+MEASUREMENT STORED!
+ Total Measurements: 952
+MEASUREMENT STORED!
+ Total Measurements: 953
+MEASUREMENT STORED!
+ Total Measurements: 954
+MEASUREMENT STORED!
+ Total Measurements: 955
+MEASUREMENT STORED!
+ Total Measurements: 956
+MEASUREMENT STORED!
+ Total Measurements: 957
+MEASUREMENT STORED!
+ Total Measurements: 958
+MEASUREMENT STORED!
+ Total Measurements: 959
+MEASUREMENT STORED!
+ Total Measurements: 960
+MEASUREMENT STORED!
+ Total Measurements: 961
+MEASUREMENT STORED!
+ Total Measurements: 962
+MEASUREMENT STORED!
+ Total Measurements: 963
+MEASUREMENT STORED!
+ Total Measurements: 964
+MEASUREMENT STORED!
+ Total Measurements: 965
+MEASUREMENT STORED!
+ Total Measurements: 966
+MEASUREMENT STORED!
+ Total Measurements: 967
+MEASUREMENT STORED!
+ Total Measurements: 968
+MEASUREMENT STORED!
+ Total Measurements: 969
+MEASUREMENT STORED!
+ Total Measurements: 970
+MEASUREMENT STORED!
+ Total Measurements: 971
+MEASUREMENT STORED!
+ Total Measurements: 972
+MEASUREMENT STORED!
+ Total Measurements: 973
+MEASUREMENT STORED!
+ Total Measurements: 974
+MEASUREMENT STORED!
+ Total Measurements: 975
+MEASUREMENT STORED!
+ Total Measurements: 976
+MEASUREMENT STORED!
+ Total Measurements: 977
+MEASUREMENT STORED!
+ Total Measurements: 978
+MEASUREMENT STORED!
+ Total Measurements: 979
+MEASUREMENT STORED!
+ Total Measurements: 980
+MEASUREMENT STORED!
+ Total Measurements: 981
+MEASUREMENT STORED!
+ Total Measurements: 982
+MEASUREMENT STORED!
+ Total Measurements: 983
+MEASUREMENT STORED!
+ Total Measurements: 984
+MEASUREMENT STORED!
+ Total Measurements: 985
+MEASUREMENT STORED!
+ Total Measurements: 986
+MEASUREMENT STORED!
+ Total Measurements: 987
+MEASUREMENT STORED!
+ Total Measurements: 988
+MEASUREMENT STORED!
+ Total Measurements: 989
+MEASUREMENT STORED!
+ Total Measurements: 990
+MEASUREMENT STORED!
+ Total Measurements: 991
+MEASUREMENT STORED!
+ Total Measurements: 992
+MEASUREMENT STORED!
+ Total Measurements: 993
+MEASUREMENT STORED!
+ Total Measurements: 994
+MEASUREMENT STORED!
+ Total Measurements: 995
+MEASUREMENT STORED!
+ Total Measurements: 996
+MEASUREMENT STORED!
+ Total Measurements: 997
+MEASUREMENT STORED!
+ Total Measurements: 998
+MEASUREMENT STORED!
+ Total Measurements: 999
+MEASUREMENT STORED!
+ Total Measurements: 1000
+MEASUREMENT STORED!
+ Total Measurements: 1001
+MEASUREMENT STORED!
+ Total Measurements: 1002
+MEASUREMENT STORED!
+ Total Measurements: 1003
+MEASUREMENT STORED!
+ Total Measurements: 1004
+MEASUREMENT STORED!
+ Total Measurements: 1005
+MEASUREMENT STORED!
+ Total Measurements: 1006
+MEASUREMENT STORED!
+ Total Measurements: 1007
+MEASUREMENT STORED!
+ Total Measurements: 1008
+MEASUREMENT STORED!
+ Total Measurements: 1009
+MEASUREMENT STORED!
+ Total Measurements: 1010
+MEASUREMENT STORED!
+ Total Measurements: 1011
+MEASUREMENT STORED!
+ Total Measurements: 1012
+MEASUREMENT STORED!
+ Total Measurements: 1013
+MEASUREMENT STORED!
+ Total Measurements: 1014
+MEASUREMENT STORED!
+ Total Measurements: 1015
+MEASUREMENT STORED!
+ Total Measurements: 1016
+MEASUREMENT STORED!
+ Total Measurements: 1017
+MEASUREMENT STORED!
+ Total Measurements: 1018
+MEASUREMENT STORED!
+ Total Measurements: 1019
+MEASUREMENT STORED!
+ Total Measurements: 1020
+MEASUREMENT STORED!
+ Total Measurements: 1021
+MEASUREMENT STORED!
+ Total Measurements: 1022
+MEASUREMENT STORED!
+ Total Measurements: 1023
+MEASUREMENT STORED!
+ Total Measurements: 1024
+MEASUREMENT STORED!
+ Total Measurements: 1025
+MEASUREMENT STORED!
+ Total Measurements: 1026
+MEASUREMENT STORED!
+ Total Measurements: 1027
+MEASUREMENT STORED!
+ Total Measurements: 1028
+MEASUREMENT STORED!
+ Total Measurements: 1029
+MEASUREMENT STORED!
+ Total Measurements: 1030
+MEASUREMENT STORED!
+ Total Measurements: 1031
+MEASUREMENT STORED!
+ Total Measurements: 1032
+MEASUREMENT STORED!
+ Total Measurements: 1033
+MEASUREMENT STORED!
+ Total Measurements: 1034
+MEASUREMENT STORED!
+ Total Measurements: 1035
+MEASUREMENT STORED!
+ Total Measurements: 1036
+MEASUREMENT STORED!
+ Total Measurements: 1037
+MEASUREMENT STORED!
+ Total Measurements: 1038
+MEASUREMENT STORED!
+ Total Measurements: 1039
+MEASUREMENT STORED!
+ Total Measurements: 1040
+MEASUREMENT STORED!
+ Total Measurements: 1041
+MEASUREMENT STORED!
+ Total Measurements: 1042
+MEASUREMENT STORED!
+ Total Measurements: 1043
+MEASUREMENT STORED!
+ Total Measurements: 1044
+MEASUREMENT STORED!
+ Total Measurements: 1045
+MEASUREMENT STORED!
+ Total Measurements: 1046
+MEASUREMENT STORED!
+ Total Measurements: 1047
+MEASUREMENT STORED!
+ Total Measurements: 1048
+MEASUREMENT STORED!
+ Total Measurements: 1049
+MEASUREMENT STORED!
+ Total Measurements: 1050
+MEASUREMENT STORED!
+ Total Measurements: 1051
+MEASUREMENT STORED!
+ Total Measurements: 1052
+MEASUREMENT STORED!
+ Total Measurements: 1053
+MEASUREMENT STORED!
+ Total Measurements: 1054
+MEASUREMENT STORED!
+ Total Measurements: 1055
+MEASUREMENT STORED!
+ Total Measurements: 1056
+MEASUREMENT STORED!
+ Total Measurements: 1057
+MEASUREMENT STORED!
+ Total Measurements: 1058
+MEASUREMENT STORED!
+ Total Measurements: 1059
+MEASUREMENT STORED!
+ Total Measurements: 1060
+MEASUREMENT STORED!
+ Total Measurements: 1061
+MEASUREMENT STORED!
+ Total Measurements: 1062
+MEASUREMENT STORED!
+ Total Measurements: 1063
+MEASUREMENT STORED!
+ Total Measurements: 1064
+MEASUREMENT STORED!
+ Total Measurements: 1065
+MEASUREMENT STORED!
+ Total Measurements: 1066
+MEASUREMENT STORED!
+ Total Measurements: 1067
+MEASUREMENT STORED!
+ Total Measurements: 1068
+MEASUREMENT STORED!
+ Total Measurements: 1069
+MEASUREMENT STORED!
+ Total Measurements: 1070
+MEASUREMENT STORED!
+ Total Measurements: 1071
+MEASUREMENT STORED!
+ Total Measurements: 1072
+MEASUREMENT STORED!
+ Total Measurements: 1073
+MEASUREMENT STORED!
+ Total Measurements: 1074
+MEASUREMENT STORED!
+ Total Measurements: 1075
+MEASUREMENT STORED!
+ Total Measurements: 1076
+MEASUREMENT STORED!
+ Total Measurements: 1077
+MEASUREMENT STORED!
+ Total Measurements: 1078
+MEASUREMENT STORED!
+ Total Measurements: 1079
+MEASUREMENT STORED!
+ Total Measurements: 1080
+MEASUREMENT STORED!
+ Total Measurements: 1081
+MEASUREMENT STORED!
+ Total Measurements: 1082
+MEASUREMENT STORED!
+ Total Measurements: 1083
+MEASUREMENT STORED!
+ Total Measurements: 1084
+MEASUREMENT STORED!
+ Total Measurements: 1085
+MEASUREMENT STORED!
+ Total Measurements: 1086
+MEASUREMENT STORED!
+ Total Measurements: 1087
+MEASUREMENT STORED!
+ Total Measurements: 1088
+MEASUREMENT STORED!
+ Total Measurements: 1089
+MEASUREMENT STORED!
+ Total Measurements: 1090
+MEASUREMENT STORED!
+ Total Measurements: 1091
+MEASUREMENT STORED!
+ Total Measurements: 1092
+MEASUREMENT STORED!
+ Total Measurements: 1093
+MEASUREMENT STORED!
+ Total Measurements: 1094
+MEASUREMENT STORED!
+ Total Measurements: 1095
+MEASUREMENT STORED!
+ Total Measurements: 1096
+MEASUREMENT STORED!
+ Total Measurements: 1097
+MEASUREMENT STORED!
+ Total Measurements: 1098
+MEASUREMENT STORED!
+ Total Measurements: 1099
+MEASUREMENT STORED!
+ Total Measurements: 1100
+MEASUREMENT STORED!
+ Total Measurements: 1101
+MEASUREMENT STORED!
+ Total Measurements: 1102
+MEASUREMENT STORED!
+ Total Measurements: 1103
+MEASUREMENT STORED!
+ Total Measurements: 1104
+MEASUREMENT STORED!
+ Total Measurements: 1105
+MEASUREMENT STORED!
+ Total Measurements: 1106
+MEASUREMENT STORED!
+ Total Measurements: 1107
+MEASUREMENT STORED!
+ Total Measurements: 1108
+MEASUREMENT STORED!
+ Total Measurements: 1109
+MEASUREMENT STORED!
+ Total Measurements: 1110
+MEASUREMENT STORED!
+ Total Measurements: 1111
+MEASUREMENT STORED!
+ Total Measurements: 1112
+MEASUREMENT STORED!
+ Total Measurements: 1113
+MEASUREMENT STORED!
+ Total Measurements: 1114
+MEASUREMENT STORED!
+ Total Measurements: 1115
+MEASUREMENT STORED!
+ Total Measurements: 1116
+MEASUREMENT STORED!
+ Total Measurements: 1117
+MEASUREMENT STORED!
+ Total Measurements: 1118
+MEASUREMENT STORED!
+ Total Measurements: 1119
+MEASUREMENT STORED!
+ Total Measurements: 1120
+MEASUREMENT STORED!
+ Total Measurements: 1121
+MEASUREMENT STORED!
+ Total Measurements: 1122
+MEASUREMENT STORED!
+ Total Measurements: 1123
+MEASUREMENT STORED!
+ Total Measurements: 1124
+MEASUREMENT STORED!
+ Total Measurements: 1125
+MEASUREMENT STORED!
+ Total Measurements: 1126
+MEASUREMENT STORED!
+ Total Measurements: 1127
+MEASUREMENT STORED!
+ Total Measurements: 1128
+MEASUREMENT STORED!
+ Total Measurements: 1129
+MEASUREMENT STORED!
+ Total Measurements: 1130
+MEASUREMENT STORED!
+ Total Measurements: 1131
+MEASUREMENT STORED!
+ Total Measurements: 1132
+MEASUREMENT STORED!
+ Total Measurements: 1133
+MEASUREMENT STORED!
+ Total Measurements: 1134
+MEASUREMENT STORED!
+ Total Measurements: 1135
+MEASUREMENT STORED!
+ Total Measurements: 1136
+MEASUREMENT STORED!
+ Total Measurements: 1137
+MEASUREMENT STORED!
+ Total Measurements: 1138
+MEASUREMENT STORED!
+ Total Measurements: 1139
+MEASUREMENT STORED!
+ Total Measurements: 1140
+MEASUREMENT STORED!
+ Total Measurements: 1141
+MEASUREMENT STORED!
+ Total Measurements: 1142
+MEASUREMENT STORED!
+ Total Measurements: 1143
+MEASUREMENT STORED!
+ Total Measurements: 1144
+MEASUREMENT STORED!
+ Total Measurements: 1145
+MEASUREMENT STORED!
+ Total Measurements: 1146
+MEASUREMENT STORED!
+ Total Measurements: 1147
+MEASUREMENT STORED!
+ Total Measurements: 1148
+MEASUREMENT STORED!
+ Total Measurements: 1149
+MEASUREMENT STORED!
+ Total Measurements: 1150
+MEASUREMENT STORED!
+ Total Measurements: 1151
+MEASUREMENT STORED!
+ Total Measurements: 1152
+MEASUREMENT STORED!
+ Total Measurements: 1153
+MEASUREMENT STORED!
+ Total Measurements: 1154
+MEASUREMENT STORED!
+ Total Measurements: 1155
+MEASUREMENT STORED!
+ Total Measurements: 1156
+MEASUREMENT STORED!
+ Total Measurements: 1157
+MEASUREMENT STORED!
+ Total Measurements: 1158
+MEASUREMENT STORED!
+ Total Measurements: 1159
+MEASUREMENT STORED!
+ Total Measurements: 1160
+MEASUREMENT STORED!
+ Total Measurements: 1161
+MEASUREMENT STORED!
+ Total Measurements: 1162
+MEASUREMENT STORED!
+ Total Measurements: 1163
+MEASUREMENT STORED!
+ Total Measurements: 1164
+MEASUREMENT STORED!
+ Total Measurements: 1165
+MEASUREMENT STORED!
+ Total Measurements: 1166
+MEASUREMENT STORED!
+ Total Measurements: 1167
+MEASUREMENT STORED!
+ Total Measurements: 1168
+MEASUREMENT STORED!
+ Total Measurements: 1169
+MEASUREMENT STORED!
+ Total Measurements: 1170
+MEASUREMENT STORED!
+ Total Measurements: 1171
+MEASUREMENT STORED!
+ Total Measurements: 1172
+MEASUREMENT STORED!
+ Total Measurements: 1173
+MEASUREMENT STORED!
+ Total Measurements: 1174
+MEASUREMENT STORED!
+ Total Measurements: 1175
+MEASUREMENT STORED!
+ Total Measurements: 1176
+MEASUREMENT STORED!
+ Total Measurements: 1177
+MEASUREMENT STORED!
+ Total Measurements: 1178
+MEASUREMENT STORED!
+ Total Measurements: 1179
+MEASUREMENT STORED!
+ Total Measurements: 1180
+MEASUREMENT STORED!
+ Total Measurements: 1181
+MEASUREMENT STORED!
+ Total Measurements: 1182
+MEASUREMENT STORED!
+ Total Measurements: 1183
+MEASUREMENT STORED!
+ Total Measurements: 1184
+MEASUREMENT STORED!
+ Total Measurements: 1185
+MEASUREMENT STORED!
+ Total Measurements: 1186
+MEASUREMENT STORED!
+ Total Measurements: 1187
+MEASUREMENT STORED!
+ Total Measurements: 1188
+MEASUREMENT STORED!
+ Total Measurements: 1189
+MEASUREMENT STORED!
+ Total Measurements: 1190
+MEASUREMENT STORED!
+ Total Measurements: 1191
+MEASUREMENT STORED!
+ Total Measurements: 1192
+MEASUREMENT STORED!
+ Total Measurements: 1193
+MEASUREMENT STORED!
+ Total Measurements: 1194
+MEASUREMENT STORED!
+ Total Measurements: 1195
+MEASUREMENT STORED!
+ Total Measurements: 1196
+MEASUREMENT STORED!
+ Total Measurements: 1197
+MEASUREMENT STORED!
+ Total Measurements: 1198
+MEASUREMENT STORED!
+ Total Measurements: 1199
+MEASUREMENT STORED!
+ Total Measurements: 1200
+MEASUREMENT STORED!
+ Total Measurements: 1201
+MEASUREMENT STORED!
+ Total Measurements: 1202
+MEASUREMENT STORED!
+ Total Measurements: 1203
+MEASUREMENT STORED!
+ Total Measurements: 1204
+MEASUREMENT STORED!
+ Total Measurements: 1205
+MEASUREMENT STORED!
+ Total Measurements: 1206
+MEASUREMENT STORED!
+ Total Measurements: 1207
+MEASUREMENT STORED!
+ Total Measurements: 1208
+MEASUREMENT STORED!
+ Total Measurements: 1209
+MEASUREMENT STORED!
+ Total Measurements: 1210
+MEASUREMENT STORED!
+ Total Measurements: 1211
+MEASUREMENT STORED!
+ Total Measurements: 1212
+MEASUREMENT STORED!
+ Total Measurements: 1213
+MEASUREMENT STORED!
+ Total Measurements: 1214
+MEASUREMENT STORED!
+ Total Measurements: 1215
+MEASUREMENT STORED!
+ Total Measurements: 1216
+MEASUREMENT STORED!
+ Total Measurements: 1217
+MEASUREMENT STORED!
+ Total Measurements: 1218
+MEASUREMENT STORED!
+ Total Measurements: 1219
+MEASUREMENT STORED!
+ Total Measurements: 1220
+MEASUREMENT STORED!
+ Total Measurements: 1221
+MEASUREMENT STORED!
+ Total Measurements: 1222
+MEASUREMENT STORED!
+ Total Measurements: 1223
+MEASUREMENT STORED!
+ Total Measurements: 1224
+MEASUREMENT STORED!
+ Total Measurements: 1225
+MEASUREMENT STORED!
+ Total Measurements: 1226
+MEASUREMENT STORED!
+ Total Measurements: 1227
+MEASUREMENT STORED!
+ Total Measurements: 1228
+MEASUREMENT STORED!
+ Total Measurements: 1229
+MEASUREMENT STORED!
+ Total Measurements: 1230
+MEASUREMENT STORED!
+ Total Measurements: 1231
+MEASUREMENT STORED!
+ Total Measurements: 1232
+MEASUREMENT STORED!
+ Total Measurements: 1233
+MEASUREMENT STORED!
+ Total Measurements: 1234
+MEASUREMENT STORED!
+ Total Measurements: 1235
+MEASUREMENT STORED!
+ Total Measurements: 1236
+MEASUREMENT STORED!
+ Total Measurements: 1237
+MEASUREMENT STORED!
+ Total Measurements: 1238
+MEASUREMENT STORED!
+ Total Measurements: 1239
+MEASUREMENT STORED!
+ Total Measurements: 1240
+MEASUREMENT STORED!
+ Total Measurements: 1241
+MEASUREMENT STORED!
+ Total Measurements: 1242
+MEASUREMENT STORED!
+ Total Measurements: 1243
+MEASUREMENT STORED!
+ Total Measurements: 1244
+MEASUREMENT STORED!
+ Total Measurements: 1245
+MEASUREMENT STORED!
+ Total Measurements: 1246
+MEASUREMENT STORED!
+ Total Measurements: 1247
+MEASUREMENT STORED!
+ Total Measurements: 1248
+MEASUREMENT STORED!
+ Total Measurements: 1249
+MEASUREMENT STORED!
+ Total Measurements: 1250
+MEASUREMENT STORED!
+ Total Measurements: 1251
+MEASUREMENT STORED!
+ Total Measurements: 1252
+MEASUREMENT STORED!
+ Total Measurements: 1253
+MEASUREMENT STORED!
+ Total Measurements: 1254
+MEASUREMENT STORED!
+ Total Measurements: 1255
+MEASUREMENT STORED!
+ Total Measurements: 1256
+MEASUREMENT STORED!
+ Total Measurements: 1257
+MEASUREMENT STORED!
+ Total Measurements: 1258
+MEASUREMENT STORED!
+ Total Measurements: 1259
+MEASUREMENT STORED!
+ Total Measurements: 1260
+MEASUREMENT STORED!
+ Total Measurements: 1261
+MEASUREMENT STORED!
+ Total Measurements: 1262
+MEASUREMENT STORED!
+ Total Measurements: 1263
+MEASUREMENT STORED!
+ Total Measurements: 1264
+MEASUREMENT STORED!
+ Total Measurements: 1265
+MEASUREMENT STORED!
+ Total Measurements: 1266
+MEASUREMENT STORED!
+ Total Measurements: 1267
+MEASUREMENT STORED!
+ Total Measurements: 1268
+MEASUREMENT STORED!
+ Total Measurements: 1269
+MEASUREMENT STORED!
+ Total Measurements: 1270
+MEASUREMENT STORED!
+ Total Measurements: 1271
+MEASUREMENT STORED!
+ Total Measurements: 1272
+MEASUREMENT STORED!
+ Total Measurements: 1273
+MEASUREMENT STORED!
+ Total Measurements: 1274
+MEASUREMENT STORED!
+ Total Measurements: 1275
+MEASUREMENT STORED!
+ Total Measurements: 1276
+MEASUREMENT STORED!
+ Total Measurements: 1277
+MEASUREMENT STORED!
+ Total Measurements: 1278
+MEASUREMENT STORED!
+ Total Measurements: 1279
+MEASUREMENT STORED!
+ Total Measurements: 1280
+MEASUREMENT STORED!
+ Total Measurements: 1281
+MEASUREMENT STORED!
+ Total Measurements: 1282
+MEASUREMENT STORED!
+ Total Measurements: 1283
+MEASUREMENT STORED!
+ Total Measurements: 1284
+MEASUREMENT STORED!
+ Total Measurements: 1285
+MEASUREMENT STORED!
+ Total Measurements: 1286
+MEASUREMENT STORED!
+ Total Measurements: 1287
+MEASUREMENT STORED!
+ Total Measurements: 1288
+MEASUREMENT STORED!
+ Total Measurements: 1289
+MEASUREMENT STORED!
+ Total Measurements: 1290
+MEASUREMENT STORED!
+ Total Measurements: 1291
+MEASUREMENT STORED!
+ Total Measurements: 1292
+MEASUREMENT STORED!
+ Total Measurements: 1293
+MEASUREMENT STORED!
+ Total Measurements: 1294
+MEASUREMENT STORED!
+ Total Measurements: 1295
+MEASUREMENT STORED!
+ Total Measurements: 1296
+MEASUREMENT STORED!
+ Total Measurements: 1297
+MEASUREMENT STORED!
+ Total Measurements: 1298
+MEASUREMENT STORED!
+ Total Measurements: 1299
+MEASUREMENT STORED!
+ Total Measurements: 1300
+MEASUREMENT STORED!
+ Total Measurements: 1301
+MEASUREMENT STORED!
+ Total Measurements: 1302
+MEASUREMENT STORED!
+ Total Measurements: 1303
+MEASUREMENT STORED!
+ Total Measurements: 1304
+MEASUREMENT STORED!
+ Total Measurements: 1305
+MEASUREMENT STORED!
+ Total Measurements: 1306
+MEASUREMENT STORED!
+ Total Measurements: 1307
+MEASUREMENT STORED!
+ Total Measurements: 1308
+MEASUREMENT STORED!
+ Total Measurements: 1309
+MEASUREMENT STORED!
+ Total Measurements: 1310
+MEASUREMENT STORED!
+ Total Measurements: 1311
+MEASUREMENT STORED!
+ Total Measurements: 1312
+MEASUREMENT STORED!
+ Total Measurements: 1313
+MEASUREMENT STORED!
+ Total Measurements: 1314
+MEASUREMENT STORED!
+ Total Measurements: 1315
+MEASUREMENT STORED!
+ Total Measurements: 1316
+MEASUREMENT STORED!
+ Total Measurements: 1317
+MEASUREMENT STORED!
+ Total Measurements: 1318
+MEASUREMENT STORED!
+ Total Measurements: 1319
+MEASUREMENT STORED!
+ Total Measurements: 1320
+MEASUREMENT STORED!
+ Total Measurements: 1321
+MEASUREMENT STORED!
+ Total Measurements: 1322
+MEASUREMENT STORED!
+ Total Measurements: 1323
+MEASUREMENT STORED!
+ Total Measurements: 1324
+MEASUREMENT STORED!
+ Total Measurements: 1325
+MEASUREMENT STORED!
+ Total Measurements: 1326
+MEASUREMENT STORED!
+ Total Measurements: 1327
+MEASUREMENT STORED!
+ Total Measurements: 1328
+MEASUREMENT STORED!
+ Total Measurements: 1329
+MEASUREMENT STORED!
+ Total Measurements: 1330
+MEASUREMENT STORED!
+ Total Measurements: 1331
+MEASUREMENT STORED!
+ Total Measurements: 1332
+MEASUREMENT STORED!
+ Total Measurements: 1333
+MEASUREMENT STORED!
+ Total Measurements: 1334
+MEASUREMENT STORED!
+ Total Measurements: 1335
+MEASUREMENT STORED!
+ Total Measurements: 1336
+MEASUREMENT STORED!
+ Total Measurements: 1337
+MEASUREMENT STORED!
+ Total Measurements: 1338
+MEASUREMENT STORED!
+ Total Measurements: 1339
+MEASUREMENT STORED!
+ Total Measurements: 1340
+MEASUREMENT STORED!
+ Total Measurements: 1341
+MEASUREMENT STORED!
+ Total Measurements: 1342
+MEASUREMENT STORED!
+ Total Measurements: 1343
+MEASUREMENT STORED!
+ Total Measurements: 1344
+MEASUREMENT STORED!
+ Total Measurements: 1345
+MEASUREMENT STORED!
+ Total Measurements: 1346
+MEASUREMENT STORED!
+ Total Measurements: 1347
+MEASUREMENT STORED!
+ Total Measurements: 1348
+MEASUREMENT STORED!
+ Total Measurements: 1349
+MEASUREMENT STORED!
+ Total Measurements: 1350
+MEASUREMENT STORED!
+ Total Measurements: 1351
+MEASUREMENT STORED!
+ Total Measurements: 1352
+MEASUREMENT STORED!
+ Total Measurements: 1353
+MEASUREMENT STORED!
+ Total Measurements: 1354
+MEASUREMENT STORED!
+ Total Measurements: 1355
+MEASUREMENT STORED!
+ Total Measurements: 1356
+MEASUREMENT STORED!
+ Total Measurements: 1357
+MEASUREMENT STORED!
+ Total Measurements: 1358
+MEASUREMENT STORED!
+ Total Measurements: 1359
+MEASUREMENT STORED!
+ Total Measurements: 1360
+MEASUREMENT STORED!
+ Total Measurements: 1361
+MEASUREMENT STORED!
+ Total Measurements: 1362
+MEASUREMENT STORED!
+ Total Measurements: 1363
+MEASUREMENT STORED!
+ Total Measurements: 1364
+MEASUREMENT STORED!
+ Total Measurements: 1365
+MEASUREMENT STORED!
+ Total Measurements: 1366
+MEASUREMENT STORED!
+ Total Measurements: 1367
+MEASUREMENT STORED!
+ Total Measurements: 1368
+MEASUREMENT STORED!
+ Total Measurements: 1369
+MEASUREMENT STORED!
+ Total Measurements: 1370
+MEASUREMENT STORED!
+ Total Measurements: 1371
+MEASUREMENT STORED!
+ Total Measurements: 1372
+MEASUREMENT STORED!
+ Total Measurements: 1373
+MEASUREMENT STORED!
+ Total Measurements: 1374
+MEASUREMENT STORED!
+ Total Measurements: 1375
+MEASUREMENT STORED!
+ Total Measurements: 1376
+MEASUREMENT STORED!
+ Total Measurements: 1377
+MEASUREMENT STORED!
+ Total Measurements: 1378
+MEASUREMENT STORED!
+ Total Measurements: 1379
+MEASUREMENT STORED!
+ Total Measurements: 1380
+MEASUREMENT STORED!
+ Total Measurements: 1381
+MEASUREMENT STORED!
+ Total Measurements: 1382
+MEASUREMENT STORED!
+ Total Measurements: 1383
+MEASUREMENT STORED!
+ Total Measurements: 1384
+MEASUREMENT STORED!
+ Total Measurements: 1385
+MEASUREMENT STORED!
+ Total Measurements: 1386
+MEASUREMENT STORED!
+ Total Measurements: 1387
+MEASUREMENT STORED!
+ Total Measurements: 1388
+MEASUREMENT STORED!
+ Total Measurements: 1389
+MEASUREMENT STORED!
+ Total Measurements: 1390
+MEASUREMENT STORED!
+ Total Measurements: 1391
+MEASUREMENT STORED!
+ Total Measurements: 1392
+MEASUREMENT STORED!
+ Total Measurements: 1393
+MEASUREMENT STORED!
+ Total Measurements: 1394
+MEASUREMENT STORED!
+ Total Measurements: 1395
+MEASUREMENT STORED!
+ Total Measurements: 1396
+MEASUREMENT STORED!
+ Total Measurements: 1397
+MEASUREMENT STORED!
+ Total Measurements: 1398
+MEASUREMENT STORED!
+ Total Measurements: 1399
+MEASUREMENT STORED!
+ Total Measurements: 1400
+MEASUREMENT STORED!
+ Total Measurements: 1401
+MEASUREMENT STORED!
+ Total Measurements: 1402
+MEASUREMENT STORED!
+ Total Measurements: 1403
+MEASUREMENT STORED!
+ Total Measurements: 1404
+MEASUREMENT STORED!
+ Total Measurements: 1405
+MEASUREMENT STORED!
+ Total Measurements: 1406
+MEASUREMENT STORED!
+ Total Measurements: 1407
+MEASUREMENT STORED!
+ Total Measurements: 1408
+MEASUREMENT STORED!
+ Total Measurements: 1409
+MEASUREMENT STORED!
+ Total Measurements: 1410
+MEASUREMENT STORED!
+ Total Measurements: 1411
+MEASUREMENT STORED!
+ Total Measurements: 1412
+MEASUREMENT STORED!
+ Total Measurements: 1413
+MEASUREMENT STORED!
+ Total Measurements: 1414
+MEASUREMENT STORED!
+ Total Measurements: 1415
+MEASUREMENT STORED!
+ Total Measurements: 1416
+MEASUREMENT STORED!
+ Total Measurements: 1417
+MEASUREMENT STORED!
+ Total Measurements: 1418
+MEASUREMENT STORED!
+ Total Measurements: 1419
+MEASUREMENT STORED!
+ Total Measurements: 1420
+MEASUREMENT STORED!
+ Total Measurements: 1421
+MEASUREMENT STORED!
+ Total Measurements: 1422
+MEASUREMENT STORED!
+ Total Measurements: 1423
+MEASUREMENT STORED!
+ Total Measurements: 1424
+MEASUREMENT STORED!
+ Total Measurements: 1425
+MEASUREMENT STORED!
+ Total Measurements: 1426
+MEASUREMENT STORED!
+ Total Measurements: 1427
+MEASUREMENT STORED!
+ Total Measurements: 1428
+MEASUREMENT STORED!
+ Total Measurements: 1429
+MEASUREMENT STORED!
+ Total Measurements: 1430
+MEASUREMENT STORED!
+ Total Measurements: 1431
+MEASUREMENT STORED!
+ Total Measurements: 1432
+MEASUREMENT STORED!
+ Total Measurements: 1433
+MEASUREMENT STORED!
+ Total Measurements: 1434
+MEASUREMENT STORED!
+ Total Measurements: 1435
+MEASUREMENT STORED!
+ Total Measurements: 1436
+MEASUREMENT STORED!
+ Total Measurements: 1437
+MEASUREMENT STORED!
+ Total Measurements: 1438
+MEASUREMENT STORED!
+ Total Measurements: 1439
+MEASUREMENT STORED!
+ Total Measurements: 1440
+MEASUREMENT STORED!
+ Total Measurements: 1441
+MEASUREMENT STORED!
+ Total Measurements: 1442
+MEASUREMENT STORED!
+ Total Measurements: 1443
+MEASUREMENT STORED!
+ Total Measurements: 1444
+MEASUREMENT STORED!
+ Total Measurements: 1445
+MEASUREMENT STORED!
+ Total Measurements: 1446
+MEASUREMENT STORED!
+ Total Measurements: 1447
+MEASUREMENT STORED!
+ Total Measurements: 1448
+MEASUREMENT STORED!
+ Total Measurements: 1449
+MEASUREMENT STORED!
+ Total Measurements: 1450
+MEASUREMENT STORED!
+ Total Measurements: 1451
+MEASUREMENT STORED!
+ Total Measurements: 1452
+MEASUREMENT STORED!
+ Total Measurements: 1453
+MEASUREMENT STORED!
+ Total Measurements: 1454
+MEASUREMENT STORED!
+ Total Measurements: 1455
+MEASUREMENT STORED!
+ Total Measurements: 1456
+MEASUREMENT STORED!
+ Total Measurements: 1457
+MEASUREMENT STORED!
+ Total Measurements: 1458
+MEASUREMENT STORED!
+ Total Measurements: 1459
+MEASUREMENT STORED!
+ Total Measurements: 1460
+MEASUREMENT STORED!
+ Total Measurements: 1461
+MEASUREMENT STORED!
+ Total Measurements: 1462
+MEASUREMENT STORED!
+ Total Measurements: 1463
+MEASUREMENT STORED!
+ Total Measurements: 1464
+MEASUREMENT STORED!
+ Total Measurements: 1465
+MEASUREMENT STORED!
+ Total Measurements: 1466
+MEASUREMENT STORED!
+ Total Measurements: 1467
+MEASUREMENT STORED!
+ Total Measurements: 1468
+MEASUREMENT STORED!
+ Total Measurements: 1469
+MEASUREMENT STORED!
+ Total Measurements: 1470
+MEASUREMENT STORED!
+ Total Measurements: 1471
+MEASUREMENT STORED!
+ Total Measurements: 1472
+MEASUREMENT STORED!
+ Total Measurements: 1473
+MEASUREMENT STORED!
+ Total Measurements: 1474
+MEASUREMENT STORED!
+ Total Measurements: 1475
+MEASUREMENT STORED!
+ Total Measurements: 1476
+MEASUREMENT STORED!
+ Total Measurements: 1477
+MEASUREMENT STORED!
+ Total Measurements: 1478
+MEASUREMENT STORED!
+ Total Measurements: 1479
+MEASUREMENT STORED!
+ Total Measurements: 1480
+MEASUREMENT STORED!
+ Total Measurements: 1481
+MEASUREMENT STORED!
+ Total Measurements: 1482
+MEASUREMENT STORED!
+ Total Measurements: 1483
+MEASUREMENT STORED!
+ Total Measurements: 1484
+MEASUREMENT STORED!
+ Total Measurements: 1485
+MEASUREMENT STORED!
+ Total Measurements: 1486
+MEASUREMENT STORED!
+ Total Measurements: 1487
+MEASUREMENT STORED!
+ Total Measurements: 1488
+MEASUREMENT STORED!
+ Total Measurements: 1489
+MEASUREMENT STORED!
+ Total Measurements: 1490
+MEASUREMENT STORED!
+ Total Measurements: 1491
+MEASUREMENT STORED!
+ Total Measurements: 1492
+MEASUREMENT STORED!
+ Total Measurements: 1493
+MEASUREMENT STORED!
+ Total Measurements: 1494
+MEASUREMENT STORED!
+ Total Measurements: 1495
+MEASUREMENT STORED!
+ Total Measurements: 1496
+MEASUREMENT STORED!
+ Total Measurements: 1497
+MEASUREMENT STORED!
+ Total Measurements: 1498
+MEASUREMENT STORED!
+ Total Measurements: 1499
+MEASUREMENT STORED!
+ Total Measurements: 1500
+MEASUREMENT STORED!
+ Total Measurements: 1501
+MEASUREMENT STORED!
+ Total Measurements: 1502
+MEASUREMENT STORED!
+ Total Measurements: 1503
+MEASUREMENT STORED!
+ Total Measurements: 1504
+MEASUREMENT STORED!
+ Total Measurements: 1505
+MEASUREMENT STORED!
+ Total Measurements: 1506
+MEASUREMENT STORED!
+ Total Measurements: 1507
+MEASUREMENT STORED!
+ Total Measurements: 1508
+MEASUREMENT STORED!
+ Total Measurements: 1509
+MEASUREMENT STORED!
+ Total Measurements: 1510
+MEASUREMENT STORED!
+ Total Measurements: 1511
+MEASUREMENT STORED!
+ Total Measurements: 1512
+MEASUREMENT STORED!
+ Total Measurements: 1513
+MEASUREMENT STORED!
+ Total Measurements: 1514
+MEASUREMENT STORED!
+ Total Measurements: 1515
+MEASUREMENT STORED!
+ Total Measurements: 1516
+MEASUREMENT STORED!
+ Total Measurements: 1517
+MEASUREMENT STORED!
+ Total Measurements: 1518
+MEASUREMENT STORED!
+ Total Measurements: 1519
+MEASUREMENT STORED!
+ Total Measurements: 1520
+MEASUREMENT STORED!
+ Total Measurements: 1521
+MEASUREMENT STORED!
+ Total Measurements: 1522
+MEASUREMENT STORED!
+ Total Measurements: 1523
+MEASUREMENT STORED!
+ Total Measurements: 1524
+MEASUREMENT STORED!
+ Total Measurements: 1525
+MEASUREMENT STORED!
+ Total Measurements: 1526
+MEASUREMENT STORED!
+ Total Measurements: 1527
+MEASUREMENT STORED!
+ Total Measurements: 1528
+MEASUREMENT STORED!
+ Total Measurements: 1529
+MEASUREMENT STORED!
+ Total Measurements: 1530
+MEASUREMENT STORED!
+ Total Measurements: 1531
+MEASUREMENT STORED!
+ Total Measurements: 1532
+MEASUREMENT STORED!
+ Total Measurements: 1533
+MEASUREMENT STORED!
+ Total Measurements: 1534
+MEASUREMENT STORED!
+ Total Measurements: 1535
+MEASUREMENT STORED!
+ Total Measurements: 1536
+MEASUREMENT STORED!
+ Total Measurements: 1537
+MEASUREMENT STORED!
+ Total Measurements: 1538
+MEASUREMENT STORED!
+ Total Measurements: 1539
+MEASUREMENT STORED!
+ Total Measurements: 1540
+MEASUREMENT STORED!
+ Total Measurements: 1541
+MEASUREMENT STORED!
+ Total Measurements: 1542
+MEASUREMENT STORED!
+ Total Measurements: 1543
+MEASUREMENT STORED!
+ Total Measurements: 1544
+MEASUREMENT STORED!
+ Total Measurements: 1545
+MEASUREMENT STORED!
+ Total Measurements: 1546
+MEASUREMENT STORED!
+ Total Measurements: 1547
+MEASUREMENT STORED!
+ Total Measurements: 1548
+MEASUREMENT STORED!
+ Total Measurements: 1549
+MEASUREMENT STORED!
+ Total Measurements: 1550
+MEASUREMENT STORED!
+ Total Measurements: 1551
+MEASUREMENT STORED!
+ Total Measurements: 1552
+MEASUREMENT STORED!
+ Total Measurements: 1553
+MEASUREMENT STORED!
+ Total Measurements: 1554
+MEASUREMENT STORED!
+ Total Measurements: 1555
+MEASUREMENT STORED!
+ Total Measurements: 1556
+MEASUREMENT STORED!
+ Total Measurements: 1557
+MEASUREMENT STORED!
+ Total Measurements: 1558
+MEASUREMENT STORED!
+ Total Measurements: 1559
+MEASUREMENT STORED!
+ Total Measurements: 1560
+MEASUREMENT STORED!
+ Total Measurements: 1561
+MEASUREMENT STORED!
+ Total Measurements: 1562
+MEASUREMENT STORED!
+ Total Measurements: 1563
+MEASUREMENT STORED!
+ Total Measurements: 1564
+MEASUREMENT STORED!
+ Total Measurements: 1565
+MEASUREMENT STORED!
+ Total Measurements: 1566
+MEASUREMENT STORED!
+ Total Measurements: 1567
+MEASUREMENT STORED!
+ Total Measurements: 1568
+MEASUREMENT STORED!
+ Total Measurements: 1569
+MEASUREMENT STORED!
+ Total Measurements: 1570
+MEASUREMENT STORED!
+ Total Measurements: 1571
+MEASUREMENT STORED!
+ Total Measurements: 1572
+MEASUREMENT STORED!
+ Total Measurements: 1573
+MEASUREMENT STORED!
+ Total Measurements: 1574
+MEASUREMENT STORED!
+ Total Measurements: 1575
+MEASUREMENT STORED!
+ Total Measurements: 1576
+MEASUREMENT STORED!
+ Total Measurements: 1577
+MEASUREMENT STORED!
+ Total Measurements: 1578
+MEASUREMENT STORED!
+ Total Measurements: 1579
+MEASUREMENT STORED!
+ Total Measurements: 1580
+MEASUREMENT STORED!
+ Total Measurements: 1581
+MEASUREMENT STORED!
+ Total Measurements: 1582
+MEASUREMENT STORED!
+ Total Measurements: 1583
+MEASUREMENT STORED!
+ Total Measurements: 1584
+MEASUREMENT STORED!
+ Total Measurements: 1585
+MEASUREMENT STORED!
+ Total Measurements: 1586
+MEASUREMENT STORED!
+ Total Measurements: 1587
+MEASUREMENT STORED!
+ Total Measurements: 1588
+MEASUREMENT STORED!
+ Total Measurements: 1589
+MEASUREMENT STORED!
+ Total Measurements: 1590
+MEASUREMENT STORED!
+ Total Measurements: 1591
+MEASUREMENT STORED!
+ Total Measurements: 1592
+MEASUREMENT STORED!
+ Total Measurements: 1593
+MEASUREMENT STORED!
+ Total Measurements: 1594
+MEASUREMENT STORED!
+ Total Measurements: 1595
+MEASUREMENT STORED!
+ Total Measurements: 1596
+MEASUREMENT STORED!
+ Total Measurements: 1597
+MEASUREMENT STORED!
+ Total Measurements: 1598
+MEASUREMENT STORED!
+ Total Measurements: 1599
+MEASUREMENT STORED!
+ Total Measurements: 1600
+MEASUREMENT STORED!
+ Total Measurements: 1601
+MEASUREMENT STORED!
+ Total Measurements: 1602
+MEASUREMENT STORED!
+ Total Measurements: 1603
+MEASUREMENT STORED!
+ Total Measurements: 1604
+MEASUREMENT STORED!
+ Total Measurements: 1605
+MEASUREMENT STORED!
+ Total Measurements: 1606
+MEASUREMENT STORED!
+ Total Measurements: 1607
+MEASUREMENT STORED!
+ Total Measurements: 1608
+MEASUREMENT STORED!
+ Total Measurements: 1609
+MEASUREMENT STORED!
+ Total Measurements: 1610
+MEASUREMENT STORED!
+ Total Measurements: 1611
+MEASUREMENT STORED!
+ Total Measurements: 1612
+MEASUREMENT STORED!
+ Total Measurements: 1613
+MEASUREMENT STORED!
+ Total Measurements: 1614
+MEASUREMENT STORED!
+ Total Measurements: 1615
+MEASUREMENT STORED!
+ Total Measurements: 1616
+MEASUREMENT STORED!
+ Total Measurements: 1617
+MEASUREMENT STORED!
+ Total Measurements: 1618
+MEASUREMENT STORED!
+ Total Measurements: 1619
+MEASUREMENT STORED!
+ Total Measurements: 1620
+MEASUREMENT STORED!
+ Total Measurements: 1621
+MEASUREMENT STORED!
+ Total Measurements: 1622
+MEASUREMENT STORED!
+ Total Measurements: 1623
+MEASUREMENT STORED!
+ Total Measurements: 1624
+MEASUREMENT STORED!
+ Total Measurements: 1625
+MEASUREMENT STORED!
+ Total Measurements: 1626
+MEASUREMENT STORED!
+ Total Measurements: 1627
+MEASUREMENT STORED!
+ Total Measurements: 1628
+MEASUREMENT STORED!
+ Total Measurements: 1629
+MEASUREMENT STORED!
+ Total Measurements: 1630
+MEASUREMENT STORED!
+ Total Measurements: 1631
+MEASUREMENT STORED!
+ Total Measurements: 1632
+MEASUREMENT STORED!
+ Total Measurements: 1633
+MEASUREMENT STORED!
+ Total Measurements: 1634
+MEASUREMENT STORED!
+ Total Measurements: 1635
+MEASUREMENT STORED!
+ Total Measurements: 1636
+MEASUREMENT STORED!
+ Total Measurements: 1637
+MEASUREMENT STORED!
+ Total Measurements: 1638
+MEASUREMENT STORED!
+ Total Measurements: 1639
+MEASUREMENT STORED!
+ Total Measurements: 1640
+MEASUREMENT STORED!
+ Total Measurements: 1641
+MEASUREMENT STORED!
+ Total Measurements: 1642
+MEASUREMENT STORED!
+ Total Measurements: 1643
+MEASUREMENT STORED!
+ Total Measurements: 1644
+MEASUREMENT STORED!
+ Total Measurements: 1645
+MEASUREMENT STORED!
+ Total Measurements: 1646
+MEASUREMENT STORED!
+ Total Measurements: 1647
+MEASUREMENT STORED!
+ Total Measurements: 1648
+MEASUREMENT STORED!
+ Total Measurements: 1649
+MEASUREMENT STORED!
+ Total Measurements: 1650
+MEASUREMENT STORED!
+ Total Measurements: 1651
+MEASUREMENT STORED!
+ Total Measurements: 1652
+MEASUREMENT STORED!
+ Total Measurements: 1653
+MEASUREMENT STORED!
+ Total Measurements: 1654
+MEASUREMENT STORED!
+ Total Measurements: 1655
+MEASUREMENT STORED!
+ Total Measurements: 1656
+MEASUREMENT STORED!
+ Total Measurements: 1657
+MEASUREMENT STORED!
+ Total Measurements: 1658
+MEASUREMENT STORED!
+ Total Measurements: 1659
+MEASUREMENT STORED!
+ Total Measurements: 1660
+MEASUREMENT STORED!
+ Total Measurements: 1661
+MEASUREMENT STORED!
+ Total Measurements: 1662
+MEASUREMENT STORED!
+ Total Measurements: 1663
+MEASUREMENT STORED!
+ Total Measurements: 1664
+MEASUREMENT STORED!
+ Total Measurements: 1665
+MEASUREMENT STORED!
+ Total Measurements: 1666
+MEASUREMENT STORED!
+ Total Measurements: 1667
+MEASUREMENT STORED!
+ Total Measurements: 1668
+MEASUREMENT STORED!
+ Total Measurements: 1669
+MEASUREMENT STORED!
+ Total Measurements: 1670
+MEASUREMENT STORED!
+ Total Measurements: 1671
+MEASUREMENT STORED!
+ Total Measurements: 1672
+MEASUREMENT STORED!
+ Total Measurements: 1673
+MEASUREMENT STORED!
+ Total Measurements: 1674
+MEASUREMENT STORED!
+ Total Measurements: 1675
+MEASUREMENT STORED!
+ Total Measurements: 1676
+MEASUREMENT STORED!
+ Total Measurements: 1677
+MEASUREMENT STORED!
+ Total Measurements: 1678
+MEASUREMENT STORED!
+ Total Measurements: 1679
+MEASUREMENT STORED!
+ Total Measurements: 1680
+MEASUREMENT STORED!
+ Total Measurements: 1681
+MEASUREMENT STORED!
+ Total Measurements: 1682
+MEASUREMENT STORED!
+ Total Measurements: 1683
+MEASUREMENT STORED!
+ Total Measurements: 1684
+MEASUREMENT STORED!
+ Total Measurements: 1685
+MEASUREMENT STORED!
+ Total Measurements: 1686
+MEASUREMENT STORED!
+ Total Measurements: 1687
+MEASUREMENT STORED!
+ Total Measurements: 1688
+MEASUREMENT STORED!
+ Total Measurements: 1689
+MEASUREMENT STORED!
+ Total Measurements: 1690
+MEASUREMENT STORED!
+ Total Measurements: 1691
+MEASUREMENT STORED!
+ Total Measurements: 1692
+MEASUREMENT STORED!
+ Total Measurements: 1693
+MEASUREMENT STORED!
+ Total Measurements: 1694
+MEASUREMENT STORED!
+ Total Measurements: 1695
+MEASUREMENT STORED!
+ Total Measurements: 1696
+MEASUREMENT STORED!
+ Total Measurements: 1697
+MEASUREMENT STORED!
+ Total Measurements: 1698
+MEASUREMENT STORED!
+ Total Measurements: 1699
+MEASUREMENT STORED!
+ Total Measurements: 1700
+MEASUREMENT STORED!
+ Total Measurements: 1701
+MEASUREMENT STORED!
+ Total Measurements: 1702
+MEASUREMENT STORED!
+ Total Measurements: 1703
+MEASUREMENT STORED!
+ Total Measurements: 1704
+MEASUREMENT STORED!
+ Total Measurements: 1705
+MEASUREMENT STORED!
+ Total Measurements: 1706
+MEASUREMENT STORED!
+ Total Measurements: 1707
+MEASUREMENT STORED!
+ Total Measurements: 1708
+MEASUREMENT STORED!
+ Total Measurements: 1709
+MEASUREMENT STORED!
+ Total Measurements: 1710
+MEASUREMENT STORED!
+ Total Measurements: 1711
+MEASUREMENT STORED!
+ Total Measurements: 1712
+MEASUREMENT STORED!
+ Total Measurements: 1713
+MEASUREMENT STORED!
+ Total Measurements: 1714
+MEASUREMENT STORED!
+ Total Measurements: 1715
+MEASUREMENT STORED!
+ Total Measurements: 1716
+MEASUREMENT STORED!
+ Total Measurements: 1717
+MEASUREMENT STORED!
+ Total Measurements: 1718
+MEASUREMENT STORED!
+ Total Measurements: 1719
+MEASUREMENT STORED!
+ Total Measurements: 1720
+MEASUREMENT STORED!
+ Total Measurements: 1721
+MEASUREMENT STORED!
+ Total Measurements: 1722
+MEASUREMENT STORED!
+ Total Measurements: 1723
+MEASUREMENT STORED!
+ Total Measurements: 1724
+MEASUREMENT STORED!
+ Total Measurements: 1725
+MEASUREMENT STORED!
+ Total Measurements: 1726
+MEASUREMENT STORED!
+ Total Measurements: 1727
+MEASUREMENT STORED!
+ Total Measurements: 1728
+MEASUREMENT STORED!
+ Total Measurements: 1729
+MEASUREMENT STORED!
+ Total Measurements: 1730
+MEASUREMENT STORED!
+ Total Measurements: 1731
+MEASUREMENT STORED!
+ Total Measurements: 1732
+MEASUREMENT STORED!
+ Total Measurements: 1733
+MEASUREMENT STORED!
+ Total Measurements: 1734
+MEASUREMENT STORED!
+ Total Measurements: 1735
+MEASUREMENT STORED!
+ Total Measurements: 1736
+MEASUREMENT STORED!
+ Total Measurements: 1737
+MEASUREMENT STORED!
+ Total Measurements: 1738
+MEASUREMENT STORED!
+ Total Measurements: 1739
+MEASUREMENT STORED!
+ Total Measurements: 1740
+MEASUREMENT STORED!
+ Total Measurements: 1741
+MEASUREMENT STORED!
+ Total Measurements: 1742
+MEASUREMENT STORED!
+ Total Measurements: 1743
+MEASUREMENT STORED!
+ Total Measurements: 1744
+MEASUREMENT STORED!
+ Total Measurements: 1745
+MEASUREMENT STORED!
+ Total Measurements: 1746
+MEASUREMENT STORED!
+ Total Measurements: 1747
+MEASUREMENT STORED!
+ Total Measurements: 1748
+MEASUREMENT STORED!
+ Total Measurements: 1749
+MEASUREMENT STORED!
+ Total Measurements: 1750
+MEASUREMENT STORED!
+ Total Measurements: 1751
+MEASUREMENT STORED!
+ Total Measurements: 1752
+MEASUREMENT STORED!
+ Total Measurements: 1753
+MEASUREMENT STORED!
+ Total Measurements: 1754
+MEASUREMENT STORED!
+ Total Measurements: 1755
+MEASUREMENT STORED!
+ Total Measurements: 1756
+MEASUREMENT STORED!
+ Total Measurements: 1757
+MEASUREMENT STORED!
+ Total Measurements: 1758
+MEASUREMENT STORED!
+ Total Measurements: 1759
+MEASUREMENT STORED!
+ Total Measurements: 1760
+MEASUREMENT STORED!
+ Total Measurements: 1761
+MEASUREMENT STORED!
+ Total Measurements: 1762
+MEASUREMENT STORED!
+ Total Measurements: 1763
+MEASUREMENT STORED!
+ Total Measurements: 1764
+MEASUREMENT STORED!
+ Total Measurements: 1765
+MEASUREMENT STORED!
+ Total Measurements: 1766
+MEASUREMENT STORED!
+ Total Measurements: 1767
+MEASUREMENT STORED!
+ Total Measurements: 1768
+MEASUREMENT STORED!
+ Total Measurements: 1769
+MEASUREMENT STORED!
+ Total Measurements: 1770
+MEASUREMENT STORED!
+ Total Measurements: 1771
+MEASUREMENT STORED!
+ Total Measurements: 1772
+MEASUREMENT STORED!
+ Total Measurements: 1773
+MEASUREMENT STORED!
+ Total Measurements: 1774
+MEASUREMENT STORED!
+ Total Measurements: 1775
+MEASUREMENT STORED!
+ Total Measurements: 1776
+MEASUREMENT STORED!
+ Total Measurements: 1777
+MEASUREMENT STORED!
+ Total Measurements: 1778
+MEASUREMENT STORED!
+ Total Measurements: 1779
+MEASUREMENT STORED!
+ Total Measurements: 1780
+MEASUREMENT STORED!
+ Total Measurements: 1781
+MEASUREMENT STORED!
+ Total Measurements: 1782
+MEASUREMENT STORED!
+ Total Measurements: 1783
+MEASUREMENT STORED!
+ Total Measurements: 1784
+MEASUREMENT STORED!
+ Total Measurements: 1785
+MEASUREMENT STORED!
+ Total Measurements: 1786
+MEASUREMENT STORED!
+ Total Measurements: 1787
+MEASUREMENT STORED!
+ Total Measurements: 1788
+MEASUREMENT STORED!
+ Total Measurements: 1789
+MEASUREMENT STORED!
+ Total Measurements: 1790
+MEASUREMENT STORED!
+ Total Measurements: 1791
+MEASUREMENT STORED!
+ Total Measurements: 1792
+MEASUREMENT STORED!
+ Total Measurements: 1793
+MEASUREMENT STORED!
+ Total Measurements: 1794
+MEASUREMENT STORED!
+ Total Measurements: 1795
+MEASUREMENT STORED!
+ Total Measurements: 1796
+MEASUREMENT STORED!
+ Total Measurements: 1797
+MEASUREMENT STORED!
+ Total Measurements: 1798
+MEASUREMENT STORED!
+ Total Measurements: 1799
+MEASUREMENT STORED!
+ Total Measurements: 1800
+MEASUREMENT STORED!
+ Total Measurements: 1801
+MEASUREMENT STORED!
+ Total Measurements: 1802
+MEASUREMENT STORED!
+ Total Measurements: 1803
+MEASUREMENT STORED!
+ Total Measurements: 1804
+MEASUREMENT STORED!
+ Total Measurements: 1805
+MEASUREMENT STORED!
+ Total Measurements: 1806
+MEASUREMENT STORED!
+ Total Measurements: 1807
+MEASUREMENT STORED!
+ Total Measurements: 1808
+MEASUREMENT STORED!
+ Total Measurements: 1809
+MEASUREMENT STORED!
+ Total Measurements: 1810
+MEASUREMENT STORED!
+ Total Measurements: 1811
+MEASUREMENT STORED!
+ Total Measurements: 1812
+MEASUREMENT STORED!
+ Total Measurements: 1813
+MEASUREMENT STORED!
+ Total Measurements: 1814
+MEASUREMENT STORED!
+ Total Measurements: 1815
+MEASUREMENT STORED!
+ Total Measurements: 1816
+MEASUREMENT STORED!
+ Total Measurements: 1817
+MEASUREMENT STORED!
+ Total Measurements: 1818
+MEASUREMENT STORED!
+ Total Measurements: 1819
+MEASUREMENT STORED!
+ Total Measurements: 1820
+MEASUREMENT STORED!
+ Total Measurements: 1821
+MEASUREMENT STORED!
+ Total Measurements: 1822
+MEASUREMENT STORED!
+ Total Measurements: 1823
+MEASUREMENT STORED!
+ Total Measurements: 1824
+MEASUREMENT STORED!
+ Total Measurements: 1825
+MEASUREMENT STORED!
+ Total Measurements: 1826
+MEASUREMENT STORED!
+ Total Measurements: 1827
+MEASUREMENT STORED!
+ Total Measurements: 1828
+MEASUREMENT STORED!
+ Total Measurements: 1829
+MEASUREMENT STORED!
+ Total Measurements: 1830
+MEASUREMENT STORED!
+ Total Measurements: 1831
+MEASUREMENT STORED!
+ Total Measurements: 1832
+MEASUREMENT STORED!
+ Total Measurements: 1833
+MEASUREMENT STORED!
+ Total Measurements: 1834
+MEASUREMENT STORED!
+ Total Measurements: 1835
+MEASUREMENT STORED!
+ Total Measurements: 1836
+MEASUREMENT STORED!
+ Total Measurements: 1837
+MEASUREMENT STORED!
+ Total Measurements: 1838
+MEASUREMENT STORED!
+ Total Measurements: 1839
+MEASUREMENT STORED!
+ Total Measurements: 1840
+MEASUREMENT STORED!
+ Total Measurements: 1841
+MEASUREMENT STORED!
+ Total Measurements: 1842
+MEASUREMENT STORED!
+ Total Measurements: 1843
+MEASUREMENT STORED!
+ Total Measurements: 1844
+MEASUREMENT STORED!
+ Total Measurements: 1845
+MEASUREMENT STORED!
+ Total Measurements: 1846
+MEASUREMENT STORED!
+ Total Measurements: 1847
+MEASUREMENT STORED!
+ Total Measurements: 1848
+MEASUREMENT STORED!
+ Total Measurements: 1849
+MEASUREMENT STORED!
+ Total Measurements: 1850
+MEASUREMENT STORED!
+ Total Measurements: 1851
+MEASUREMENT STORED!
+ Total Measurements: 1852
+MEASUREMENT STORED!
+ Total Measurements: 1853
+MEASUREMENT STORED!
+ Total Measurements: 1854
+MEASUREMENT STORED!
+ Total Measurements: 1855
+MEASUREMENT STORED!
+ Total Measurements: 1856
+MEASUREMENT STORED!
+ Total Measurements: 1857
+MEASUREMENT STORED!
+ Total Measurements: 1858
+MEASUREMENT STORED!
+ Total Measurements: 1859
+MEASUREMENT STORED!
+ Total Measurements: 1860
+MEASUREMENT STORED!
+ Total Measurements: 1861
+MEASUREMENT STORED!
+ Total Measurements: 1862
+MEASUREMENT STORED!
+ Total Measurements: 1863
+MEASUREMENT STORED!
+ Total Measurements: 1864
+MEASUREMENT STORED!
+ Total Measurements: 1865
+MEASUREMENT STORED!
+ Total Measurements: 1866
+MEASUREMENT STORED!
+ Total Measurements: 1867
+MEASUREMENT STORED!
+ Total Measurements: 1868
+MEASUREMENT STORED!
+ Total Measurements: 1869
+MEASUREMENT STORED!
+ Total Measurements: 1870
+MEASUREMENT STORED!
+ Total Measurements: 1871
+MEASUREMENT STORED!
+ Total Measurements: 1872
+MEASUREMENT STORED!
+ Total Measurements: 1873
+MEASUREMENT STORED!
+ Total Measurements: 1874
+MEASUREMENT STORED!
+ Total Measurements: 1875
+MEASUREMENT STORED!
+ Total Measurements: 1876
+MEASUREMENT STORED!
+ Total Measurements: 1877
+MEASUREMENT STORED!
+ Total Measurements: 1878
+MEASUREMENT STORED!
+ Total Measurements: 1879
+MEASUREMENT STORED!
+ Total Measurements: 1880
+MEASUREMENT STORED!
+ Total Measurements: 1881
+MEASUREMENT STORED!
+ Total Measurements: 1882
+MEASUREMENT STORED!
+ Total Measurements: 1883
+MEASUREMENT STORED!
+ Total Measurements: 1884
+MEASUREMENT STORED!
+ Total Measurements: 1885
+MEASUREMENT STORED!
+ Total Measurements: 1886
+MEASUREMENT STORED!
+ Total Measurements: 1887
+MEASUREMENT STORED!
+ Total Measurements: 1888
+MEASUREMENT STORED!
+ Total Measurements: 1889
+MEASUREMENT STORED!
+ Total Measurements: 1890
+MEASUREMENT STORED!
+ Total Measurements: 1891
+MEASUREMENT STORED!
+ Total Measurements: 1892
+MEASUREMENT STORED!
+ Total Measurements: 1893
+MEASUREMENT STORED!
+ Total Measurements: 1894
+MEASUREMENT STORED!
+ Total Measurements: 1895
+MEASUREMENT STORED!
+ Total Measurements: 1896
+MEASUREMENT STORED!
+ Total Measurements: 1897
+MEASUREMENT STORED!
+ Total Measurements: 1898
+MEASUREMENT STORED!
+ Total Measurements: 1899
+MEASUREMENT STORED!
+ Total Measurements: 1900
+MEASUREMENT STORED!
+ Total Measurements: 1901
+MEASUREMENT STORED!
+ Total Measurements: 1902
+MEASUREMENT STORED!
+ Total Measurements: 1903
+MEASUREMENT STORED!
+ Total Measurements: 1904
+MEASUREMENT STORED!
+ Total Measurements: 1905
+MEASUREMENT STORED!
+ Total Measurements: 1906
+MEASUREMENT STORED!
+ Total Measurements: 1907
+MEASUREMENT STORED!
+ Total Measurements: 1908
+MEASUREMENT STORED!
+ Total Measurements: 1909
+MEASUREMENT STORED!
+ Total Measurements: 1910
+MEASUREMENT STORED!
+ Total Measurements: 1911
+MEASUREMENT STORED!
+ Total Measurements: 1912
+MEASUREMENT STORED!
+ Total Measurements: 1913
+MEASUREMENT STORED!
+ Total Measurements: 1914
+MEASUREMENT STORED!
+ Total Measurements: 1915
+MEASUREMENT STORED!
+ Total Measurements: 1916
+MEASUREMENT STORED!
+ Total Measurements: 1917
+MEASUREMENT STORED!
+ Total Measurements: 1918
+MEASUREMENT STORED!
+ Total Measurements: 1919
+MEASUREMENT STORED!
+ Total Measurements: 1920
+MEASUREMENT STORED!
+ Total Measurements: 1921
+MEASUREMENT STORED!
+ Total Measurements: 1922
+MEASUREMENT STORED!
+ Total Measurements: 1923
+MEASUREMENT STORED!
+ Total Measurements: 1924
+MEASUREMENT STORED!
+ Total Measurements: 1925
+MEASUREMENT STORED!
+ Total Measurements: 1926
+MEASUREMENT STORED!
+ Total Measurements: 1927
+MEASUREMENT STORED!
+ Total Measurements: 1928
+MEASUREMENT STORED!
+ Total Measurements: 1929
+MEASUREMENT STORED!
+ Total Measurements: 1930
+MEASUREMENT STORED!
+ Total Measurements: 1931
+MEASUREMENT STORED!
+ Total Measurements: 1932
+MEASUREMENT STORED!
+ Total Measurements: 1933
+MEASUREMENT STORED!
+ Total Measurements: 1934
+MEASUREMENT STORED!
+ Total Measurements: 1935
+MEASUREMENT STORED!
+ Total Measurements: 1936
+MEASUREMENT STORED!
+ Total Measurements: 1937
+MEASUREMENT STORED!
+ Total Measurements: 1938
+MEASUREMENT STORED!
+ Total Measurements: 1939
+MEASUREMENT STORED!
+ Total Measurements: 1940
+MEASUREMENT STORED!
+ Total Measurements: 1941
+MEASUREMENT STORED!
+ Total Measurements: 1942
+MEASUREMENT STORED!
+ Total Measurements: 1943
+MEASUREMENT STORED!
+ Total Measurements: 1944
+MEASUREMENT STORED!
+ Total Measurements: 1945
+MEASUREMENT STORED!
+ Total Measurements: 1946
+MEASUREMENT STORED!
+ Total Measurements: 1947
+MEASUREMENT STORED!
+ Total Measurements: 1948
+MEASUREMENT STORED!
+ Total Measurements: 1949
+MEASUREMENT STORED!
+ Total Measurements: 1950
+MEASUREMENT STORED!
+ Total Measurements: 1951
+MEASUREMENT STORED!
+ Total Measurements: 1952
+MEASUREMENT STORED!
+ Total Measurements: 1953
+MEASUREMENT STORED!
+ Total Measurements: 1954
+MEASUREMENT STORED!
+ Total Measurements: 1955
+MEASUREMENT STORED!
+ Total Measurements: 1956
+MEASUREMENT STORED!
+ Total Measurements: 1957
+MEASUREMENT STORED!
+ Total Measurements: 1958
+MEASUREMENT STORED!
+ Total Measurements: 1959
+MEASUREMENT STORED!
+ Total Measurements: 1960
+MEASUREMENT STORED!
+ Total Measurements: 1961
+MEASUREMENT STORED!
+ Total Measurements: 1962
+MEASUREMENT STORED!
+ Total Measurements: 1963
+MEASUREMENT STORED!
+ Total Measurements: 1964
+MEASUREMENT STORED!
+ Total Measurements: 1965
+MEASUREMENT STORED!
+ Total Measurements: 1966
+MEASUREMENT STORED!
+ Total Measurements: 1967
+MEASUREMENT STORED!
+ Total Measurements: 1968
+MEASUREMENT STORED!
+ Total Measurements: 1969
+MEASUREMENT STORED!
+ Total Measurements: 1970
+MEASUREMENT STORED!
+ Total Measurements: 1971
+MEASUREMENT STORED!
+ Total Measurements: 1972
+MEASUREMENT STORED!
+ Total Measurements: 1973
+MEASUREMENT STORED!
+ Total Measurements: 1974
+MEASUREMENT STORED!
+ Total Measurements: 1975
+MEASUREMENT STORED!
+ Total Measurements: 1976
+MEASUREMENT STORED!
+ Total Measurements: 1977
+MEASUREMENT STORED!
+ Total Measurements: 1978
+MEASUREMENT STORED!
+ Total Measurements: 1979
+MEASUREMENT STORED!
+ Total Measurements: 1980
+MEASUREMENT STORED!
+ Total Measurements: 1981
+MEASUREMENT STORED!
+ Total Measurements: 1982
+MEASUREMENT STORED!
+ Total Measurements: 1983
+MEASUREMENT STORED!
+ Total Measurements: 1984
+MEASUREMENT STORED!
+ Total Measurements: 1985
+MEASUREMENT STORED!
+ Total Measurements: 1986
+MEASUREMENT STORED!
+ Total Measurements: 1987
+MEASUREMENT STORED!
+ Total Measurements: 1988
+MEASUREMENT STORED!
+ Total Measurements: 1989
+MEASUREMENT STORED!
+ Total Measurements: 1990
+MEASUREMENT STORED!
+ Total Measurements: 1991
+MEASUREMENT STORED!
+ Total Measurements: 1992
+MEASUREMENT STORED!
+ Total Measurements: 1993
+MEASUREMENT STORED!
+ Total Measurements: 1994
+MEASUREMENT STORED!
+ Total Measurements: 1995
+MEASUREMENT STORED!
+ Total Measurements: 1996
+MEASUREMENT STORED!
+ Total Measurements: 1997
+MEASUREMENT STORED!
+ Total Measurements: 1998
+MEASUREMENT STORED!
+ Total Measurements: 1999
+MEASUREMENT STORED!
+ Total Measurements: 2000
+MEASUREMENT STORED!
+ Total Measurements: 2001
+MEASUREMENT STORED!
+ Total Measurements: 2002
+MEASUREMENT STORED!
+ Total Measurements: 2003
+MEASUREMENT STORED!
+ Total Measurements: 2004
+MEASUREMENT STORED!
+ Total Measurements: 2005
+MEASUREMENT STORED!
+ Total Measurements: 2006
+MEASUREMENT STORED!
+ Total Measurements: 2007
+MEASUREMENT STORED!
+ Total Measurements: 2008
+MEASUREMENT STORED!
+ Total Measurements: 2009
+MEASUREMENT STORED!
+ Total Measurements: 2010
+MEASUREMENT STORED!
+ Total Measurements: 2011
+MEASUREMENT STORED!
+ Total Measurements: 2012
+MEASUREMENT STORED!
+ Total Measurements: 2013
+MEASUREMENT STORED!
+ Total Measurements: 2014
+MEASUREMENT STORED!
+ Total Measurements: 2015
+MEASUREMENT STORED!
+ Total Measurements: 2016
+MEASUREMENT STORED!
+ Total Measurements: 2017
+MEASUREMENT STORED!
+ Total Measurements: 2018
+MEASUREMENT STORED!
+ Total Measurements: 2019
+MEASUREMENT STORED!
+ Total Measurements: 2020
+MEASUREMENT STORED!
+ Total Measurements: 2021
+MEASUREMENT STORED!
+ Total Measurements: 2022
+MEASUREMENT STORED!
+ Total Measurements: 2023
+MEASUREMENT STORED!
+ Total Measurements: 2024
+MEASUREMENT STORED!
+ Total Measurements: 2025
+MEASUREMENT STORED!
+ Total Measurements: 2026
+MEASUREMENT STORED!
+ Total Measurements: 2027
+MEASUREMENT STORED!
+ Total Measurements: 2028
+MEASUREMENT STORED!
+ Total Measurements: 2029
+MEASUREMENT STORED!
+ Total Measurements: 2030
+MEASUREMENT STORED!
+ Total Measurements: 2031
+MEASUREMENT STORED!
+ Total Measurements: 2032
+MEASUREMENT STORED!
+ Total Measurements: 2033
+MEASUREMENT STORED!
+ Total Measurements: 2034
+MEASUREMENT STORED!
+ Total Measurements: 2035
+MEASUREMENT STORED!
+ Total Measurements: 2036
+MEASUREMENT STORED!
+ Total Measurements: 2037
+MEASUREMENT STORED!
+ Total Measurements: 2038
+MEASUREMENT STORED!
+ Total Measurements: 2039
+MEASUREMENT STORED!
+ Total Measurements: 2040
+MEASUREMENT STORED!
+ Total Measurements: 2041
+MEASUREMENT STORED!
+ Total Measurements: 2042
+MEASUREMENT STORED!
+ Total Measurements: 2043
+MEASUREMENT STORED!
+ Total Measurements: 2044
+MEASUREMENT STORED!
+ Total Measurements: 2045
+MEASUREMENT STORED!
+ Total Measurements: 2046
+MEASUREMENT STORED!
+ Total Measurements: 2047
+MEASUREMENT STORED!
+ Total Measurements: 2048
+MEASUREMENT STORED!
+ Total Measurements: 2049
+MEASUREMENT STORED!
+ Total Measurements: 2050
+MEASUREMENT STORED!
+ Total Measurements: 2051
+MEASUREMENT STORED!
+ Total Measurements: 2052
+MEASUREMENT STORED!
+ Total Measurements: 2053
+MEASUREMENT STORED!
+ Total Measurements: 2054
+MEASUREMENT STORED!
+ Total Measurements: 2055
+MEASUREMENT STORED!
+ Total Measurements: 2056
+MEASUREMENT STORED!
+ Total Measurements: 2057
+MEASUREMENT STORED!
+ Total Measurements: 2058
+MEASUREMENT STORED!
+ Total Measurements: 2059
+MEASUREMENT STORED!
+ Total Measurements: 2060
+MEASUREMENT STORED!
+ Total Measurements: 2061
+MEASUREMENT STORED!
+ Total Measurements: 2062
+MEASUREMENT STORED!
+ Total Measurements: 2063
+MEASUREMENT STORED!
+ Total Measurements: 2064
+MEASUREMENT STORED!
+ Total Measurements: 2065
+MEASUREMENT STORED!
+ Total Measurements: 2066
+MEASUREMENT STORED!
+ Total Measurements: 2067
+MEASUREMENT STORED!
+ Total Measurements: 2068
+MEASUREMENT STORED!
+ Total Measurements: 2069
+MEASUREMENT STORED!
+ Total Measurements: 2070
+MEASUREMENT STORED!
+ Total Measurements: 2071
+MEASUREMENT STORED!
+ Total Measurements: 2072
+MEASUREMENT STORED!
+ Total Measurements: 2073
+MEASUREMENT STORED!
+ Total Measurements: 2074
+MEASUREMENT STORED!
+ Total Measurements: 2075
+MEASUREMENT STORED!
+ Total Measurements: 2076
+MEASUREMENT STORED!
+ Total Measurements: 2077
+MEASUREMENT STORED!
+ Total Measurements: 2078
+MEASUREMENT STORED!
+ Total Measurements: 2079
+MEASUREMENT STORED!
+ Total Measurements: 2080
+MEASUREMENT STORED!
+ Total Measurements: 2081
+MEASUREMENT STORED!
+ Total Measurements: 2082
+MEASUREMENT STORED!
+ Total Measurements: 2083
+MEASUREMENT STORED!
+ Total Measurements: 2084
+MEASUREMENT STORED!
+ Total Measurements: 2085
+MEASUREMENT STORED!
+ Total Measurements: 2086
+MEASUREMENT STORED!
+ Total Measurements: 2087
+MEASUREMENT STORED!
+ Total Measurements: 2088
+MEASUREMENT STORED!
+ Total Measurements: 2089
+MEASUREMENT STORED!
+ Total Measurements: 2090
+MEASUREMENT STORED!
+ Total Measurements: 2091
+MEASUREMENT STORED!
+ Total Measurements: 2092
+MEASUREMENT STORED!
+ Total Measurements: 2093
+MEASUREMENT STORED!
+ Total Measurements: 2094
+MEASUREMENT STORED!
+ Total Measurements: 2095
+MEASUREMENT STORED!
+ Total Measurements: 2096
+MEASUREMENT STORED!
+ Total Measurements: 2097
+MEASUREMENT STORED!
+ Total Measurements: 2098
+MEASUREMENT STORED!
+ Total Measurements: 2099
+MEASUREMENT STORED!
+ Total Measurements: 2100
+MEASUREMENT STORED!
+ Total Measurements: 2101
+MEASUREMENT STORED!
+ Total Measurements: 2102
+MEASUREMENT STORED!
+ Total Measurements: 2103
+MEASUREMENT STORED!
+ Total Measurements: 2104
+MEASUREMENT STORED!
+ Total Measurements: 2105
+MEASUREMENT STORED!
+ Total Measurements: 2106
+MEASUREMENT STORED!
+ Total Measurements: 2107
+MEASUREMENT STORED!
+ Total Measurements: 2108
+MEASUREMENT STORED!
+ Total Measurements: 2109
+MEASUREMENT STORED!
+ Total Measurements: 2110
+MEASUREMENT STORED!
+ Total Measurements: 2111
+MEASUREMENT STORED!
+ Total Measurements: 2112
+MEASUREMENT STORED!
+ Total Measurements: 2113
+MEASUREMENT STORED!
+ Total Measurements: 2114
+MEASUREMENT STORED!
+ Total Measurements: 2115
+MEASUREMENT STORED!
+ Total Measurements: 2116
+MEASUREMENT STORED!
+ Total Measurements: 2117
+MEASUREMENT STORED!
+ Total Measurements: 2118
+MEASUREMENT STORED!
+ Total Measurements: 2119
+MEASUREMENT STORED!
+ Total Measurements: 2120
+MEASUREMENT STORED!
+ Total Measurements: 2121
+MEASUREMENT STORED!
+ Total Measurements: 2122
+MEASUREMENT STORED!
+ Total Measurements: 2123
+MEASUREMENT STORED!
+ Total Measurements: 2124
+MEASUREMENT STORED!
+ Total Measurements: 2125
+MEASUREMENT STORED!
+ Total Measurements: 2126
+MEASUREMENT STORED!
+ Total Measurements: 2127
+MEASUREMENT STORED!
+ Total Measurements: 2128
+MEASUREMENT STORED!
+ Total Measurements: 2129
+MEASUREMENT STORED!
+ Total Measurements: 2130
+MEASUREMENT STORED!
+ Total Measurements: 2131
+MEASUREMENT STORED!
+ Total Measurements: 2132
+MEASUREMENT STORED!
+ Total Measurements: 2133
+MEASUREMENT STORED!
+ Total Measurements: 2134
+MEASUREMENT STORED!
+ Total Measurements: 2135
+MEASUREMENT STORED!
+ Total Measurements: 2136
+MEASUREMENT STORED!
+ Total Measurements: 2137
+MEASUREMENT STORED!
+ Total Measurements: 2138
+MEASUREMENT STORED!
+ Total Measurements: 2139
+MEASUREMENT STORED!
+ Total Measurements: 2140
+MEASUREMENT STORED!
+ Total Measurements: 2141
+MEASUREMENT STORED!
+ Total Measurements: 2142
+MEASUREMENT STORED!
+ Total Measurements: 2143
+MEASUREMENT STORED!
+ Total Measurements: 2144
+MEASUREMENT STORED!
+ Total Measurements: 2145
+MEASUREMENT STORED!
+ Total Measurements: 2146
+MEASUREMENT STORED!
+ Total Measurements: 2147
+MEASUREMENT STORED!
+ Total Measurements: 2148
+MEASUREMENT STORED!
+ Total Measurements: 2149
+MEASUREMENT STORED!
+ Total Measurements: 2150
+MEASUREMENT STORED!
+ Total Measurements: 2151
+MEASUREMENT STORED!
+ Total Measurements: 2152
+MEASUREMENT STORED!
+ Total Measurements: 2153
+MEASUREMENT STORED!
+ Total Measurements: 2154
+MEASUREMENT STORED!
+ Total Measurements: 2155
+MEASUREMENT STORED!
+ Total Measurements: 2156
+MEASUREMENT STORED!
+ Total Measurements: 2157
+MEASUREMENT STORED!
+ Total Measurements: 2158
+MEASUREMENT STORED!
+ Total Measurements: 2159
+MEASUREMENT STORED!
+ Total Measurements: 2160
+MEASUREMENT STORED!
+ Total Measurements: 2161
+MEASUREMENT STORED!
+ Total Measurements: 2162
+MEASUREMENT STORED!
+ Total Measurements: 2163
+MEASUREMENT STORED!
+ Total Measurements: 2164
+MEASUREMENT STORED!
+ Total Measurements: 2165
+MEASUREMENT STORED!
+ Total Measurements: 2166
+MEASUREMENT STORED!
+ Total Measurements: 2167
+MEASUREMENT STORED!
+ Total Measurements: 2168
+MEASUREMENT STORED!
+ Total Measurements: 2169
+MEASUREMENT STORED!
+ Total Measurements: 2170
+MEASUREMENT STORED!
+ Total Measurements: 2171
+MEASUREMENT STORED!
+ Total Measurements: 2172
+MEASUREMENT STORED!
+ Total Measurements: 2173
+MEASUREMENT STORED!
+ Total Measurements: 2174
+MEASUREMENT STORED!
+ Total Measurements: 2175
+MEASUREMENT STORED!
+ Total Measurements: 2176
+MEASUREMENT STORED!
+ Total Measurements: 2177
+MEASUREMENT STORED!
+ Total Measurements: 2178
+MEASUREMENT STORED!
+ Total Measurements: 2179
+MEASUREMENT STORED!
+ Total Measurements: 2180
+MEASUREMENT STORED!
+ Total Measurements: 2181
+MEASUREMENT STORED!
+ Total Measurements: 2182
+MEASUREMENT STORED!
+ Total Measurements: 2183
+MEASUREMENT STORED!
+ Total Measurements: 2184
+MEASUREMENT STORED!
+ Total Measurements: 2185
+MEASUREMENT STORED!
+ Total Measurements: 2186
+MEASUREMENT STORED!
+ Total Measurements: 2187
+MEASUREMENT STORED!
+ Total Measurements: 2188
+MEASUREMENT STORED!
+ Total Measurements: 2189
+MEASUREMENT STORED!
+ Total Measurements: 2190
+MEASUREMENT STORED!
+ Total Measurements: 2191
+MEASUREMENT STORED!
+ Total Measurements: 2192
+MEASUREMENT STORED!
+ Total Measurements: 2193
+MEASUREMENT STORED!
+ Total Measurements: 2194
+MEASUREMENT STORED!
+ Total Measurements: 2195
+MEASUREMENT STORED!
+ Total Measurements: 2196
+MEASUREMENT STORED!
+ Total Measurements: 2197
+MEASUREMENT STORED!
+ Total Measurements: 2198
+MEASUREMENT STORED!
+ Total Measurements: 2199
+MEASUREMENT STORED!
+ Total Measurements: 2200
+MEASUREMENT STORED!
+ Total Measurements: 2201
+MEASUREMENT STORED!
+ Total Measurements: 2202
+MEASUREMENT STORED!
+ Total Measurements: 2203
+MEASUREMENT STORED!
+ Total Measurements: 2204
+MEASUREMENT STORED!
+ Total Measurements: 2205
+MEASUREMENT STORED!
+ Total Measurements: 2206
+MEASUREMENT STORED!
+ Total Measurements: 2207
+MEASUREMENT STORED!
+ Total Measurements: 2208
+MEASUREMENT STORED!
+ Total Measurements: 2209
+MEASUREMENT STORED!
+ Total Measurements: 2210
+MEASUREMENT STORED!
+ Total Measurements: 2211
+MEASUREMENT STORED!
+ Total Measurements: 2212
+MEASUREMENT STORED!
+ Total Measurements: 2213
+MEASUREMENT STORED!
+ Total Measurements: 2214
+MEASUREMENT STORED!
+ Total Measurements: 2215
+MEASUREMENT STORED!
+ Total Measurements: 2216
+MEASUREMENT STORED!
+ Total Measurements: 2217
+MEASUREMENT STORED!
+ Total Measurements: 2218
+MEASUREMENT STORED!
+ Total Measurements: 2219
+MEASUREMENT STORED!
+ Total Measurements: 2220
+MEASUREMENT STORED!
+ Total Measurements: 2221
+MEASUREMENT STORED!
+ Total Measurements: 2222
+MEASUREMENT STORED!
+ Total Measurements: 2223
+MEASUREMENT STORED!
+ Total Measurements: 2224
+MEASUREMENT STORED!
+ Total Measurements: 2225
+MEASUREMENT STORED!
+ Total Measurements: 2226
+MEASUREMENT STORED!
+ Total Measurements: 2227
+MEASUREMENT STORED!
+ Total Measurements: 2228
+MEASUREMENT STORED!
+ Total Measurements: 2229
+MEASUREMENT STORED!
+ Total Measurements: 2230
+MEASUREMENT STORED!
+ Total Measurements: 2231
+MEASUREMENT STORED!
+ Total Measurements: 2232
+MEASUREMENT STORED!
+ Total Measurements: 2233
+MEASUREMENT STORED!
+ Total Measurements: 2234
+MEASUREMENT STORED!
+ Total Measurements: 2235
+MEASUREMENT STORED!
+ Total Measurements: 2236
+MEASUREMENT STORED!
+ Total Measurements: 2237
+MEASUREMENT STORED!
+ Total Measurements: 2238
+MEASUREMENT STORED!
+ Total Measurements: 2239
+MEASUREMENT STORED!
+ Total Measurements: 2240
+MEASUREMENT STORED!
+ Total Measurements: 2241
+MEASUREMENT STORED!
+ Total Measurements: 2242
+MEASUREMENT STORED!
+ Total Measurements: 2243
+MEASUREMENT STORED!
+ Total Measurements: 2244
+MEASUREMENT STORED!
+ Total Measurements: 2245
+MEASUREMENT STORED!
+ Total Measurements: 2246
+MEASUREMENT STORED!
+ Total Measurements: 2247
+MEASUREMENT STORED!
+ Total Measurements: 2248
+MEASUREMENT STORED!
+ Total Measurements: 2249
+MEASUREMENT STORED!
+ Total Measurements: 2250
+MEASUREMENT STORED!
+ Total Measurements: 2251
+MEASUREMENT STORED!
+ Total Measurements: 2252
+MEASUREMENT STORED!
+ Total Measurements: 2253
+MEASUREMENT STORED!
+ Total Measurements: 2254
+MEASUREMENT STORED!
+ Total Measurements: 2255
+MEASUREMENT STORED!
+ Total Measurements: 2256
+MEASUREMENT STORED!
+ Total Measurements: 2257
+MEASUREMENT STORED!
+ Total Measurements: 2258
+MEASUREMENT STORED!
+ Total Measurements: 2259
+MEASUREMENT STORED!
+ Total Measurements: 2260
+MEASUREMENT STORED!
+ Total Measurements: 2261
+MEASUREMENT STORED!
+ Total Measurements: 2262
+MEASUREMENT STORED!
+ Total Measurements: 2263
+MEASUREMENT STORED!
+ Total Measurements: 2264
+MEASUREMENT STORED!
+ Total Measurements: 2265
+MEASUREMENT STORED!
+ Total Measurements: 2266
+MEASUREMENT STORED!
+ Total Measurements: 2267
+MEASUREMENT STORED!
+ Total Measurements: 2268
+MEASUREMENT STORED!
+ Total Measurements: 2269
+MEASUREMENT STORED!
+ Total Measurements: 2270
+MEASUREMENT STORED!
+ Total Measurements: 2271
+MEASUREMENT STORED!
+ Total Measurements: 2272
+MEASUREMENT STORED!
+ Total Measurements: 2273
+MEASUREMENT STORED!
+ Total Measurements: 2274
+MEASUREMENT STORED!
+ Total Measurements: 2275
+MEASUREMENT STORED!
+ Total Measurements: 2276
+MEASUREMENT STORED!
+ Total Measurements: 2277
+MEASUREMENT STORED!
+ Total Measurements: 2278
+MEASUREMENT STORED!
+ Total Measurements: 2279
+MEASUREMENT STORED!
+ Total Measurements: 2280
+MEASUREMENT STORED!
+ Total Measurements: 2281
+MEASUREMENT STORED!
+ Total Measurements: 2282
+MEASUREMENT STORED!
+ Total Measurements: 2283
+MEASUREMENT STORED!
+ Total Measurements: 2284
+MEASUREMENT STORED!
+ Total Measurements: 2285
+MEASUREMENT STORED!
+ Total Measurements: 2286
+MEASUREMENT STORED!
+ Total Measurements: 2287
+MEASUREMENT STORED!
+ Total Measurements: 2288
+MEASUREMENT STORED!
+ Total Measurements: 2289
+MEASUREMENT STORED!
+ Total Measurements: 2290
+MEASUREMENT STORED!
+ Total Measurements: 2291
+MEASUREMENT STORED!
+ Total Measurements: 2292
+MEASUREMENT STORED!
+ Total Measurements: 2293
+MEASUREMENT STORED!
+ Total Measurements: 2294
+MEASUREMENT STORED!
+ Total Measurements: 2295
+MEASUREMENT STORED!
+ Total Measurements: 2296
+MEASUREMENT STORED!
+ Total Measurements: 2297
+MEASUREMENT STORED!
+ Total Measurements: 2298
+MEASUREMENT STORED!
+ Total Measurements: 2299
+MEASUREMENT STORED!
+ Total Measurements: 2300
+MEASUREMENT STORED!
+ Total Measurements: 2301
+MEASUREMENT STORED!
+ Total Measurements: 2302
+MEASUREMENT STORED!
+ Total Measurements: 2303
+MEASUREMENT STORED!
+ Total Measurements: 2304
+MEASUREMENT STORED!
+ Total Measurements: 2305
+MEASUREMENT STORED!
+ Total Measurements: 2306
+MEASUREMENT STORED!
+ Total Measurements: 2307
+MEASUREMENT STORED!
+ Total Measurements: 2308
+MEASUREMENT STORED!
+ Total Measurements: 2309
+MEASUREMENT STORED!
+ Total Measurements: 2310
+MEASUREMENT STORED!
+ Total Measurements: 2311
+MEASUREMENT STORED!
+ Total Measurements: 2312
+MEASUREMENT STORED!
+ Total Measurements: 2313
+MEASUREMENT STORED!
+ Total Measurements: 2314
+MEASUREMENT STORED!
+ Total Measurements: 2315
+MEASUREMENT STORED!
+ Total Measurements: 2316
+MEASUREMENT STORED!
+ Total Measurements: 2317
+MEASUREMENT STORED!
+ Total Measurements: 2318
+MEASUREMENT STORED!
+ Total Measurements: 2319
+MEASUREMENT STORED!
+ Total Measurements: 2320
+MEASUREMENT STORED!
+ Total Measurements: 2321
+MEASUREMENT STORED!
+ Total Measurements: 2322
+MEASUREMENT STORED!
+ Total Measurements: 2323
+MEASUREMENT STORED!
+ Total Measurements: 2324
+MEASUREMENT STORED!
+ Total Measurements: 2325
+MEASUREMENT STORED!
+ Total Measurements: 2326
+MEASUREMENT STORED!
+ Total Measurements: 2327
+MEASUREMENT STORED!
+ Total Measurements: 2328
+MEASUREMENT STORED!
+ Total Measurements: 2329
+MEASUREMENT STORED!
+ Total Measurements: 2330
+MEASUREMENT STORED!
+ Total Measurements: 2331
+MEASUREMENT STORED!
+ Total Measurements: 2332
+MEASUREMENT STORED!
+ Total Measurements: 2333
+MEASUREMENT STORED!
+ Total Measurements: 2334
+MEASUREMENT STORED!
+ Total Measurements: 2335
+MEASUREMENT STORED!
+ Total Measurements: 2336
+MEASUREMENT STORED!
+ Total Measurements: 2337
+MEASUREMENT STORED!
+ Total Measurements: 2338
+MEASUREMENT STORED!
+ Total Measurements: 2339
+MEASUREMENT STORED!
+ Total Measurements: 2340
+MEASUREMENT STORED!
+ Total Measurements: 2341
+MEASUREMENT STORED!
+ Total Measurements: 2342
+MEASUREMENT STORED!
+ Total Measurements: 2343
+MEASUREMENT STORED!
+ Total Measurements: 2344
+MEASUREMENT STORED!
+ Total Measurements: 2345
+MEASUREMENT STORED!
+ Total Measurements: 2346
+MEASUREMENT STORED!
+ Total Measurements: 2347
+MEASUREMENT STORED!
+ Total Measurements: 2348
+MEASUREMENT STORED!
+ Total Measurements: 2349
+MEASUREMENT STORED!
+ Total Measurements: 2350
+MEASUREMENT STORED!
+ Total Measurements: 2351
+MEASUREMENT STORED!
+ Total Measurements: 2352
+MEASUREMENT STORED!
+ Total Measurements: 2353
+MEASUREMENT STORED!
+ Total Measurements: 2354
+MEASUREMENT STORED!
+ Total Measurements: 2355
+MEASUREMENT STORED!
+ Total Measurements: 2356
+MEASUREMENT STORED!
+ Total Measurements: 2357
+MEASUREMENT STORED!
+ Total Measurements: 2358
+MEASUREMENT STORED!
+ Total Measurements: 2359
+MEASUREMENT STORED!
+ Total Measurements: 2360
+MEASUREMENT STORED!
+ Total Measurements: 2361
+MEASUREMENT STORED!
+ Total Measurements: 2362
+MEASUREMENT STORED!
+ Total Measurements: 2363
+MEASUREMENT STORED!
+ Total Measurements: 2364
+MEASUREMENT STORED!
+ Total Measurements: 2365
+MEASUREMENT STORED!
+ Total Measurements: 2366
+MEASUREMENT STORED!
+ Total Measurements: 2367
+MEASUREMENT STORED!
+ Total Measurements: 2368
+MEASUREMENT STORED!
+ Total Measurements: 2369
+MEASUREMENT STORED!
+ Total Measurements: 2370
+MEASUREMENT STORED!
+ Total Measurements: 2371
+MEASUREMENT STORED!
+ Total Measurements: 2372
+MEASUREMENT STORED!
+ Total Measurements: 2373
+MEASUREMENT STORED!
+ Total Measurements: 2374
+MEASUREMENT STORED!
+ Total Measurements: 2375
+MEASUREMENT STORED!
+ Total Measurements: 2376
+MEASUREMENT STORED!
+ Total Measurements: 2377
+MEASUREMENT STORED!
+ Total Measurements: 2378
+MEASUREMENT STORED!
+ Total Measurements: 2379
+MEASUREMENT STORED!
+ Total Measurements: 2380
+MEASUREMENT STORED!
+ Total Measurements: 2381
+MEASUREMENT STORED!
+ Total Measurements: 2382
+MEASUREMENT STORED!
+ Total Measurements: 2383
+MEASUREMENT STORED!
+ Total Measurements: 2384
+MEASUREMENT STORED!
+ Total Measurements: 2385
+MEASUREMENT STORED!
+ Total Measurements: 2386
+MEASUREMENT STORED!
+ Total Measurements: 2387
+MEASUREMENT STORED!
+ Total Measurements: 2388
+MEASUREMENT STORED!
+ Total Measurements: 2389
+MEASUREMENT STORED!
+ Total Measurements: 2390
+MEASUREMENT STORED!
+ Total Measurements: 2391
+MEASUREMENT STORED!
+ Total Measurements: 2392
+MEASUREMENT STORED!
+ Total Measurements: 2393
+MEASUREMENT STORED!
+ Total Measurements: 2394
+MEASUREMENT STORED!
+ Total Measurements: 2395
+MEASUREMENT STORED!
+ Total Measurements: 2396
+MEASUREMENT STORED!
+ Total Measurements: 2397
+MEASUREMENT STORED!
+ Total Measurements: 2398
+MEASUREMENT STORED!
+ Total Measurements: 2399
+MEASUREMENT STORED!
+ Total Measurements: 2400
+MEASUREMENT STORED!
+ Total Measurements: 2401
+MEASUREMENT STORED!
+ Total Measurements: 2402
+MEASUREMENT STORED!
+ Total Measurements: 2403
+MEASUREMENT STORED!
+ Total Measurements: 2404
+MEASUREMENT STORED!
+ Total Measurements: 2405
+MEASUREMENT STORED!
+ Total Measurements: 2406
+MEASUREMENT STORED!
+ Total Measurements: 2407
+MEASUREMENT STORED!
+ Total Measurements: 2408
+MEASUREMENT STORED!
+ Total Measurements: 2409
+MEASUREMENT STORED!
+ Total Measurements: 2410
+MEASUREMENT STORED!
+ Total Measurements: 2411
+MEASUREMENT STORED!
+ Total Measurements: 2412
+MEASUREMENT STORED!
+ Total Measurements: 2413
+MEASUREMENT STORED!
+ Total Measurements: 2414
+MEASUREMENT STORED!
+ Total Measurements: 2415
+MEASUREMENT STORED!
+ Total Measurements: 2416
+MEASUREMENT STORED!
+ Total Measurements: 2417
+MEASUREMENT STORED!
+ Total Measurements: 2418
+MEASUREMENT STORED!
+ Total Measurements: 2419
+MEASUREMENT STORED!
+ Total Measurements: 2420
+MEASUREMENT STORED!
+ Total Measurements: 2421
+MEASUREMENT STORED!
+ Total Measurements: 2422
+MEASUREMENT STORED!
+ Total Measurements: 2423
+MEASUREMENT STORED!
+ Total Measurements: 2424
+MEASUREMENT STORED!
+ Total Measurements: 2425
+MEASUREMENT STORED!
+ Total Measurements: 2426
+MEASUREMENT STORED!
+ Total Measurements: 2427
+MEASUREMENT STORED!
+ Total Measurements: 2428
+MEASUREMENT STORED!
+ Total Measurements: 2429
+MEASUREMENT STORED!
+ Total Measurements: 2430
+MEASUREMENT STORED!
+ Total Measurements: 2431
+MEASUREMENT STORED!
+ Total Measurements: 2432
+MEASUREMENT STORED!
+ Total Measurements: 2433
+MEASUREMENT STORED!
+ Total Measurements: 2434
+MEASUREMENT STORED!
+ Total Measurements: 2435
+MEASUREMENT STORED!
+ Total Measurements: 2436
+MEASUREMENT STORED!
+ Total Measurements: 2437
+MEASUREMENT STORED!
+ Total Measurements: 2438
+MEASUREMENT STORED!
+ Total Measurements: 2439
+MEASUREMENT STORED!
+ Total Measurements: 2440
+MEASUREMENT STORED!
+ Total Measurements: 2441
+MEASUREMENT STORED!
+ Total Measurements: 2442
+MEASUREMENT STORED!
+ Total Measurements: 2443
+MEASUREMENT STORED!
+ Total Measurements: 2444
+MEASUREMENT STORED!
+ Total Measurements: 2445
+MEASUREMENT STORED!
+ Total Measurements: 2446
+MEASUREMENT STORED!
+ Total Measurements: 2447
+MEASUREMENT STORED!
+ Total Measurements: 2448
+MEASUREMENT STORED!
+ Total Measurements: 2449
+MEASUREMENT STORED!
+ Total Measurements: 2450
+MEASUREMENT STORED!
+ Total Measurements: 2451
+MEASUREMENT STORED!
+ Total Measurements: 2452
+MEASUREMENT STORED!
+ Total Measurements: 2453
+MEASUREMENT STORED!
+ Total Measurements: 2454
+MEASUREMENT STORED!
+ Total Measurements: 2455
+MEASUREMENT STORED!
+ Total Measurements: 2456
+MEASUREMENT STORED!
+ Total Measurements: 2457
+MEASUREMENT STORED!
+ Total Measurements: 2458
+MEASUREMENT STORED!
+ Total Measurements: 2459
+MEASUREMENT STORED!
+ Total Measurements: 2460
+MEASUREMENT STORED!
+ Total Measurements: 2461
+MEASUREMENT STORED!
+ Total Measurements: 2462
+MEASUREMENT STORED!
+ Total Measurements: 2463
+MEASUREMENT STORED!
+ Total Measurements: 2464
+MEASUREMENT STORED!
+ Total Measurements: 2465
+MEASUREMENT STORED!
+ Total Measurements: 2466
+MEASUREMENT STORED!
+ Total Measurements: 2467
+MEASUREMENT STORED!
+ Total Measurements: 2468
+MEASUREMENT STORED!
+ Total Measurements: 2469
+MEASUREMENT STORED!
+ Total Measurements: 2470
+MEASUREMENT STORED!
+ Total Measurements: 2471
+MEASUREMENT STORED!
+ Total Measurements: 2472
+MEASUREMENT STORED!
+ Total Measurements: 2473
+MEASUREMENT STORED!
+ Total Measurements: 2474
+MEASUREMENT STORED!
+ Total Measurements: 2475
+MEASUREMENT STORED!
+ Total Measurements: 2476
+MEASUREMENT STORED!
+ Total Measurements: 2477
+MEASUREMENT STORED!
+ Total Measurements: 2478
+MEASUREMENT STORED!
+ Total Measurements: 2479
+MEASUREMENT STORED!
+ Total Measurements: 2480
+MEASUREMENT STORED!
+ Total Measurements: 2481
+MEASUREMENT STORED!
+ Total Measurements: 2482
+MEASUREMENT STORED!
+ Total Measurements: 2483
+MEASUREMENT STORED!
+ Total Measurements: 2484
+MEASUREMENT STORED!
+ Total Measurements: 2485
+MEASUREMENT STORED!
+ Total Measurements: 2486
+MEASUREMENT STORED!
+ Total Measurements: 2487
+MEASUREMENT STORED!
+ Total Measurements: 2488
+MEASUREMENT STORED!
+ Total Measurements: 2489
+MEASUREMENT STORED!
+ Total Measurements: 2490
+MEASUREMENT STORED!
+ Total Measurements: 2491
+MEASUREMENT STORED!
+ Total Measurements: 2492
+MEASUREMENT STORED!
+ Total Measurements: 2493
+MEASUREMENT STORED!
+ Total Measurements: 2494
+MEASUREMENT STORED!
+ Total Measurements: 2495
+MEASUREMENT STORED!
+ Total Measurements: 2496
+MEASUREMENT STORED!
+ Total Measurements: 2497
+MEASUREMENT STORED!
+ Total Measurements: 2498
+MEASUREMENT STORED!
+ Total Measurements: 2499
+MEASUREMENT STORED!
+ Total Measurements: 2500
+MEASUREMENT STORED!
+ Total Measurements: 2501
+MEASUREMENT STORED!
+ Total Measurements: 2502
+MEASUREMENT STORED!
+ Total Measurements: 2503
+MEASUREMENT STORED!
+ Total Measurements: 2504
+MEASUREMENT STORED!
+ Total Measurements: 2505
+MEASUREMENT STORED!
+ Total Measurements: 2506
+MEASUREMENT STORED!
+ Total Measurements: 2507
+MEASUREMENT STORED!
+ Total Measurements: 2508
+MEASUREMENT STORED!
+ Total Measurements: 2509
+MEASUREMENT STORED!
+ Total Measurements: 2510
+MEASUREMENT STORED!
+ Total Measurements: 2511
+MEASUREMENT STORED!
+ Total Measurements: 2512
+MEASUREMENT STORED!
+ Total Measurements: 2513
+MEASUREMENT STORED!
+ Total Measurements: 2514
+MEASUREMENT STORED!
+ Total Measurements: 2515
+MEASUREMENT STORED!
+ Total Measurements: 2516
+MEASUREMENT STORED!
+ Total Measurements: 2517
+MEASUREMENT STORED!
+ Total Measurements: 2518
+MEASUREMENT STORED!
+ Total Measurements: 2519
+MEASUREMENT STORED!
+ Total Measurements: 2520
+MEASUREMENT STORED!
+ Total Measurements: 2521
+MEASUREMENT STORED!
+ Total Measurements: 2522
+MEASUREMENT STORED!
+ Total Measurements: 2523
+MEASUREMENT STORED!
+ Total Measurements: 2524
+MEASUREMENT STORED!
+ Total Measurements: 2525
+MEASUREMENT STORED!
+ Total Measurements: 2526
+MEASUREMENT STORED!
+ Total Measurements: 2527
+MEASUREMENT STORED!
+ Total Measurements: 2528
+MEASUREMENT STORED!
+ Total Measurements: 2529
+MEASUREMENT STORED!
+ Total Measurements: 2530
+MEASUREMENT STORED!
+ Total Measurements: 2531
+MEASUREMENT STORED!
+ Total Measurements: 2532
+MEASUREMENT STORED!
+ Total Measurements: 2533
+MEASUREMENT STORED!
+ Total Measurements: 2534
+MEASUREMENT STORED!
+ Total Measurements: 2535
+MEASUREMENT STORED!
+ Total Measurements: 2536
+MEASUREMENT STORED!
+ Total Measurements: 2537
+MEASUREMENT STORED!
+ Total Measurements: 2538
+MEASUREMENT STORED!
+ Total Measurements: 2539
+MEASUREMENT STORED!
+ Total Measurements: 2540
+MEASUREMENT STORED!
+ Total Measurements: 2541
+MEASUREMENT STORED!
+ Total Measurements: 2542
+MEASUREMENT STORED!
+ Total Measurements: 2543
+MEASUREMENT STORED!
+ Total Measurements: 2544
+MEASUREMENT STORED!
+ Total Measurements: 2545
+MEASUREMENT STORED!
+ Total Measurements: 2546
+MEASUREMENT STORED!
+ Total Measurements: 2547
+MEASUREMENT STORED!
+ Total Measurements: 2548
+MEASUREMENT STORED!
+ Total Measurements: 2549
+MEASUREMENT STORED!
+ Total Measurements: 2550
+MEASUREMENT STORED!
+ Total Measurements: 2551
+MEASUREMENT STORED!
+ Total Measurements: 2552
+MEASUREMENT STORED!
+ Total Measurements: 2553
+MEASUREMENT STORED!
+ Total Measurements: 2554
+MEASUREMENT STORED!
+ Total Measurements: 2555
+MEASUREMENT STORED!
+ Total Measurements: 2556
+MEASUREMENT STORED!
+ Total Measurements: 2557
+MEASUREMENT STORED!
+ Total Measurements: 2558
+MEASUREMENT STORED!
+ Total Measurements: 2559
+MEASUREMENT STORED!
+ Total Measurements: 2560
+MEASUREMENT STORED!
+ Total Measurements: 2561
+MEASUREMENT STORED!
+ Total Measurements: 2562
+MEASUREMENT STORED!
+ Total Measurements: 2563
+MEASUREMENT STORED!
+ Total Measurements: 2564
+MEASUREMENT STORED!
+ Total Measurements: 2565
+MEASUREMENT STORED!
+ Total Measurements: 2566
+MEASUREMENT STORED!
+ Total Measurements: 2567
+MEASUREMENT STORED!
+ Total Measurements: 2568
+MEASUREMENT STORED!
+ Total Measurements: 2569
+MEASUREMENT STORED!
+ Total Measurements: 2570
+MEASUREMENT STORED!
+ Total Measurements: 2571
+MEASUREMENT STORED!
+ Total Measurements: 2572
+MEASUREMENT STORED!
+ Total Measurements: 2573
+MEASUREMENT STORED!
+ Total Measurements: 2574
+MEASUREMENT STORED!
+ Total Measurements: 2575
+MEASUREMENT STORED!
+ Total Measurements: 2576
+MEASUREMENT STORED!
+ Total Measurements: 2577
+MEASUREMENT STORED!
+ Total Measurements: 2578
+MEASUREMENT STORED!
+ Total Measurements: 2579
+MEASUREMENT STORED!
+ Total Measurements: 2580
+MEASUREMENT STORED!
+ Total Measurements: 2581
+MEASUREMENT STORED!
+ Total Measurements: 2582
+MEASUREMENT STORED!
+ Total Measurements: 2583
+MEASUREMENT STORED!
+ Total Measurements: 2584
+MEASUREMENT STORED!
+ Total Measurements: 2585
+MEASUREMENT STORED!
+ Total Measurements: 2586
+MEASUREMENT STORED!
+ Total Measurements: 2587
+MEASUREMENT STORED!
+ Total Measurements: 2588
+MEASUREMENT STORED!
+ Total Measurements: 2589
+MEASUREMENT STORED!
+ Total Measurements: 2590
+MEASUREMENT STORED!
+ Total Measurements: 2591
+MEASUREMENT STORED!
+ Total Measurements: 2592
+MEASUREMENT STORED!
+ Total Measurements: 2593
+MEASUREMENT STORED!
+ Total Measurements: 2594
+MEASUREMENT STORED!
+ Total Measurements: 2595
+MEASUREMENT STORED!
+ Total Measurements: 2596
+MEASUREMENT STORED!
+ Total Measurements: 2597
+MEASUREMENT STORED!
+ Total Measurements: 2598
+MEASUREMENT STORED!
+ Total Measurements: 2599
+MEASUREMENT STORED!
+ Total Measurements: 2600
+MEASUREMENT STORED!
+ Total Measurements: 2601
+MEASUREMENT STORED!
+ Total Measurements: 2602
+MEASUREMENT STORED!
+ Total Measurements: 2603
+MEASUREMENT STORED!
+ Total Measurements: 2604
+MEASUREMENT STORED!
+ Total Measurements: 2605
+MEASUREMENT STORED!
+ Total Measurements: 2606
+MEASUREMENT STORED!
+ Total Measurements: 2607
+MEASUREMENT STORED!
+ Total Measurements: 2608
+MEASUREMENT STORED!
+ Total Measurements: 2609
+MEASUREMENT STORED!
+ Total Measurements: 2610
+MEASUREMENT STORED!
+ Total Measurements: 2611
+MEASUREMENT STORED!
+ Total Measurements: 2612
+MEASUREMENT STORED!
+ Total Measurements: 2613
+MEASUREMENT STORED!
+ Total Measurements: 2614
+MEASUREMENT STORED!
+ Total Measurements: 2615
+MEASUREMENT STORED!
+ Total Measurements: 2616
+MEASUREMENT STORED!
+ Total Measurements: 2617
+MEASUREMENT STORED!
+ Total Measurements: 2618
+MEASUREMENT STORED!
+ Total Measurements: 2619
+MEASUREMENT STORED!
+ Total Measurements: 2620
+MEASUREMENT STORED!
+ Total Measurements: 2621
+MEASUREMENT STORED!
+ Total Measurements: 2622
+MEASUREMENT STORED!
+ Total Measurements: 2623
+MEASUREMENT STORED!
+ Total Measurements: 2624
+MEASUREMENT STORED!
+ Total Measurements: 2625
+MEASUREMENT STORED!
+ Total Measurements: 2626
+MEASUREMENT STORED!
+ Total Measurements: 2627
+MEASUREMENT STORED!
+ Total Measurements: 2628
+MEASUREMENT STORED!
+ Total Measurements: 2629
+MEASUREMENT STORED!
+ Total Measurements: 2630
+MEASUREMENT STORED!
+ Total Measurements: 2631
+MEASUREMENT STORED!
+ Total Measurements: 2632
+MEASUREMENT STORED!
+ Total Measurements: 2633
+MEASUREMENT STORED!
+ Total Measurements: 2634
+MEASUREMENT STORED!
+ Total Measurements: 2635
+MEASUREMENT STORED!
+ Total Measurements: 2636
+MEASUREMENT STORED!
+ Total Measurements: 2637
+MEASUREMENT STORED!
+ Total Measurements: 2638
+MEASUREMENT STORED!
+ Total Measurements: 2639
+MEASUREMENT STORED!
+ Total Measurements: 2640
+MEASUREMENT STORED!
+ Total Measurements: 2641
+MEASUREMENT STORED!
+ Total Measurements: 2642
+MEASUREMENT STORED!
+ Total Measurements: 2643
+MEASUREMENT STORED!
+ Total Measurements: 2644
+MEASUREMENT STORED!
+ Total Measurements: 2645
+MEASUREMENT STORED!
+ Total Measurements: 2646
+MEASUREMENT STORED!
+ Total Measurements: 2647
+MEASUREMENT STORED!
+ Total Measurements: 2648
+MEASUREMENT STORED!
+ Total Measurements: 2649
+MEASUREMENT STORED!
+ Total Measurements: 2650
+MEASUREMENT STORED!
+ Total Measurements: 2651
+MEASUREMENT STORED!
+ Total Measurements: 2652
+MEASUREMENT STORED!
+ Total Measurements: 2653
+MEASUREMENT STORED!
+ Total Measurements: 2654
+MEASUREMENT STORED!
+ Total Measurements: 2655
+MEASUREMENT STORED!
+ Total Measurements: 2656
+MEASUREMENT STORED!
+ Total Measurements: 2657
+MEASUREMENT STORED!
+ Total Measurements: 2658
+MEASUREMENT STORED!
+ Total Measurements: 2659
+MEASUREMENT STORED!
+ Total Measurements: 2660
+MEASUREMENT STORED!
+ Total Measurements: 2661
+MEASUREMENT STORED!
+ Total Measurements: 2662
+MEASUREMENT STORED!
+ Total Measurements: 2663
+MEASUREMENT STORED!
+ Total Measurements: 2664
+MEASUREMENT STORED!
+ Total Measurements: 2665
+MEASUREMENT STORED!
+ Total Measurements: 2666
+MEASUREMENT STORED!
+ Total Measurements: 2667
+MEASUREMENT STORED!
+ Total Measurements: 2668
+MEASUREMENT STORED!
+ Total Measurements: 2669
+MEASUREMENT STORED!
+ Total Measurements: 2670
+MEASUREMENT STORED!
+ Total Measurements: 2671
+MEASUREMENT STORED!
+ Total Measurements: 2672
+MEASUREMENT STORED!
+ Total Measurements: 2673
+MEASUREMENT STORED!
+ Total Measurements: 2674
+MEASUREMENT STORED!
+ Total Measurements: 2675
+MEASUREMENT STORED!
+ Total Measurements: 2676
+MEASUREMENT STORED!
+ Total Measurements: 2677
+MEASUREMENT STORED!
+ Total Measurements: 2678
+MEASUREMENT STORED!
+ Total Measurements: 2679
+MEASUREMENT STORED!
+ Total Measurements: 2680
+MEASUREMENT STORED!
+ Total Measurements: 2681
+MEASUREMENT STORED!
+ Total Measurements: 2682
+MEASUREMENT STORED!
+ Total Measurements: 2683
+MEASUREMENT STORED!
+ Total Measurements: 2684
+MEASUREMENT STORED!
+ Total Measurements: 2685
+MEASUREMENT STORED!
+ Total Measurements: 2686
+MEASUREMENT STORED!
+ Total Measurements: 2687
+MEASUREMENT STORED!
+ Total Measurements: 2688
+MEASUREMENT STORED!
+ Total Measurements: 2689
+MEASUREMENT STORED!
+ Total Measurements: 2690
+MEASUREMENT STORED!
+ Total Measurements: 2691
+MEASUREMENT STORED!
+ Total Measurements: 2692
+MEASUREMENT STORED!
+ Total Measurements: 2693
+MEASUREMENT STORED!
+ Total Measurements: 2694
+MEASUREMENT STORED!
+ Total Measurements: 2695
+MEASUREMENT STORED!
+ Total Measurements: 2696
+MEASUREMENT STORED!
+ Total Measurements: 2697
+MEASUREMENT STORED!
+ Total Measurements: 2698
+MEASUREMENT STORED!
+ Total Measurements: 2699
+MEASUREMENT STORED!
+ Total Measurements: 2700
+MEASUREMENT STORED!
+ Total Measurements: 2701
+MEASUREMENT STORED!
+ Total Measurements: 2702
+MEASUREMENT STORED!
+ Total Measurements: 2703
+MEASUREMENT STORED!
+ Total Measurements: 2704
+MEASUREMENT STORED!
+ Total Measurements: 2705
+MEASUREMENT STORED!
+ Total Measurements: 2706
+MEASUREMENT STORED!
+ Total Measurements: 2707
+MEASUREMENT STORED!
+ Total Measurements: 2708
+MEASUREMENT STORED!
+ Total Measurements: 2709
+MEASUREMENT STORED!
+ Total Measurements: 2710
+MEASUREMENT STORED!
+ Total Measurements: 2711
+MEASUREMENT STORED!
+ Total Measurements: 2712
+MEASUREMENT STORED!
+ Total Measurements: 2713
+MEASUREMENT STORED!
+ Total Measurements: 2714
+MEASUREMENT STORED!
+ Total Measurements: 2715
+MEASUREMENT STORED!
+ Total Measurements: 2716
+MEASUREMENT STORED!
+ Total Measurements: 2717
+MEASUREMENT STORED!
+ Total Measurements: 2718
+MEASUREMENT STORED!
+ Total Measurements: 2719
+MEASUREMENT STORED!
+ Total Measurements: 2720
+MEASUREMENT STORED!
+ Total Measurements: 2721
+MEASUREMENT STORED!
+ Total Measurements: 2722
+MEASUREMENT STORED!
+ Total Measurements: 2723
+MEASUREMENT STORED!
+ Total Measurements: 2724
+MEASUREMENT STORED!
+ Total Measurements: 2725
+MEASUREMENT STORED!
+ Total Measurements: 2726
+MEASUREMENT STORED!
+ Total Measurements: 2727
+MEASUREMENT STORED!
+ Total Measurements: 2728
+MEASUREMENT STORED!
+ Total Measurements: 2729
+MEASUREMENT STORED!
+ Total Measurements: 2730
+MEASUREMENT STORED!
+ Total Measurements: 2731
+MEASUREMENT STORED!
+ Total Measurements: 2732
+MEASUREMENT STORED!
+ Total Measurements: 2733
+MEASUREMENT STORED!
+ Total Measurements: 2734
+MEASUREMENT STORED!
+ Total Measurements: 2735
+MEASUREMENT STORED!
+ Total Measurements: 2736
+MEASUREMENT STORED!
+ Total Measurements: 2737
+MEASUREMENT STORED!
+ Total Measurements: 2738
+MEASUREMENT STORED!
+ Total Measurements: 2739
+MEASUREMENT STORED!
+ Total Measurements: 2740
+MEASUREMENT STORED!
+ Total Measurements: 2741
+MEASUREMENT STORED!
+ Total Measurements: 2742
+MEASUREMENT STORED!
+ Total Measurements: 2743
+MEASUREMENT STORED!
+ Total Measurements: 2744
+MEASUREMENT STORED!
+ Total Measurements: 2745
+MEASUREMENT STORED!
+ Total Measurements: 2746
+MEASUREMENT STORED!
+ Total Measurements: 2747
+MEASUREMENT STORED!
+ Total Measurements: 2748
+MEASUREMENT STORED!
+ Total Measurements: 2749
+MEASUREMENT STORED!
+ Total Measurements: 2750
+MEASUREMENT STORED!
+ Total Measurements: 2751
+MEASUREMENT STORED!
+ Total Measurements: 2752
+MEASUREMENT STORED!
+ Total Measurements: 2753
+MEASUREMENT STORED!
+ Total Measurements: 2754
+MEASUREMENT STORED!
+ Total Measurements: 2755
+MEASUREMENT STORED!
+ Total Measurements: 2756
+MEASUREMENT STORED!
+ Total Measurements: 2757
+MEASUREMENT STORED!
+ Total Measurements: 2758
+MEASUREMENT STORED!
+ Total Measurements: 2759
+MEASUREMENT STORED!
+ Total Measurements: 2760
+MEASUREMENT STORED!
+ Total Measurements: 2761
+MEASUREMENT STORED!
+ Total Measurements: 2762
+MEASUREMENT STORED!
+ Total Measurements: 2763
+MEASUREMENT STORED!
+ Total Measurements: 2764
+MEASUREMENT STORED!
+ Total Measurements: 2765
+MEASUREMENT STORED!
+ Total Measurements: 2766
+MEASUREMENT STORED!
+ Total Measurements: 2767
+MEASUREMENT STORED!
+ Total Measurements: 2768
+MEASUREMENT STORED!
+ Total Measurements: 2769
+MEASUREMENT STORED!
+ Total Measurements: 2770
+MEASUREMENT STORED!
+ Total Measurements: 2771
+MEASUREMENT STORED!
+ Total Measurements: 2772
+MEASUREMENT STORED!
+ Total Measurements: 2773
+MEASUREMENT STORED!
+ Total Measurements: 2774
+MEASUREMENT STORED!
+ Total Measurements: 2775
+MEASUREMENT STORED!
+ Total Measurements: 2776
+MEASUREMENT STORED!
+ Total Measurements: 2777
+MEASUREMENT STORED!
+ Total Measurements: 2778
+MEASUREMENT STORED!
+ Total Measurements: 2779
+MEASUREMENT STORED!
+ Total Measurements: 2780
+MEASUREMENT STORED!
+ Total Measurements: 2781
+MEASUREMENT STORED!
+ Total Measurements: 2782
+MEASUREMENT STORED!
+ Total Measurements: 2783
+MEASUREMENT STORED!
+ Total Measurements: 2784
+MEASUREMENT STORED!
+ Total Measurements: 2785
+MEASUREMENT STORED!
+ Total Measurements: 2786
+MEASUREMENT STORED!
+ Total Measurements: 2787
+MEASUREMENT STORED!
+ Total Measurements: 2788
+MEASUREMENT STORED!
+ Total Measurements: 2789
+MEASUREMENT STORED!
+ Total Measurements: 2790
+MEASUREMENT STORED!
+ Total Measurements: 2791
+MEASUREMENT STORED!
+ Total Measurements: 2792
+MEASUREMENT STORED!
+ Total Measurements: 2793
+MEASUREMENT STORED!
+ Total Measurements: 2794
+MEASUREMENT STORED!
+ Total Measurements: 2795
+MEASUREMENT STORED!
+ Total Measurements: 2796
+MEASUREMENT STORED!
+ Total Measurements: 2797
+MEASUREMENT STORED!
+ Total Measurements: 2798
+MEASUREMENT STORED!
+ Total Measurements: 2799
+MEASUREMENT STORED!
+ Total Measurements: 2800
+MEASUREMENT STORED!
+ Total Measurements: 2801
+MEASUREMENT STORED!
+ Total Measurements: 2802
+MEASUREMENT STORED!
+ Total Measurements: 2803
+MEASUREMENT STORED!
+ Total Measurements: 2804
+MEASUREMENT STORED!
+ Total Measurements: 2805
+MEASUREMENT STORED!
+ Total Measurements: 2806
+MEASUREMENT STORED!
+ Total Measurements: 2807
+MEASUREMENT STORED!
+ Total Measurements: 2808
+MEASUREMENT STORED!
+ Total Measurements: 2809
+MEASUREMENT STORED!
+ Total Measurements: 2810
+MEASUREMENT STORED!
+ Total Measurements: 2811
+MEASUREMENT STORED!
+ Total Measurements: 2812
+MEASUREMENT STORED!
+ Total Measurements: 2813
+MEASUREMENT STORED!
+ Total Measurements: 2814
+MEASUREMENT STORED!
+ Total Measurements: 2815
+MEASUREMENT STORED!
+ Total Measurements: 2816
+MEASUREMENT STORED!
+ Total Measurements: 2817
+MEASUREMENT STORED!
+ Total Measurements: 2818
+MEASUREMENT STORED!
+ Total Measurements: 2819
+MEASUREMENT STORED!
+ Total Measurements: 2820
+MEASUREMENT STORED!
+ Total Measurements: 2821
+MEASUREMENT STORED!
+ Total Measurements: 2822
+MEASUREMENT STORED!
+ Total Measurements: 2823
+MEASUREMENT STORED!
+ Total Measurements: 2824
+MEASUREMENT STORED!
+ Total Measurements: 2825
+MEASUREMENT STORED!
+ Total Measurements: 2826
+MEASUREMENT STORED!
+ Total Measurements: 2827
+MEASUREMENT STORED!
+ Total Measurements: 2828
+MEASUREMENT STORED!
+ Total Measurements: 2829
+MEASUREMENT STORED!
+ Total Measurements: 2830
+MEASUREMENT STORED!
+ Total Measurements: 2831
+MEASUREMENT STORED!
+ Total Measurements: 2832
+MEASUREMENT STORED!
+ Total Measurements: 2833
+MEASUREMENT STORED!
+ Total Measurements: 2834
+MEASUREMENT STORED!
+ Total Measurements: 2835
+MEASUREMENT STORED!
+ Total Measurements: 2836
+MEASUREMENT STORED!
+ Total Measurements: 2837
+MEASUREMENT STORED!
+ Total Measurements: 2838
+MEASUREMENT STORED!
+ Total Measurements: 2839
+MEASUREMENT STORED!
+ Total Measurements: 2840
+MEASUREMENT STORED!
+ Total Measurements: 2841
+MEASUREMENT STORED!
+ Total Measurements: 2842
+MEASUREMENT STORED!
+ Total Measurements: 2843
+MEASUREMENT STORED!
+ Total Measurements: 2844
+MEASUREMENT STORED!
+ Total Measurements: 2845
+MEASUREMENT STORED!
+ Total Measurements: 2846
+MEASUREMENT STORED!
+ Total Measurements: 2847
+MEASUREMENT STORED!
+ Total Measurements: 2848
+MEASUREMENT STORED!
+ Total Measurements: 2849
+MEASUREMENT STORED!
+ Total Measurements: 2850
+MEASUREMENT STORED!
+ Total Measurements: 2851
+MEASUREMENT STORED!
+ Total Measurements: 2852
+MEASUREMENT STORED!
+ Total Measurements: 2853
+MEASUREMENT STORED!
+ Total Measurements: 2854
+MEASUREMENT STORED!
+ Total Measurements: 2855
+MEASUREMENT STORED!
+ Total Measurements: 2856
+MEASUREMENT STORED!
+ Total Measurements: 2857
+MEASUREMENT STORED!
+ Total Measurements: 2858
+MEASUREMENT STORED!
+ Total Measurements: 2859
+MEASUREMENT STORED!
+ Total Measurements: 2860
+MEASUREMENT STORED!
+ Total Measurements: 2861
+MEASUREMENT STORED!
+ Total Measurements: 2862
+MEASUREMENT STORED!
+ Total Measurements: 2863
+MEASUREMENT STORED!
+ Total Measurements: 2864
+MEASUREMENT STORED!
+ Total Measurements: 2865
+MEASUREMENT STORED!
+ Total Measurements: 2866
+MEASUREMENT STORED!
+ Total Measurements: 2867
+MEASUREMENT STORED!
+ Total Measurements: 2868
+MEASUREMENT STORED!
+ Total Measurements: 2869
+MEASUREMENT STORED!
+ Total Measurements: 2870
+MEASUREMENT STORED!
+ Total Measurements: 2871
+MEASUREMENT STORED!
+ Total Measurements: 2872
+MEASUREMENT STORED!
+ Total Measurements: 2873
+MEASUREMENT STORED!
+ Total Measurements: 2874
+MEASUREMENT STORED!
+ Total Measurements: 2875
+MEASUREMENT STORED!
+ Total Measurements: 2876
+MEASUREMENT STORED!
+ Total Measurements: 2877
+MEASUREMENT STORED!
+ Total Measurements: 2878
+MEASUREMENT STORED!
+ Total Measurements: 2879
+MEASUREMENT STORED!
+ Total Measurements: 2880
+MEASUREMENT STORED!
+ Total Measurements: 2881
+MEASUREMENT STORED!
+ Total Measurements: 2882
+MEASUREMENT STORED!
+ Total Measurements: 2883
+MEASUREMENT STORED!
+ Total Measurements: 2884
+MEASUREMENT STORED!
+ Total Measurements: 2885
+MEASUREMENT STORED!
+ Total Measurements: 2886
+MEASUREMENT STORED!
+ Total Measurements: 2887
+MEASUREMENT STORED!
+ Total Measurements: 2888
+MEASUREMENT STORED!
+ Total Measurements: 2889
+MEASUREMENT STORED!
+ Total Measurements: 2890
+MEASUREMENT STORED!
+ Total Measurements: 2891
+MEASUREMENT STORED!
+ Total Measurements: 2892
+MEASUREMENT STORED!
+ Total Measurements: 2893
+MEASUREMENT STORED!
+ Total Measurements: 2894
+MEASUREMENT STORED!
+ Total Measurements: 2895
+MEASUREMENT STORED!
+ Total Measurements: 2896
+MEASUREMENT STORED!
+ Total Measurements: 2897
+MEASUREMENT STORED!
+ Total Measurements: 2898
+MEASUREMENT STORED!
+ Total Measurements: 2899
+MEASUREMENT STORED!
+ Total Measurements: 2900
+MEASUREMENT STORED!
+ Total Measurements: 2901
+MEASUREMENT STORED!
+ Total Measurements: 2902
+MEASUREMENT STORED!
+ Total Measurements: 2903
+MEASUREMENT STORED!
+ Total Measurements: 2904
+MEASUREMENT STORED!
+ Total Measurements: 2905
+MEASUREMENT STORED!
+ Total Measurements: 2906
+MEASUREMENT STORED!
+ Total Measurements: 2907
+MEASUREMENT STORED!
+ Total Measurements: 2908
+MEASUREMENT STORED!
+ Total Measurements: 2909
+MEASUREMENT STORED!
+ Total Measurements: 2910
+MEASUREMENT STORED!
+ Total Measurements: 2911
+MEASUREMENT STORED!
+ Total Measurements: 2912
+MEASUREMENT STORED!
+ Total Measurements: 2913
+MEASUREMENT STORED!
+ Total Measurements: 2914
+MEASUREMENT STORED!
+ Total Measurements: 2915
+MEASUREMENT STORED!
+ Total Measurements: 2916
+MEASUREMENT STORED!
+ Total Measurements: 2917
+MEASUREMENT STORED!
+ Total Measurements: 2918
+MEASUREMENT STORED!
+ Total Measurements: 2919
+MEASUREMENT STORED!
+ Total Measurements: 2920
+MEASUREMENT STORED!
+ Total Measurements: 2921
+MEASUREMENT STORED!
+ Total Measurements: 2922
+MEASUREMENT STORED!
+ Total Measurements: 2923
+MEASUREMENT STORED!
+ Total Measurements: 2924
+MEASUREMENT STORED!
+ Total Measurements: 2925
+MEASUREMENT STORED!
+ Total Measurements: 2926
+MEASUREMENT STORED!
+ Total Measurements: 2927
+MEASUREMENT STORED!
+ Total Measurements: 2928
+MEASUREMENT STORED!
+ Total Measurements: 2929
+MEASUREMENT STORED!
+ Total Measurements: 2930
+MEASUREMENT STORED!
+ Total Measurements: 2931
+MEASUREMENT STORED!
+ Total Measurements: 2932
+MEASUREMENT STORED!
+ Total Measurements: 2933
+MEASUREMENT STORED!
+ Total Measurements: 2934
+MEASUREMENT STORED!
+ Total Measurements: 2935
+MEASUREMENT STORED!
+ Total Measurements: 2936
+MEASUREMENT STORED!
+ Total Measurements: 2937
+MEASUREMENT STORED!
+ Total Measurements: 2938
+MEASUREMENT STORED!
+ Total Measurements: 2939
+MEASUREMENT STORED!
+ Total Measurements: 2940
+MEASUREMENT STORED!
+ Total Measurements: 2941
+MEASUREMENT STORED!
+ Total Measurements: 2942
+MEASUREMENT STORED!
+ Total Measurements: 2943
+MEASUREMENT STORED!
+ Total Measurements: 2944
+MEASUREMENT STORED!
+ Total Measurements: 2945
+MEASUREMENT STORED!
+ Total Measurements: 2946
+MEASUREMENT STORED!
+ Total Measurements: 2947
+MEASUREMENT STORED!
+ Total Measurements: 2948
+MEASUREMENT STORED!
+ Total Measurements: 2949
+MEASUREMENT STORED!
+ Total Measurements: 2950
+MEASUREMENT STORED!
+ Total Measurements: 2951
+MEASUREMENT STORED!
+ Total Measurements: 2952
+MEASUREMENT STORED!
+ Total Measurements: 2953
+MEASUREMENT STORED!
+ Total Measurements: 2954
+MEASUREMENT STORED!
+ Total Measurements: 2955
+MEASUREMENT STORED!
+ Total Measurements: 2956
+MEASUREMENT STORED!
+ Total Measurements: 2957
+MEASUREMENT STORED!
+ Total Measurements: 2958
+MEASUREMENT STORED!
+ Total Measurements: 2959
+MEASUREMENT STORED!
+ Total Measurements: 2960
+MEASUREMENT STORED!
+ Total Measurements: 2961
+MEASUREMENT STORED!
+ Total Measurements: 2962
+MEASUREMENT STORED!
+ Total Measurements: 2963
+MEASUREMENT STORED!
+ Total Measurements: 2964
+MEASUREMENT STORED!
+ Total Measurements: 2965
+MEASUREMENT STORED!
+ Total Measurements: 2966
+MEASUREMENT STORED!
+ Total Measurements: 2967
+MEASUREMENT STORED!
+ Total Measurements: 2968
+MEASUREMENT STORED!
+ Total Measurements: 2969
+MEASUREMENT STORED!
+ Total Measurements: 2970
+MEASUREMENT STORED!
+ Total Measurements: 2971
+MEASUREMENT STORED!
+ Total Measurements: 2972
+MEASUREMENT STORED!
+ Total Measurements: 2973
+MEASUREMENT STORED!
+ Total Measurements: 2974
+MEASUREMENT STORED!
+ Total Measurements: 2975
+MEASUREMENT STORED!
+ Total Measurements: 2976
+MEASUREMENT STORED!
+ Total Measurements: 2977
+MEASUREMENT STORED!
+ Total Measurements: 2978
+MEASUREMENT STORED!
+ Total Measurements: 2979
+MEASUREMENT STORED!
+ Total Measurements: 2980
+MEASUREMENT STORED!
+ Total Measurements: 2981
+MEASUREMENT STORED!
+ Total Measurements: 2982
+MEASUREMENT STORED!
+ Total Measurements: 2983
+MEASUREMENT STORED!
+ Total Measurements: 2984
+MEASUREMENT STORED!
+ Total Measurements: 2985
+MEASUREMENT STORED!
+ Total Measurements: 2986
+MEASUREMENT STORED!
+ Total Measurements: 2987
+MEASUREMENT STORED!
+ Total Measurements: 2988
+MEASUREMENT STORED!
+ Total Measurements: 2989
+MEASUREMENT STORED!
+ Total Measurements: 2990
+MEASUREMENT STORED!
+ Total Measurements: 2991
+MEASUREMENT STORED!
+ Total Measurements: 2992
+MEASUREMENT STORED!
+ Total Measurements: 2993
+MEASUREMENT STORED!
+ Total Measurements: 2994
+MEASUREMENT STORED!
+ Total Measurements: 2995
+MEASUREMENT STORED!
+ Total Measurements: 2996
+MEASUREMENT STORED!
+ Total Measurements: 2997
+MEASUREMENT STORED!
+ Total Measurements: 2998
+MEASUREMENT STORED!
+ Total Measurements: 2999
+MEASUREMENT STORED!
+ Total Measurements: 3000
+MEASUREMENT STORED!
+ Total Measurements: 3001
+MEASUREMENT STORED!
+ Total Measurements: 3002
+MEASUREMENT STORED!
+ Total Measurements: 3003
+MEASUREMENT STORED!
+ Total Measurements: 3004
+MEASUREMENT STORED!
+ Total Measurements: 3005
+MEASUREMENT STORED!
+ Total Measurements: 3006
+MEASUREMENT STORED!
+ Total Measurements: 3007
+MEASUREMENT STORED!
+ Total Measurements: 3008
+MEASUREMENT STORED!
+ Total Measurements: 3009
+MEASUREMENT STORED!
+ Total Measurements: 3010
+MEASUREMENT STORED!
+ Total Measurements: 3011
+MEASUREMENT STORED!
+ Total Measurements: 3012
+MEASUREMENT STORED!
+ Total Measurements: 3013
+MEASUREMENT STORED!
+ Total Measurements: 3014
+MEASUREMENT STORED!
+ Total Measurements: 3015
+MEASUREMENT STORED!
+ Total Measurements: 3016
+MEASUREMENT STORED!
+ Total Measurements: 3017
+MEASUREMENT STORED!
+ Total Measurements: 3018
+MEASUREMENT STORED!
+ Total Measurements: 3019
+MEASUREMENT STORED!
+ Total Measurements: 3020
+MEASUREMENT STORED!
+ Total Measurements: 3021
+MEASUREMENT STORED!
+ Total Measurements: 3022
+MEASUREMENT STORED!
+ Total Measurements: 3023
+MEASUREMENT STORED!
+ Total Measurements: 3024
+MEASUREMENT STORED!
+ Total Measurements: 3025
+MEASUREMENT STORED!
+ Total Measurements: 3026
+MEASUREMENT STORED!
+ Total Measurements: 3027
+MEASUREMENT STORED!
+ Total Measurements: 3028
+MEASUREMENT STORED!
+ Total Measurements: 3029
+MEASUREMENT STORED!
+ Total Measurements: 3030
+MEASUREMENT STORED!
+ Total Measurements: 3031
+MEASUREMENT STORED!
+ Total Measurements: 3032
+MEASUREMENT STORED!
+ Total Measurements: 3033
+MEASUREMENT STORED!
+ Total Measurements: 3034
+MEASUREMENT STORED!
+ Total Measurements: 3035
+MEASUREMENT STORED!
+ Total Measurements: 3036
+MEASUREMENT STORED!
+ Total Measurements: 3037
+MEASUREMENT STORED!
+ Total Measurements: 3038
+MEASUREMENT STORED!
+ Total Measurements: 3039
+MEASUREMENT STORED!
+ Total Measurements: 3040
+MEASUREMENT STORED!
+ Total Measurements: 3041
+MEASUREMENT STORED!
+ Total Measurements: 3042
+MEASUREMENT STORED!
+ Total Measurements: 3043
+MEASUREMENT STORED!
+ Total Measurements: 3044
+MEASUREMENT STORED!
+ Total Measurements: 3045
+MEASUREMENT STORED!
+ Total Measurements: 3046
+MEASUREMENT STORED!
+ Total Measurements: 3047
+MEASUREMENT STORED!
+ Total Measurements: 3048
+MEASUREMENT STORED!
+ Total Measurements: 3049
+MEASUREMENT STORED!
+ Total Measurements: 3050
+MEASUREMENT STORED!
+ Total Measurements: 3051
+MEASUREMENT STORED!
+ Total Measurements: 3052
+MEASUREMENT STORED!
+ Total Measurements: 3053
+MEASUREMENT STORED!
+ Total Measurements: 3054
+MEASUREMENT STORED!
+ Total Measurements: 3055
+MEASUREMENT STORED!
+ Total Measurements: 3056
+MEASUREMENT STORED!
+ Total Measurements: 3057
+MEASUREMENT STORED!
+ Total Measurements: 3058
+MEASUREMENT STORED!
+ Total Measurements: 3059
+MEASUREMENT STORED!
+ Total Measurements: 3060
+MEASUREMENT STORED!
+ Total Measurements: 3061
+MEASUREMENT STORED!
+ Total Measurements: 3062
+MEASUREMENT STORED!
+ Total Measurements: 3063
+MEASUREMENT STORED!
+ Total Measurements: 3064
+MEASUREMENT STORED!
+ Total Measurements: 3065
+MEASUREMENT STORED!
+ Total Measurements: 3066
+MEASUREMENT STORED!
+ Total Measurements: 3067
+MEASUREMENT STORED!
+ Total Measurements: 3068
+MEASUREMENT STORED!
+ Total Measurements: 3069
+MEASUREMENT STORED!
+ Total Measurements: 3070
+MEASUREMENT STORED!
+ Total Measurements: 3071
+MEASUREMENT STORED!
+ Total Measurements: 3072
+MEASUREMENT STORED!
+ Total Measurements: 3073
+MEASUREMENT STORED!
+ Total Measurements: 3074
+MEASUREMENT STORED!
+ Total Measurements: 3075
+MEASUREMENT STORED!
+ Total Measurements: 3076
+MEASUREMENT STORED!
+ Total Measurements: 3077
+MEASUREMENT STORED!
+ Total Measurements: 3078
+MEASUREMENT STORED!
+ Total Measurements: 3079
+MEASUREMENT STORED!
+ Total Measurements: 3080
+MEASUREMENT STORED!
+ Total Measurements: 3081
+MEASUREMENT STORED!
+ Total Measurements: 3082
+MEASUREMENT STORED!
+ Total Measurements: 3083
+MEASUREMENT STORED!
+ Total Measurements: 3084
+MEASUREMENT STORED!
+ Total Measurements: 3085
+MEASUREMENT STORED!
+ Total Measurements: 3086
+MEASUREMENT STORED!
+ Total Measurements: 3087
+MEASUREMENT STORED!
+ Total Measurements: 3088
+MEASUREMENT STORED!
+ Total Measurements: 3089
+MEASUREMENT STORED!
+ Total Measurements: 3090
+MEASUREMENT STORED!
+ Total Measurements: 3091
+MEASUREMENT STORED!
+ Total Measurements: 3092
+MEASUREMENT STORED!
+ Total Measurements: 3093
+MEASUREMENT STORED!
+ Total Measurements: 3094
+MEASUREMENT STORED!
+ Total Measurements: 3095
+MEASUREMENT STORED!
+ Total Measurements: 3096
+MEASUREMENT STORED!
+ Total Measurements: 3097
+MEASUREMENT STORED!
+ Total Measurements: 3098
+MEASUREMENT STORED!
+ Total Measurements: 3099
+MEASUREMENT STORED!
+ Total Measurements: 3100
+MEASUREMENT STORED!
+ Total Measurements: 3101
+MEASUREMENT STORED!
+ Total Measurements: 3102
+MEASUREMENT STORED!
+ Total Measurements: 3103
+MEASUREMENT STORED!
+ Total Measurements: 3104
+MEASUREMENT STORED!
+ Total Measurements: 3105
+MEASUREMENT STORED!
+ Total Measurements: 3106
+MEASUREMENT STORED!
+ Total Measurements: 3107
+MEASUREMENT STORED!
+ Total Measurements: 3108
+MEASUREMENT STORED!
+ Total Measurements: 3109
+MEASUREMENT STORED!
+ Total Measurements: 3110
+MEASUREMENT STORED!
+ Total Measurements: 3111
+MEASUREMENT STORED!
+ Total Measurements: 3112
+MEASUREMENT STORED!
+ Total Measurements: 3113
+MEASUREMENT STORED!
+ Total Measurements: 3114
+MEASUREMENT STORED!
+ Total Measurements: 3115
+MEASUREMENT STORED!
+ Total Measurements: 3116
+MEASUREMENT STORED!
+ Total Measurements: 3117
+MEASUREMENT STORED!
+ Total Measurements: 3118
+MEASUREMENT STORED!
+ Total Measurements: 3119
+MEASUREMENT STORED!
+ Total Measurements: 3120
+MEASUREMENT STORED!
+ Total Measurements: 3121
+MEASUREMENT STORED!
+ Total Measurements: 3122
+MEASUREMENT STORED!
+ Total Measurements: 3123
+MEASUREMENT STORED!
+ Total Measurements: 3124
+MEASUREMENT STORED!
+ Total Measurements: 3125
+MEASUREMENT STORED!
+ Total Measurements: 3126
+MEASUREMENT STORED!
+ Total Measurements: 3127
+MEASUREMENT STORED!
+ Total Measurements: 3128
+MEASUREMENT STORED!
+ Total Measurements: 3129
+MEASUREMENT STORED!
+ Total Measurements: 3130
+MEASUREMENT STORED!
+ Total Measurements: 3131
+MEASUREMENT STORED!
+ Total Measurements: 3132
+MEASUREMENT STORED!
+ Total Measurements: 3133
+MEASUREMENT STORED!
+ Total Measurements: 3134
+MEASUREMENT STORED!
+ Total Measurements: 3135
+MEASUREMENT STORED!
+ Total Measurements: 3136
+MEASUREMENT STORED!
+ Total Measurements: 3137
+MEASUREMENT STORED!
+ Total Measurements: 3138
+MEASUREMENT STORED!
+ Total Measurements: 3139
+MEASUREMENT STORED!
+ Total Measurements: 3140
+MEASUREMENT STORED!
+ Total Measurements: 3141
+MEASUREMENT STORED!
+ Total Measurements: 3142
+MEASUREMENT STORED!
+ Total Measurements: 3143
+MEASUREMENT STORED!
+ Total Measurements: 3144
+MEASUREMENT STORED!
+ Total Measurements: 3145
+MEASUREMENT STORED!
+ Total Measurements: 3146
+MEASUREMENT STORED!
+ Total Measurements: 3147
+MEASUREMENT STORED!
+ Total Measurements: 3148
+MEASUREMENT STORED!
+ Total Measurements: 3149
+MEASUREMENT STORED!
+ Total Measurements: 3150
+MEASUREMENT STORED!
+ Total Measurements: 3151
+MEASUREMENT STORED!
+ Total Measurements: 3152
+MEASUREMENT STORED!
+ Total Measurements: 3153
+MEASUREMENT STORED!
+ Total Measurements: 3154
+MEASUREMENT STORED!
+ Total Measurements: 3155
+MEASUREMENT STORED!
+ Total Measurements: 3156
+MEASUREMENT STORED!
+ Total Measurements: 3157
+MEASUREMENT STORED!
+ Total Measurements: 3158
+MEASUREMENT STORED!
+ Total Measurements: 3159
+MEASUREMENT STORED!
+ Total Measurements: 3160
+MEASUREMENT STORED!
+ Total Measurements: 3161
+MEASUREMENT STORED!
+ Total Measurements: 3162
+MEASUREMENT STORED!
+ Total Measurements: 3163
+MEASUREMENT STORED!
+ Total Measurements: 3164
+MEASUREMENT STORED!
+ Total Measurements: 3165
+MEASUREMENT STORED!
+ Total Measurements: 3166
+MEASUREMENT STORED!
+ Total Measurements: 3167
+MEASUREMENT STORED!
+ Total Measurements: 3168
+MEASUREMENT STORED!
+ Total Measurements: 3169
+MEASUREMENT STORED!
+ Total Measurements: 3170
+MEASUREMENT STORED!
+ Total Measurements: 3171
+MEASUREMENT STORED!
+ Total Measurements: 3172
+MEASUREMENT STORED!
+ Total Measurements: 3173
+MEASUREMENT STORED!
+ Total Measurements: 3174
+MEASUREMENT STORED!
+ Total Measurements: 3175
+MEASUREMENT STORED!
+ Total Measurements: 3176
+MEASUREMENT STORED!
+ Total Measurements: 3177
+MEASUREMENT STORED!
+ Total Measurements: 3178
+MEASUREMENT STORED!
+ Total Measurements: 3179
+MEASUREMENT STORED!
+ Total Measurements: 3180
+MEASUREMENT STORED!
+ Total Measurements: 3181
+MEASUREMENT STORED!
+ Total Measurements: 3182
+MEASUREMENT STORED!
+ Total Measurements: 3183
+MEASUREMENT STORED!
+ Total Measurements: 3184
+MEASUREMENT STORED!
+ Total Measurements: 3185
+MEASUREMENT STORED!
+ Total Measurements: 3186
+MEASUREMENT STORED!
+ Total Measurements: 3187
+MEASUREMENT STORED!
+ Total Measurements: 3188
+MEASUREMENT STORED!
+ Total Measurements: 3189
+MEASUREMENT STORED!
+ Total Measurements: 3190
+MEASUREMENT STORED!
+ Total Measurements: 3191
+MEASUREMENT STORED!
+ Total Measurements: 3192
+MEASUREMENT STORED!
+ Total Measurements: 3193
+MEASUREMENT STORED!
+ Total Measurements: 3194
+MEASUREMENT STORED!
+ Total Measurements: 3195
+MEASUREMENT STORED!
+ Total Measurements: 3196
+MEASUREMENT STORED!
+ Total Measurements: 3197
+MEASUREMENT STORED!
+ Total Measurements: 3198
+MEASUREMENT STORED!
+ Total Measurements: 3199
+MEASUREMENT STORED!
+ Total Measurements: 3200
+MEASUREMENT STORED!
+ Total Measurements: 3201
+MEASUREMENT STORED!
+ Total Measurements: 3202
+MEASUREMENT STORED!
+ Total Measurements: 3203
+MEASUREMENT STORED!
+ Total Measurements: 3204
+MEASUREMENT STORED!
+ Total Measurements: 3205
+MEASUREMENT STORED!
+ Total Measurements: 3206
+MEASUREMENT STORED!
+ Total Measurements: 3207
+MEASUREMENT STORED!
+ Total Measurements: 3208
+MEASUREMENT STORED!
+ Total Measurements: 3209
+MEASUREMENT STORED!
+ Total Measurements: 3210
+MEASUREMENT STORED!
+ Total Measurements: 3211
+MEASUREMENT STORED!
+ Total Measurements: 3212
+MEASUREMENT STORED!
+ Total Measurements: 3213
+MEASUREMENT STORED!
+ Total Measurements: 3214
+MEASUREMENT STORED!
+ Total Measurements: 3215
+MEASUREMENT STORED!
+ Total Measurements: 3216
+MEASUREMENT STORED!
+ Total Measurements: 3217
+MEASUREMENT STORED!
+ Total Measurements: 3218
+MEASUREMENT STORED!
+ Total Measurements: 3219
+MEASUREMENT STORED!
+ Total Measurements: 3220
+MEASUREMENT STORED!
+ Total Measurements: 3221
+MEASUREMENT STORED!
+ Total Measurements: 3222
+MEASUREMENT STORED!
+ Total Measurements: 3223
+MEASUREMENT STORED!
+ Total Measurements: 3224
+MEASUREMENT STORED!
+ Total Measurements: 3225
+MEASUREMENT STORED!
+ Total Measurements: 3226
+MEASUREMENT STORED!
+ Total Measurements: 3227
+MEASUREMENT STORED!
+ Total Measurements: 3228
+MEASUREMENT STORED!
+ Total Measurements: 3229
+MEASUREMENT STORED!
+ Total Measurements: 3230
+MEASUREMENT STORED!
+ Total Measurements: 3231
+MEASUREMENT STORED!
+ Total Measurements: 3232
+MEASUREMENT STORED!
+ Total Measurements: 3233
+MEASUREMENT STORED!
+ Total Measurements: 3234
+MEASUREMENT STORED!
+ Total Measurements: 3235
+MEASUREMENT STORED!
+ Total Measurements: 3236
+MEASUREMENT STORED!
+ Total Measurements: 3237
+MEASUREMENT STORED!
+ Total Measurements: 3238
+MEASUREMENT STORED!
+ Total Measurements: 3239
+MEASUREMENT STORED!
+ Total Measurements: 3240
+MEASUREMENT STORED!
+ Total Measurements: 3241
+MEASUREMENT STORED!
+ Total Measurements: 3242
+MEASUREMENT STORED!
+ Total Measurements: 3243
+MEASUREMENT STORED!
+ Total Measurements: 3244
+MEASUREMENT STORED!
+ Total Measurements: 3245
+MEASUREMENT STORED!
+ Total Measurements: 3246
+MEASUREMENT STORED!
+ Total Measurements: 3247
+MEASUREMENT STORED!
+ Total Measurements: 3248
+MEASUREMENT STORED!
+ Total Measurements: 3249
+MEASUREMENT STORED!
+ Total Measurements: 3250
+MEASUREMENT STORED!
+ Total Measurements: 3251
+MEASUREMENT STORED!
+ Total Measurements: 3252
+MEASUREMENT STORED!
+ Total Measurements: 3253
+MEASUREMENT STORED!
+ Total Measurements: 3254
+MEASUREMENT STORED!
+ Total Measurements: 3255
+MEASUREMENT STORED!
+ Total Measurements: 3256
+MEASUREMENT STORED!
+ Total Measurements: 3257
+MEASUREMENT STORED!
+ Total Measurements: 3258
+MEASUREMENT STORED!
+ Total Measurements: 3259
+MEASUREMENT STORED!
+ Total Measurements: 3260
+MEASUREMENT STORED!
+ Total Measurements: 3261
+MEASUREMENT STORED!
+ Total Measurements: 3262
+MEASUREMENT STORED!
+ Total Measurements: 3263
+MEASUREMENT STORED!
+ Total Measurements: 3264
+MEASUREMENT STORED!
+ Total Measurements: 3265
+MEASUREMENT STORED!
+ Total Measurements: 3266
+MEASUREMENT STORED!
+ Total Measurements: 3267
+MEASUREMENT STORED!
+ Total Measurements: 3268
+MEASUREMENT STORED!
+ Total Measurements: 3269
+MEASUREMENT STORED!
+ Total Measurements: 3270
+MEASUREMENT STORED!
+ Total Measurements: 3271
+MEASUREMENT STORED!
+ Total Measurements: 3272
+MEASUREMENT STORED!
+ Total Measurements: 3273
+MEASUREMENT STORED!
+ Total Measurements: 3274
+MEASUREMENT STORED!
+ Total Measurements: 3275
+MEASUREMENT STORED!
+ Total Measurements: 3276
+MEASUREMENT STORED!
+ Total Measurements: 3277
+MEASUREMENT STORED!
+ Total Measurements: 3278
+MEASUREMENT STORED!
+ Total Measurements: 3279
+MEASUREMENT STORED!
+ Total Measurements: 3280
+MEASUREMENT STORED!
+ Total Measurements: 3281
+MEASUREMENT STORED!
+ Total Measurements: 3282
+MEASUREMENT STORED!
+ Total Measurements: 3283
+MEASUREMENT STORED!
+ Total Measurements: 3284
+MEASUREMENT STORED!
+ Total Measurements: 3285
+MEASUREMENT STORED!
+ Total Measurements: 3286
+MEASUREMENT STORED!
+ Total Measurements: 3287
+MEASUREMENT STORED!
+ Total Measurements: 3288
+MEASUREMENT STORED!
+ Total Measurements: 3289
+MEASUREMENT STORED!
+ Total Measurements: 3290
+MEASUREMENT STORED!
+ Total Measurements: 3291
+MEASUREMENT STORED!
+ Total Measurements: 3292
+MEASUREMENT STORED!
+ Total Measurements: 3293
+MEASUREMENT STORED!
+ Total Measurements: 3294
+MEASUREMENT STORED!
+ Total Measurements: 3295
+MEASUREMENT STORED!
+ Total Measurements: 3296
+MEASUREMENT STORED!
+ Total Measurements: 3297
+MEASUREMENT STORED!
+ Total Measurements: 3298
+MEASUREMENT STORED!
+ Total Measurements: 3299
+MEASUREMENT STORED!
+ Total Measurements: 3300
+MEASUREMENT STORED!
+ Total Measurements: 3301
+MEASUREMENT STORED!
+ Total Measurements: 3302
+MEASUREMENT STORED!
+ Total Measurements: 3303
+MEASUREMENT STORED!
+ Total Measurements: 3304
+MEASUREMENT STORED!
+ Total Measurements: 3305
+MEASUREMENT STORED!
+ Total Measurements: 3306
+MEASUREMENT STORED!
+ Total Measurements: 3307
+MEASUREMENT STORED!
+ Total Measurements: 3308
+MEASUREMENT STORED!
+ Total Measurements: 3309
+MEASUREMENT STORED!
+ Total Measurements: 3310
+MEASUREMENT STORED!
+ Total Measurements: 3311
+MEASUREMENT STORED!
+ Total Measurements: 3312
+MEASUREMENT STORED!
+ Total Measurements: 3313
+MEASUREMENT STORED!
+ Total Measurements: 3314
+MEASUREMENT STORED!
+ Total Measurements: 3315
+MEASUREMENT STORED!
+ Total Measurements: 3316
+MEASUREMENT STORED!
+ Total Measurements: 3317
+MEASUREMENT STORED!
+ Total Measurements: 3318
+MEASUREMENT STORED!
+ Total Measurements: 3319
+MEASUREMENT STORED!
+ Total Measurements: 3320
+MEASUREMENT STORED!
+ Total Measurements: 3321
+MEASUREMENT STORED!
+ Total Measurements: 3322
+MEASUREMENT STORED!
+ Total Measurements: 3323
+MEASUREMENT STORED!
+ Total Measurements: 3324
+MEASUREMENT STORED!
+ Total Measurements: 3325
+MEASUREMENT STORED!
+ Total Measurements: 3326
+MEASUREMENT STORED!
+ Total Measurements: 3327
+MEASUREMENT STORED!
+ Total Measurements: 3328
+MEASUREMENT STORED!
+ Total Measurements: 3329
+MEASUREMENT STORED!
+ Total Measurements: 3330
+MEASUREMENT STORED!
+ Total Measurements: 3331
+MEASUREMENT STORED!
+ Total Measurements: 3332
+MEASUREMENT STORED!
+ Total Measurements: 3333
+MEASUREMENT STORED!
+ Total Measurements: 3334
+MEASUREMENT STORED!
+ Total Measurements: 3335
+MEASUREMENT STORED!
+ Total Measurements: 3336
+MEASUREMENT STORED!
+ Total Measurements: 3337
+MEASUREMENT STORED!
+ Total Measurements: 3338
+MEASUREMENT STORED!
+ Total Measurements: 3339
+MEASUREMENT STORED!
+ Total Measurements: 3340
+MEASUREMENT STORED!
+ Total Measurements: 3341
+MEASUREMENT STORED!
+ Total Measurements: 3342
+MEASUREMENT STORED!
+ Total Measurements: 3343
+MEASUREMENT STORED!
+ Total Measurements: 3344
+MEASUREMENT STORED!
+ Total Measurements: 3345
+MEASUREMENT STORED!
+ Total Measurements: 3346
+MEASUREMENT STORED!
+ Total Measurements: 3347
+MEASUREMENT STORED!
+ Total Measurements: 3348
+MEASUREMENT STORED!
+ Total Measurements: 3349
+MEASUREMENT STORED!
+ Total Measurements: 3350
+MEASUREMENT STORED!
+ Total Measurements: 3351
+MEASUREMENT STORED!
+ Total Measurements: 3352
+MEASUREMENT STORED!
+ Total Measurements: 3353
+MEASUREMENT STORED!
+ Total Measurements: 3354
+MEASUREMENT STORED!
+ Total Measurements: 3355
+MEASUREMENT STORED!
+ Total Measurements: 3356
+MEASUREMENT STORED!
+ Total Measurements: 3357
+MEASUREMENT STORED!
+ Total Measurements: 3358
+MEASUREMENT STORED!
+ Total Measurements: 3359
+MEASUREMENT STORED!
+ Total Measurements: 3360
+MEASUREMENT STORED!
+ Total Measurements: 3361
+MEASUREMENT STORED!
+ Total Measurements: 3362
+MEASUREMENT STORED!
+ Total Measurements: 3363
+MEASUREMENT STORED!
+ Total Measurements: 3364
+MEASUREMENT STORED!
+ Total Measurements: 3365
+MEASUREMENT STORED!
+ Total Measurements: 3366
+MEASUREMENT STORED!
+ Total Measurements: 3367
+MEASUREMENT STORED!
+ Total Measurements: 3368
+MEASUREMENT STORED!
+ Total Measurements: 3369
+MEASUREMENT STORED!
+ Total Measurements: 3370
+MEASUREMENT STORED!
+ Total Measurements: 3371
+MEASUREMENT STORED!
+ Total Measurements: 3372
+MEASUREMENT STORED!
+ Total Measurements: 3373
+MEASUREMENT STORED!
+ Total Measurements: 3374
+MEASUREMENT STORED!
+ Total Measurements: 3375
+MEASUREMENT STORED!
+ Total Measurements: 3376
+MEASUREMENT STORED!
+ Total Measurements: 3377
+MEASUREMENT STORED!
+ Total Measurements: 3378
+MEASUREMENT STORED!
+ Total Measurements: 3379
+MEASUREMENT STORED!
+ Total Measurements: 3380
+MEASUREMENT STORED!
+ Total Measurements: 3381
+MEASUREMENT STORED!
+ Total Measurements: 3382
+MEASUREMENT STORED!
+ Total Measurements: 3383
+MEASUREMENT STORED!
+ Total Measurements: 3384
+MEASUREMENT STORED!
+ Total Measurements: 3385
+MEASUREMENT STORED!
+ Total Measurements: 3386
+MEASUREMENT STORED!
+ Total Measurements: 3387
+MEASUREMENT STORED!
+ Total Measurements: 3388
+MEASUREMENT STORED!
+ Total Measurements: 3389
+MEASUREMENT STORED!
+ Total Measurements: 3390
+MEASUREMENT STORED!
+ Total Measurements: 3391
+MEASUREMENT STORED!
+ Total Measurements: 3392
+MEASUREMENT STORED!
+ Total Measurements: 3393
+MEASUREMENT STORED!
+ Total Measurements: 3394
+MEASUREMENT STORED!
+ Total Measurements: 3395
+MEASUREMENT STORED!
+ Total Measurements: 3396
+MEASUREMENT STORED!
+ Total Measurements: 3397
+MEASUREMENT STORED!
+ Total Measurements: 3398
+MEASUREMENT STORED!
+ Total Measurements: 3399
+MEASUREMENT STORED!
+ Total Measurements: 3400
+MEASUREMENT STORED!
+ Total Measurements: 3401
+MEASUREMENT STORED!
+ Total Measurements: 3402
+MEASUREMENT STORED!
+ Total Measurements: 3403
+MEASUREMENT STORED!
+ Total Measurements: 3404
+MEASUREMENT STORED!
+ Total Measurements: 3405
+MEASUREMENT STORED!
+ Total Measurements: 3406
+MEASUREMENT STORED!
+ Total Measurements: 3407
+MEASUREMENT STORED!
+ Total Measurements: 3408
+MEASUREMENT STORED!
+ Total Measurements: 3409
+MEASUREMENT STORED!
+ Total Measurements: 3410
+MEASUREMENT STORED!
+ Total Measurements: 3411
+MEASUREMENT STORED!
+ Total Measurements: 3412
+MEASUREMENT STORED!
+ Total Measurements: 3413
+MEASUREMENT STORED!
+ Total Measurements: 3414
+MEASUREMENT STORED!
+ Total Measurements: 3415
+MEASUREMENT STORED!
+ Total Measurements: 3416
+MEASUREMENT STORED!
+ Total Measurements: 3417
+MEASUREMENT STORED!
+ Total Measurements: 3418
+MEASUREMENT STORED!
+ Total Measurements: 3419
+MEASUREMENT STORED!
+ Total Measurements: 3420
+MEASUREMENT STORED!
+ Total Measurements: 3421
+MEASUREMENT STORED!
+ Total Measurements: 3422
+MEASUREMENT STORED!
+ Total Measurements: 3423
+MEASUREMENT STORED!
+ Total Measurements: 3424
+MEASUREMENT STORED!
+ Total Measurements: 3425
+MEASUREMENT STORED!
+ Total Measurements: 3426
+MEASUREMENT STORED!
+ Total Measurements: 3427
+MEASUREMENT STORED!
+ Total Measurements: 3428
+MEASUREMENT STORED!
+ Total Measurements: 3429
+MEASUREMENT STORED!
+ Total Measurements: 3430
+MEASUREMENT STORED!
+ Total Measurements: 3431
+MEASUREMENT STORED!
+ Total Measurements: 3432
+MEASUREMENT STORED!
+ Total Measurements: 3433
+MEASUREMENT STORED!
+ Total Measurements: 3434
+MEASUREMENT STORED!
+ Total Measurements: 3435
+MEASUREMENT STORED!
+ Total Measurements: 3436
+MEASUREMENT STORED!
+ Total Measurements: 3437
+MEASUREMENT STORED!
+ Total Measurements: 3438
+MEASUREMENT STORED!
+ Total Measurements: 3439
+MEASUREMENT STORED!
+ Total Measurements: 3440
+MEASUREMENT STORED!
+ Total Measurements: 3441
+MEASUREMENT STORED!
+ Total Measurements: 3442
+MEASUREMENT STORED!
+ Total Measurements: 3443
+MEASUREMENT STORED!
+ Total Measurements: 3444
+MEASUREMENT STORED!
+ Total Measurements: 3445
+MEASUREMENT STORED!
+ Total Measurements: 3446
+MEASUREMENT STORED!
+ Total Measurements: 3447
+MEASUREMENT STORED!
+ Total Measurements: 3448
+MEASUREMENT STORED!
+ Total Measurements: 3449
+MEASUREMENT STORED!
+ Total Measurements: 3450
+MEASUREMENT STORED!
+ Total Measurements: 3451
+MEASUREMENT STORED!
+ Total Measurements: 3452
+MEASUREMENT STORED!
+ Total Measurements: 3453
+MEASUREMENT STORED!
+ Total Measurements: 3454
+MEASUREMENT STORED!
+ Total Measurements: 3455
+MEASUREMENT STORED!
+ Total Measurements: 3456
+MEASUREMENT STORED!
+ Total Measurements: 3457
+MEASUREMENT STORED!
+ Total Measurements: 3458
+MEASUREMENT STORED!
+ Total Measurements: 3459
+MEASUREMENT STORED!
+ Total Measurements: 3460
+MEASUREMENT STORED!
+ Total Measurements: 3461
+MEASUREMENT STORED!
+ Total Measurements: 3462
+MEASUREMENT STORED!
+ Total Measurements: 3463
+MEASUREMENT STORED!
+ Total Measurements: 3464
+MEASUREMENT STORED!
+ Total Measurements: 3465
+MEASUREMENT STORED!
+ Total Measurements: 3466
+MEASUREMENT STORED!
+ Total Measurements: 3467
+MEASUREMENT STORED!
+ Total Measurements: 3468
+MEASUREMENT STORED!
+ Total Measurements: 3469
+MEASUREMENT STORED!
+ Total Measurements: 3470
+MEASUREMENT STORED!
+ Total Measurements: 3471
+MEASUREMENT STORED!
+ Total Measurements: 3472
+MEASUREMENT STORED!
+ Total Measurements: 3473
+MEASUREMENT STORED!
+ Total Measurements: 3474
+MEASUREMENT STORED!
+ Total Measurements: 3475
+MEASUREMENT STORED!
+ Total Measurements: 3476
+MEASUREMENT STORED!
+ Total Measurements: 3477
+MEASUREMENT STORED!
+ Total Measurements: 3478
+MEASUREMENT STORED!
+ Total Measurements: 3479
+MEASUREMENT STORED!
+ Total Measurements: 3480
+MEASUREMENT STORED!
+ Total Measurements: 3481
+MEASUREMENT STORED!
+ Total Measurements: 3482
+MEASUREMENT STORED!
+ Total Measurements: 3483
+MEASUREMENT STORED!
+ Total Measurements: 3484
+MEASUREMENT STORED!
+ Total Measurements: 3485
+MEASUREMENT STORED!
+ Total Measurements: 3486
+MEASUREMENT STORED!
+ Total Measurements: 3487
+MEASUREMENT STORED!
+ Total Measurements: 3488
+MEASUREMENT STORED!
+ Total Measurements: 3489
+MEASUREMENT STORED!
+ Total Measurements: 3490
+MEASUREMENT STORED!
+ Total Measurements: 3491
+MEASUREMENT STORED!
+ Total Measurements: 3492
+MEASUREMENT STORED!
+ Total Measurements: 3493
+MEASUREMENT STORED!
+ Total Measurements: 3494
+MEASUREMENT STORED!
+ Total Measurements: 3495
+MEASUREMENT STORED!
+ Total Measurements: 3496
+MEASUREMENT STORED!
+ Total Measurements: 3497
+MEASUREMENT STORED!
+ Total Measurements: 3498
+MEASUREMENT STORED!
+ Total Measurements: 3499
+MEASUREMENT STORED!
+ Total Measurements: 3500
+MEASUREMENT STORED!
+ Total Measurements: 3501
+MEASUREMENT STORED!
+ Total Measurements: 3502
+MEASUREMENT STORED!
+ Total Measurements: 3503
+MEASUREMENT STORED!
+ Total Measurements: 3504
+MEASUREMENT STORED!
+ Total Measurements: 3505
+MEASUREMENT STORED!
+ Total Measurements: 3506
+MEASUREMENT STORED!
+ Total Measurements: 3507
+MEASUREMENT STORED!
+ Total Measurements: 3508
+MEASUREMENT STORED!
+ Total Measurements: 3509
+MEASUREMENT STORED!
+ Total Measurements: 3510
+MEASUREMENT STORED!
+ Total Measurements: 3511
+MEASUREMENT STORED!
+ Total Measurements: 3512
+MEASUREMENT STORED!
+ Total Measurements: 3513
+MEASUREMENT STORED!
+ Total Measurements: 3514
+MEASUREMENT STORED!
+ Total Measurements: 3515
+MEASUREMENT STORED!
+ Total Measurements: 3516
+MEASUREMENT STORED!
+ Total Measurements: 3517
+MEASUREMENT STORED!
+ Total Measurements: 3518
+MEASUREMENT STORED!
+ Total Measurements: 3519
+MEASUREMENT STORED!
+ Total Measurements: 3520
+MEASUREMENT STORED!
+ Total Measurements: 3521
+MEASUREMENT STORED!
+ Total Measurements: 3522
+MEASUREMENT STORED!
+ Total Measurements: 3523
+MEASUREMENT STORED!
+ Total Measurements: 3524
+MEASUREMENT STORED!
+ Total Measurements: 3525
+MEASUREMENT STORED!
+ Total Measurements: 3526
+MEASUREMENT STORED!
+ Total Measurements: 3527
+MEASUREMENT STORED!
+ Total Measurements: 3528
+MEASUREMENT STORED!
+ Total Measurements: 3529
+MEASUREMENT STORED!
+ Total Measurements: 3530
+MEASUREMENT STORED!
+ Total Measurements: 3531
+MEASUREMENT STORED!
+ Total Measurements: 3532
+MEASUREMENT STORED!
+ Total Measurements: 3533
+MEASUREMENT STORED!
+ Total Measurements: 3534
+MEASUREMENT STORED!
+ Total Measurements: 3535
+MEASUREMENT STORED!
+ Total Measurements: 3536
+MEASUREMENT STORED!
+ Total Measurements: 3537
+MEASUREMENT STORED!
+ Total Measurements: 3538
+MEASUREMENT STORED!
+ Total Measurements: 3539
+MEASUREMENT STORED!
+ Total Measurements: 3540
+MEASUREMENT STORED!
+ Total Measurements: 3541
+MEASUREMENT STORED!
+ Total Measurements: 3542
+MEASUREMENT STORED!
+ Total Measurements: 3543
+MEASUREMENT STORED!
+ Total Measurements: 3544
+MEASUREMENT STORED!
+ Total Measurements: 3545
+MEASUREMENT STORED!
+ Total Measurements: 3546
+MEASUREMENT STORED!
+ Total Measurements: 3547
+MEASUREMENT STORED!
+ Total Measurements: 3548
+MEASUREMENT STORED!
+ Total Measurements: 3549
+MEASUREMENT STORED!
+ Total Measurements: 3550
+MEASUREMENT STORED!
+ Total Measurements: 3551
+MEASUREMENT STORED!
+ Total Measurements: 3552
+MEASUREMENT STORED!
+ Total Measurements: 3553
+MEASUREMENT STORED!
+ Total Measurements: 3554
+MEASUREMENT STORED!
+ Total Measurements: 3555
+MEASUREMENT STORED!
+ Total Measurements: 3556
+MEASUREMENT STORED!
+ Total Measurements: 3557
+MEASUREMENT STORED!
+ Total Measurements: 3558
+MEASUREMENT STORED!
+ Total Measurements: 3559
+MEASUREMENT STORED!
+ Total Measurements: 3560
+MEASUREMENT STORED!
+ Total Measurements: 3561
+MEASUREMENT STORED!
+ Total Measurements: 3562
+MEASUREMENT STORED!
+ Total Measurements: 3563
+MEASUREMENT STORED!
+ Total Measurements: 3564
+MEASUREMENT STORED!
+ Total Measurements: 3565
+MEASUREMENT STORED!
+ Total Measurements: 3566
+MEASUREMENT STORED!
+ Total Measurements: 3567
+MEASUREMENT STORED!
+ Total Measurements: 3568
+MEASUREMENT STORED!
+ Total Measurements: 3569
+MEASUREMENT STORED!
+ Total Measurements: 3570
+MEASUREMENT STORED!
+ Total Measurements: 3571
+MEASUREMENT STORED!
+ Total Measurements: 3572
+MEASUREMENT STORED!
+ Total Measurements: 3573
+MEASUREMENT STORED!
+ Total Measurements: 3574
+MEASUREMENT STORED!
+ Total Measurements: 3575
+MEASUREMENT STORED!
+ Total Measurements: 3576
+MEASUREMENT STORED!
+ Total Measurements: 3577
+MEASUREMENT STORED!
+ Total Measurements: 3578
+MEASUREMENT STORED!
+ Total Measurements: 3579
+MEASUREMENT STORED!
+ Total Measurements: 3580
+MEASUREMENT STORED!
+ Total Measurements: 3581
+MEASUREMENT STORED!
+ Total Measurements: 3582
+MEASUREMENT STORED!
+ Total Measurements: 3583
+MEASUREMENT STORED!
+ Total Measurements: 3584
+MEASUREMENT STORED!
+ Total Measurements: 3585
+MEASUREMENT STORED!
+ Total Measurements: 3586
+MEASUREMENT STORED!
+ Total Measurements: 3587
+MEASUREMENT STORED!
+ Total Measurements: 3588
+MEASUREMENT STORED!
+ Total Measurements: 3589
+MEASUREMENT STORED!
+ Total Measurements: 3590
+MEASUREMENT STORED!
+ Total Measurements: 3591
+MEASUREMENT STORED!
+ Total Measurements: 3592
+MEASUREMENT STORED!
+ Total Measurements: 3593
+MEASUREMENT STORED!
+ Total Measurements: 3594
+MEASUREMENT STORED!
+ Total Measurements: 3595
+MEASUREMENT STORED!
+ Total Measurements: 3596
+MEASUREMENT STORED!
+ Total Measurements: 3597
+MEASUREMENT STORED!
+ Total Measurements: 3598
+MEASUREMENT STORED!
+ Total Measurements: 3599
+MEASUREMENT STORED!
+ Total Measurements: 3600
+MEASUREMENT STORED!
+ Total Measurements: 3601
+MEASUREMENT STORED!
+ Total Measurements: 3602
+MEASUREMENT STORED!
+ Total Measurements: 3603
+MEASUREMENT STORED!
+ Total Measurements: 3604
+MEASUREMENT STORED!
+ Total Measurements: 3605
+MEASUREMENT STORED!
+ Total Measurements: 3606
+MEASUREMENT STORED!
+ Total Measurements: 3607
+MEASUREMENT STORED!
+ Total Measurements: 3608
+MEASUREMENT STORED!
+ Total Measurements: 3609
+MEASUREMENT STORED!
+ Total Measurements: 3610
+MEASUREMENT STORED!
+ Total Measurements: 3611
+MEASUREMENT STORED!
+ Total Measurements: 3612
+MEASUREMENT STORED!
+ Total Measurements: 3613
+MEASUREMENT STORED!
+ Total Measurements: 3614
+MEASUREMENT STORED!
+ Total Measurements: 3615
+MEASUREMENT STORED!
+ Total Measurements: 3616
+MEASUREMENT STORED!
+ Total Measurements: 3617
+MEASUREMENT STORED!
+ Total Measurements: 3618
+MEASUREMENT STORED!
+ Total Measurements: 3619
+MEASUREMENT STORED!
+ Total Measurements: 3620
+MEASUREMENT STORED!
+ Total Measurements: 3621
+MEASUREMENT STORED!
+ Total Measurements: 3622
+MEASUREMENT STORED!
+ Total Measurements: 3623
+MEASUREMENT STORED!
+ Total Measurements: 3624
+MEASUREMENT STORED!
+ Total Measurements: 3625
+MEASUREMENT STORED!
+ Total Measurements: 3626
+MEASUREMENT STORED!
+ Total Measurements: 3627
+MEASUREMENT STORED!
+ Total Measurements: 3628
+MEASUREMENT STORED!
+ Total Measurements: 3629
+MEASUREMENT STORED!
+ Total Measurements: 3630
+MEASUREMENT STORED!
+ Total Measurements: 3631
+MEASUREMENT STORED!
+ Total Measurements: 3632
+MEASUREMENT STORED!
+ Total Measurements: 3633
+MEASUREMENT STORED!
+ Total Measurements: 3634
+MEASUREMENT STORED!
+ Total Measurements: 3635
+MEASUREMENT STORED!
+ Total Measurements: 3636
+MEASUREMENT STORED!
+ Total Measurements: 3637
+MEASUREMENT STORED!
+ Total Measurements: 3638
+MEASUREMENT STORED!
+ Total Measurements: 3639
+MEASUREMENT STORED!
+ Total Measurements: 3640
+MEASUREMENT STORED!
+ Total Measurements: 3641
+MEASUREMENT STORED!
+ Total Measurements: 3642
+MEASUREMENT STORED!
+ Total Measurements: 3643
+MEASUREMENT STORED!
+ Total Measurements: 3644
+MEASUREMENT STORED!
+ Total Measurements: 3645
+MEASUREMENT STORED!
+ Total Measurements: 3646
+MEASUREMENT STORED!
+ Total Measurements: 3647
+MEASUREMENT STORED!
+ Total Measurements: 3648
+MEASUREMENT STORED!
+ Total Measurements: 3649
+MEASUREMENT STORED!
+ Total Measurements: 3650
+MEASUREMENT STORED!
+ Total Measurements: 3651
+MEASUREMENT STORED!
+ Total Measurements: 3652
+MEASUREMENT STORED!
+ Total Measurements: 3653
+MEASUREMENT STORED!
+ Total Measurements: 3654
+MEASUREMENT STORED!
+ Total Measurements: 3655
+MEASUREMENT STORED!
+ Total Measurements: 3656
+MEASUREMENT STORED!
+ Total Measurements: 3657
+MEASUREMENT STORED!
+ Total Measurements: 3658
+MEASUREMENT STORED!
+ Total Measurements: 3659
+MEASUREMENT STORED!
+ Total Measurements: 3660
+MEASUREMENT STORED!
+ Total Measurements: 3661
+MEASUREMENT STORED!
+ Total Measurements: 3662
+MEASUREMENT STORED!
+ Total Measurements: 3663
+MEASUREMENT STORED!
+ Total Measurements: 3664
+MEASUREMENT STORED!
+ Total Measurements: 3665
+MEASUREMENT STORED!
+ Total Measurements: 3666
+MEASUREMENT STORED!
+ Total Measurements: 3667
+MEASUREMENT STORED!
+ Total Measurements: 3668
+MEASUREMENT STORED!
+ Total Measurements: 3669
+MEASUREMENT STORED!
+ Total Measurements: 3670
+MEASUREMENT STORED!
+ Total Measurements: 3671
+MEASUREMENT STORED!
+ Total Measurements: 3672
+MEASUREMENT STORED!
+ Total Measurements: 3673
+MEASUREMENT STORED!
+ Total Measurements: 3674
+MEASUREMENT STORED!
+ Total Measurements: 3675
+MEASUREMENT STORED!
+ Total Measurements: 3676
+MEASUREMENT STORED!
+ Total Measurements: 3677
+MEASUREMENT STORED!
+ Total Measurements: 3678
+MEASUREMENT STORED!
+ Total Measurements: 3679
+MEASUREMENT STORED!
+ Total Measurements: 3680
+MEASUREMENT STORED!
+ Total Measurements: 3681
+MEASUREMENT STORED!
+ Total Measurements: 3682
+MEASUREMENT STORED!
+ Total Measurements: 3683
+MEASUREMENT STORED!
+ Total Measurements: 3684
+MEASUREMENT STORED!
+ Total Measurements: 3685
+MEASUREMENT STORED!
+ Total Measurements: 3686
+MEASUREMENT STORED!
+ Total Measurements: 3687
+MEASUREMENT STORED!
+ Total Measurements: 3688
+MEASUREMENT STORED!
+ Total Measurements: 3689
+MEASUREMENT STORED!
+ Total Measurements: 3690
+MEASUREMENT STORED!
+ Total Measurements: 3691
+MEASUREMENT STORED!
+ Total Measurements: 3692
+MEASUREMENT STORED!
+ Total Measurements: 3693
+MEASUREMENT STORED!
+ Total Measurements: 3694
+MEASUREMENT STORED!
+ Total Measurements: 3695
+MEASUREMENT STORED!
+ Total Measurements: 3696
+MEASUREMENT STORED!
+ Total Measurements: 3697
+MEASUREMENT STORED!
+ Total Measurements: 3698
+MEASUREMENT STORED!
+ Total Measurements: 3699
+MEASUREMENT STORED!
+ Total Measurements: 3700
+MEASUREMENT STORED!
+ Total Measurements: 3701
+MEASUREMENT STORED!
+ Total Measurements: 3702
+MEASUREMENT STORED!
+ Total Measurements: 3703
+MEASUREMENT STORED!
+ Total Measurements: 3704
+MEASUREMENT STORED!
+ Total Measurements: 3705
+MEASUREMENT STORED!
+ Total Measurements: 3706
+MEASUREMENT STORED!
+ Total Measurements: 3707
+MEASUREMENT STORED!
+ Total Measurements: 3708
+MEASUREMENT STORED!
+ Total Measurements: 3709
+MEASUREMENT STORED!
+ Total Measurements: 3710
+MEASUREMENT STORED!
+ Total Measurements: 3711
+MEASUREMENT STORED!
+ Total Measurements: 3712
+MEASUREMENT STORED!
+ Total Measurements: 3713
+MEASUREMENT STORED!
+ Total Measurements: 3714
+MEASUREMENT STORED!
+ Total Measurements: 3715
+MEASUREMENT STORED!
+ Total Measurements: 3716
+MEASUREMENT STORED!
+ Total Measurements: 3717
+MEASUREMENT STORED!
+ Total Measurements: 3718
+MEASUREMENT STORED!
+ Total Measurements: 3719
+MEASUREMENT STORED!
+ Total Measurements: 3720
+MEASUREMENT STORED!
+ Total Measurements: 3721
+MEASUREMENT STORED!
+ Total Measurements: 3722
+MEASUREMENT STORED!
+ Total Measurements: 3723
+MEASUREMENT STORED!
+ Total Measurements: 3724
+MEASUREMENT STORED!
+ Total Measurements: 3725
+MEASUREMENT STORED!
+ Total Measurements: 3726
+MEASUREMENT STORED!
+ Total Measurements: 3727
+MEASUREMENT STORED!
+ Total Measurements: 3728
+MEASUREMENT STORED!
+ Total Measurements: 3729
+MEASUREMENT STORED!
+ Total Measurements: 3730
+MEASUREMENT STORED!
+ Total Measurements: 3731
+MEASUREMENT STORED!
+ Total Measurements: 3732
+MEASUREMENT STORED!
+ Total Measurements: 3733
+MEASUREMENT STORED!
+ Total Measurements: 3734
+MEASUREMENT STORED!
+ Total Measurements: 3735
+MEASUREMENT STORED!
+ Total Measurements: 3736
+MEASUREMENT STORED!
+ Total Measurements: 3737
+MEASUREMENT STORED!
+ Total Measurements: 3738
+MEASUREMENT STORED!
+ Total Measurements: 3739
+MEASUREMENT STORED!
+ Total Measurements: 3740
+MEASUREMENT STORED!
+ Total Measurements: 3741
+MEASUREMENT STORED!
+ Total Measurements: 3742
+MEASUREMENT STORED!
+ Total Measurements: 3743
+MEASUREMENT STORED!
+ Total Measurements: 3744
+MEASUREMENT STORED!
+ Total Measurements: 3745
+MEASUREMENT STORED!
+ Total Measurements: 3746
+MEASUREMENT STORED!
+ Total Measurements: 3747
+MEASUREMENT STORED!
+ Total Measurements: 3748
+MEASUREMENT STORED!
+ Total Measurements: 3749
+MEASUREMENT STORED!
+ Total Measurements: 3750
+MEASUREMENT STORED!
+ Total Measurements: 3751
+MEASUREMENT STORED!
+ Total Measurements: 3752
+MEASUREMENT STORED!
+ Total Measurements: 3753
+MEASUREMENT STORED!
+ Total Measurements: 3754
+MEASUREMENT STORED!
+ Total Measurements: 3755
+MEASUREMENT STORED!
+ Total Measurements: 3756
+MEASUREMENT STORED!
+ Total Measurements: 3757
+MEASUREMENT STORED!
+ Total Measurements: 3758
+MEASUREMENT STORED!
+ Total Measurements: 3759
+MEASUREMENT STORED!
+ Total Measurements: 3760
+MEASUREMENT STORED!
+ Total Measurements: 3761
+MEASUREMENT STORED!
+ Total Measurements: 3762
+MEASUREMENT STORED!
+ Total Measurements: 3763
+MEASUREMENT STORED!
+ Total Measurements: 3764
+MEASUREMENT STORED!
+ Total Measurements: 3765
+MEASUREMENT STORED!
+ Total Measurements: 3766
+MEASUREMENT STORED!
+ Total Measurements: 3767
+MEASUREMENT STORED!
+ Total Measurements: 3768
+MEASUREMENT STORED!
+ Total Measurements: 3769
+MEASUREMENT STORED!
+ Total Measurements: 3770
+MEASUREMENT STORED!
+ Total Measurements: 3771
+MEASUREMENT STORED!
+ Total Measurements: 3772
+MEASUREMENT STORED!
+ Total Measurements: 3773
+MEASUREMENT STORED!
+ Total Measurements: 3774
+MEASUREMENT STORED!
+ Total Measurements: 3775
+MEASUREMENT STORED!
+ Total Measurements: 3776
+MEASUREMENT STORED!
+ Total Measurements: 3777
+MEASUREMENT STORED!
+ Total Measurements: 3778
+MEASUREMENT STORED!
+ Total Measurements: 3779
+MEASUREMENT STORED!
+ Total Measurements: 3780
+MEASUREMENT STORED!
+ Total Measurements: 3781
+MEASUREMENT STORED!
+ Total Measurements: 3782
+MEASUREMENT STORED!
+ Total Measurements: 3783
+MEASUREMENT STORED!
+ Total Measurements: 3784
+MEASUREMENT STORED!
+ Total Measurements: 3785
+MEASUREMENT STORED!
+ Total Measurements: 3786
+MEASUREMENT STORED!
+ Total Measurements: 3787
+MEASUREMENT STORED!
+ Total Measurements: 3788
+MEASUREMENT STORED!
+ Total Measurements: 3789
+MEASUREMENT STORED!
+ Total Measurements: 3790
+MEASUREMENT STORED!
+ Total Measurements: 3791
+MEASUREMENT STORED!
+ Total Measurements: 3792
+MEASUREMENT STORED!
+ Total Measurements: 3793
+MEASUREMENT STORED!
+ Total Measurements: 3794
+MEASUREMENT STORED!
+ Total Measurements: 3795
+MEASUREMENT STORED!
+ Total Measurements: 3796
+MEASUREMENT STORED!
+ Total Measurements: 3797
+MEASUREMENT STORED!
+ Total Measurements: 3798
+MEASUREMENT STORED!
+ Total Measurements: 3799
+MEASUREMENT STORED!
+ Total Measurements: 3800
+MEASUREMENT STORED!
+ Total Measurements: 3801
+MEASUREMENT STORED!
+ Total Measurements: 3802
+MEASUREMENT STORED!
+ Total Measurements: 3803
+MEASUREMENT STORED!
+ Total Measurements: 3804
+MEASUREMENT STORED!
+ Total Measurements: 3805
+MEASUREMENT STORED!
+ Total Measurements: 3806
+MEASUREMENT STORED!
+ Total Measurements: 3807
+MEASUREMENT STORED!
+ Total Measurements: 3808
+MEASUREMENT STORED!
+ Total Measurements: 3809
+MEASUREMENT STORED!
+ Total Measurements: 3810
+MEASUREMENT STORED!
+ Total Measurements: 3811
+MEASUREMENT STORED!
+ Total Measurements: 3812
+MEASUREMENT STORED!
+ Total Measurements: 3813
+MEASUREMENT STORED!
+ Total Measurements: 3814
+MEASUREMENT STORED!
+ Total Measurements: 3815
+MEASUREMENT STORED!
+ Total Measurements: 3816
+MEASUREMENT STORED!
+ Total Measurements: 3817
+MEASUREMENT STORED!
+ Total Measurements: 3818
+MEASUREMENT STORED!
+ Total Measurements: 3819
+MEASUREMENT STORED!
+ Total Measurements: 3820
+MEASUREMENT STORED!
+ Total Measurements: 3821
+MEASUREMENT STORED!
+ Total Measurements: 3822
+MEASUREMENT STORED!
+ Total Measurements: 3823
+MEASUREMENT STORED!
+ Total Measurements: 3824
+MEASUREMENT STORED!
+ Total Measurements: 3825
+MEASUREMENT STORED!
+ Total Measurements: 3826
+MEASUREMENT STORED!
+ Total Measurements: 3827
+MEASUREMENT STORED!
+ Total Measurements: 3828
+MEASUREMENT STORED!
+ Total Measurements: 3829
+MEASUREMENT STORED!
+ Total Measurements: 3830
+MEASUREMENT STORED!
+ Total Measurements: 3831
+MEASUREMENT STORED!
+ Total Measurements: 3832
+MEASUREMENT STORED!
+ Total Measurements: 3833
+MEASUREMENT STORED!
+ Total Measurements: 3834
+MEASUREMENT STORED!
+ Total Measurements: 3835
+MEASUREMENT STORED!
+ Total Measurements: 3836
+MEASUREMENT STORED!
+ Total Measurements: 3837
+MEASUREMENT STORED!
+ Total Measurements: 3838
+MEASUREMENT STORED!
+ Total Measurements: 3839
+MEASUREMENT STORED!
+ Total Measurements: 3840
+MEASUREMENT STORED!
+ Total Measurements: 3841
+MEASUREMENT STORED!
+ Total Measurements: 3842
+MEASUREMENT STORED!
+ Total Measurements: 3843
+MEASUREMENT STORED!
+ Total Measurements: 3844
+MEASUREMENT STORED!
+ Total Measurements: 3845
+MEASUREMENT STORED!
+ Total Measurements: 3846
+MEASUREMENT STORED!
+ Total Measurements: 3847
+MEASUREMENT STORED!
+ Total Measurements: 3848
+MEASUREMENT STORED!
+ Total Measurements: 3849
+MEASUREMENT STORED!
+ Total Measurements: 3850
+MEASUREMENT STORED!
+ Total Measurements: 3851
+MEASUREMENT STORED!
+ Total Measurements: 3852
+MEASUREMENT STORED!
+ Total Measurements: 3853
+MEASUREMENT STORED!
+ Total Measurements: 3854
+MEASUREMENT STORED!
+ Total Measurements: 3855
+MEASUREMENT STORED!
+ Total Measurements: 3856
+MEASUREMENT STORED!
+ Total Measurements: 3857
+MEASUREMENT STORED!
+ Total Measurements: 3858
+MEASUREMENT STORED!
+ Total Measurements: 3859
+MEASUREMENT STORED!
+ Total Measurements: 3860
+MEASUREMENT STORED!
+ Total Measurements: 3861
+MEASUREMENT STORED!
+ Total Measurements: 3862
+MEASUREMENT STORED!
+ Total Measurements: 3863
+MEASUREMENT STORED!
+ Total Measurements: 3864
+MEASUREMENT STORED!
+ Total Measurements: 3865
+MEASUREMENT STORED!
+ Total Measurements: 3866
+MEASUREMENT STORED!
+ Total Measurements: 3867
+MEASUREMENT STORED!
+ Total Measurements: 3868
+MEASUREMENT STORED!
+ Total Measurements: 3869
+MEASUREMENT STORED!
+ Total Measurements: 3870
+MEASUREMENT STORED!
+ Total Measurements: 3871
+MEASUREMENT STORED!
+ Total Measurements: 3872
+MEASUREMENT STORED!
+ Total Measurements: 3873
+MEASUREMENT STORED!
+ Total Measurements: 3874
+MEASUREMENT STORED!
+ Total Measurements: 3875
+MEASUREMENT STORED!
+ Total Measurements: 3876
+MEASUREMENT STORED!
+ Total Measurements: 3877
+MEASUREMENT STORED!
+ Total Measurements: 3878
+MEASUREMENT STORED!
+ Total Measurements: 3879
+MEASUREMENT STORED!
+ Total Measurements: 3880
+MEASUREMENT STORED!
+ Total Measurements: 3881
+MEASUREMENT STORED!
+ Total Measurements: 3882
+MEASUREMENT STORED!
+ Total Measurements: 3883
+MEASUREMENT STORED!
+ Total Measurements: 3884
+MEASUREMENT STORED!
+ Total Measurements: 3885
+MEASUREMENT STORED!
+ Total Measurements: 3886
+MEASUREMENT STORED!
+ Total Measurements: 3887
+MEASUREMENT STORED!
+ Total Measurements: 3888
+MEASUREMENT STORED!
+ Total Measurements: 3889
+MEASUREMENT STORED!
+ Total Measurements: 3890
+MEASUREMENT STORED!
+ Total Measurements: 3891
+MEASUREMENT STORED!
+ Total Measurements: 3892
+MEASUREMENT STORED!
+ Total Measurements: 3893
+MEASUREMENT STORED!
+ Total Measurements: 3894
+MEASUREMENT STORED!
+ Total Measurements: 3895
+MEASUREMENT STORED!
+ Total Measurements: 3896
+MEASUREMENT STORED!
+ Total Measurements: 3897
+MEASUREMENT STORED!
+ Total Measurements: 3898
+MEASUREMENT STORED!
+ Total Measurements: 3899
+MEASUREMENT STORED!
+ Total Measurements: 3900
+MEASUREMENT STORED!
+ Total Measurements: 3901
+MEASUREMENT STORED!
+ Total Measurements: 3902
+MEASUREMENT STORED!
+ Total Measurements: 3903
+MEASUREMENT STORED!
+ Total Measurements: 3904
+MEASUREMENT STORED!
+ Total Measurements: 3905
+MEASUREMENT STORED!
+ Total Measurements: 3906
+MEASUREMENT STORED!
+ Total Measurements: 3907
+MEASUREMENT STORED!
+ Total Measurements: 3908
+MEASUREMENT STORED!
+ Total Measurements: 3909
+MEASUREMENT STORED!
+ Total Measurements: 3910
+MEASUREMENT STORED!
+ Total Measurements: 3911
+MEASUREMENT STORED!
+ Total Measurements: 3912
+MEASUREMENT STORED!
+ Total Measurements: 3913
+MEASUREMENT STORED!
+ Total Measurements: 3914
+MEASUREMENT STORED!
+ Total Measurements: 3915
+MEASUREMENT STORED!
+ Total Measurements: 3916
+MEASUREMENT STORED!
+ Total Measurements: 3917
+MEASUREMENT STORED!
+ Total Measurements: 3918
+MEASUREMENT STORED!
+ Total Measurements: 3919
+MEASUREMENT STORED!
+ Total Measurements: 3920
+MEASUREMENT STORED!
+ Total Measurements: 3921
+MEASUREMENT STORED!
+ Total Measurements: 3922
+MEASUREMENT STORED!
+ Total Measurements: 3923
+MEASUREMENT STORED!
+ Total Measurements: 3924
+MEASUREMENT STORED!
+ Total Measurements: 3925
+MEASUREMENT STORED!
+ Total Measurements: 3926
+MEASUREMENT STORED!
+ Total Measurements: 3927
+MEASUREMENT STORED!
+ Total Measurements: 3928
+MEASUREMENT STORED!
+ Total Measurements: 3929
+MEASUREMENT STORED!
+ Total Measurements: 3930
+MEASUREMENT STORED!
+ Total Measurements: 3931
+MEASUREMENT STORED!
+ Total Measurements: 3932
+MEASUREMENT STORED!
+ Total Measurements: 3933
+MEASUREMENT STORED!
+ Total Measurements: 3934
+MEASUREMENT STORED!
+ Total Measurements: 3935
+MEASUREMENT STORED!
+ Total Measurements: 3936
+MEASUREMENT STORED!
+ Total Measurements: 3937
+MEASUREMENT STORED!
+ Total Measurements: 3938
+MEASUREMENT STORED!
+ Total Measurements: 3939
+MEASUREMENT STORED!
+ Total Measurements: 3940
+MEASUREMENT STORED!
+ Total Measurements: 3941
+MEASUREMENT STORED!
+ Total Measurements: 3942
+MEASUREMENT STORED!
+ Total Measurements: 3943
+MEASUREMENT STORED!
+ Total Measurements: 3944
+MEASUREMENT STORED!
+ Total Measurements: 3945
+MEASUREMENT STORED!
+ Total Measurements: 3946
+MEASUREMENT STORED!
+ Total Measurements: 3947
+MEASUREMENT STORED!
+ Total Measurements: 3948
+MEASUREMENT STORED!
+ Total Measurements: 3949
+MEASUREMENT STORED!
+ Total Measurements: 3950
+MEASUREMENT STORED!
+ Total Measurements: 3951
+MEASUREMENT STORED!
+ Total Measurements: 3952
+MEASUREMENT STORED!
+ Total Measurements: 3953
+MEASUREMENT STORED!
+ Total Measurements: 3954
+MEASUREMENT STORED!
+ Total Measurements: 3955
+MEASUREMENT STORED!
+ Total Measurements: 3956
+MEASUREMENT STORED!
+ Total Measurements: 3957
+MEASUREMENT STORED!
+ Total Measurements: 3958
+MEASUREMENT STORED!
+ Total Measurements: 3959
+MEASUREMENT STORED!
+ Total Measurements: 3960
+MEASUREMENT STORED!
+ Total Measurements: 3961
+MEASUREMENT STORED!
+ Total Measurements: 3962
+MEASUREMENT STORED!
+ Total Measurements: 3963
+MEASUREMENT STORED!
+ Total Measurements: 3964
+MEASUREMENT STORED!
+ Total Measurements: 3965
+MEASUREMENT STORED!
+ Total Measurements: 3966
+MEASUREMENT STORED!
+ Total Measurements: 3967
+MEASUREMENT STORED!
+ Total Measurements: 3968
+MEASUREMENT STORED!
+ Total Measurements: 3969
+MEASUREMENT STORED!
+ Total Measurements: 3970
+MEASUREMENT STORED!
+ Total Measurements: 3971
+MEASUREMENT STORED!
+ Total Measurements: 3972
+MEASUREMENT STORED!
+ Total Measurements: 3973
+MEASUREMENT STORED!
+ Total Measurements: 3974
+MEASUREMENT STORED!
+ Total Measurements: 3975
+MEASUREMENT STORED!
+ Total Measurements: 3976
+MEASUREMENT STORED!
+ Total Measurements: 3977
+MEASUREMENT STORED!
+ Total Measurements: 3978
+MEASUREMENT STORED!
+ Total Measurements: 3979
+MEASUREMENT STORED!
+ Total Measurements: 3980
+MEASUREMENT STORED!
+ Total Measurements: 3981
+MEASUREMENT STORED!
+ Total Measurements: 3982
+MEASUREMENT STORED!
+ Total Measurements: 3983
+MEASUREMENT STORED!
+ Total Measurements: 3984
+MEASUREMENT STORED!
+ Total Measurements: 3985
+MEASUREMENT STORED!
+ Total Measurements: 3986
+MEASUREMENT STORED!
+ Total Measurements: 3987
+MEASUREMENT STORED!
+ Total Measurements: 3988
+MEASUREMENT STORED!
+ Total Measurements: 3989
+MEASUREMENT STORED!
+ Total Measurements: 3990
+MEASUREMENT STORED!
+ Total Measurements: 3991
+MEASUREMENT STORED!
+ Total Measurements: 3992
+MEASUREMENT STORED!
+ Total Measurements: 3993
+MEASUREMENT STORED!
+ Total Measurements: 3994
+MEASUREMENT STORED!
+ Total Measurements: 3995
+MEASUREMENT STORED!
+ Total Measurements: 3996
+MEASUREMENT STORED!
+ Total Measurements: 3997
+MEASUREMENT STORED!
+ Total Measurements: 3998
+MEASUREMENT STORED!
+ Total Measurements: 3999
+MEASUREMENT STORED!
+ Total Measurements: 4000
+MEASUREMENT STORED!
+ Total Measurements: 4001
+MEASUREMENT STORED!
+ Total Measurements: 4002
+MEASUREMENT STORED!
+ Total Measurements: 4003
+MEASUREMENT STORED!
+ Total Measurements: 4004
+MEASUREMENT STORED!
+ Total Measurements: 4005
+MEASUREMENT STORED!
+ Total Measurements: 4006
+MEASUREMENT STORED!
+ Total Measurements: 4007
+MEASUREMENT STORED!
+ Total Measurements: 4008
+MEASUREMENT STORED!
+ Total Measurements: 4009
+MEASUREMENT STORED!
+ Total Measurements: 4010
+MEASUREMENT STORED!
+ Total Measurements: 4011
+MEASUREMENT STORED!
+ Total Measurements: 4012
+MEASUREMENT STORED!
+ Total Measurements: 4013
+MEASUREMENT STORED!
+ Total Measurements: 4014
+MEASUREMENT STORED!
+ Total Measurements: 4015
+MEASUREMENT STORED!
+ Total Measurements: 4016
+MEASUREMENT STORED!
+ Total Measurements: 4017
+MEASUREMENT STORED!
+ Total Measurements: 4018
+MEASUREMENT STORED!
+ Total Measurements: 4019
+MEASUREMENT STORED!
+ Total Measurements: 4020
+MEASUREMENT STORED!
+ Total Measurements: 4021
+MEASUREMENT STORED!
+ Total Measurements: 4022
+MEASUREMENT STORED!
+ Total Measurements: 4023
+MEASUREMENT STORED!
+ Total Measurements: 4024
+MEASUREMENT STORED!
+ Total Measurements: 4025
+MEASUREMENT STORED!
+ Total Measurements: 4026
+MEASUREMENT STORED!
+ Total Measurements: 4027
+MEASUREMENT STORED!
+ Total Measurements: 4028
+MEASUREMENT STORED!
+ Total Measurements: 4029
+MEASUREMENT STORED!
+ Total Measurements: 4030
+MEASUREMENT STORED!
+ Total Measurements: 4031
+MEASUREMENT STORED!
+ Total Measurements: 4032
+MEASUREMENT STORED!
+ Total Measurements: 4033
+MEASUREMENT STORED!
+ Total Measurements: 4034
+MEASUREMENT STORED!
+ Total Measurements: 4035
+MEASUREMENT STORED!
+ Total Measurements: 4036
+MEASUREMENT STORED!
+ Total Measurements: 4037
+MEASUREMENT STORED!
+ Total Measurements: 4038
+MEASUREMENT STORED!
+ Total Measurements: 4039
+MEASUREMENT STORED!
+ Total Measurements: 4040
+MEASUREMENT STORED!
+ Total Measurements: 4041
+MEASUREMENT STORED!
+ Total Measurements: 4042
+MEASUREMENT STORED!
+ Total Measurements: 4043
